@@ -1,0 +1,43 @@
+{
+  "wpm_overall": 156.3,
+  "wpm_by_minute": [
+    156.3
+  ],
+  "filler": {
+    "count": 1,
+    "per_min": 5.4,
+    "words": {
+      "like": 1
+    },
+    "timestamps": [
+      3.7
+    ]
+  },
+  "pauses": {
+    "count": 0,
+    "list": [],
+    "mean_dur": 0.0,
+    "p90_dur": 0.0,
+    "deliberate_count": 0,
+    "anxious_gap_count": 0
+  },
+  "pitch": {
+    "mean_hz": 133.7,
+    "sd_hz": 53.8,
+    "range_hz": [
+      90,
+      260
+    ],
+    "variance_score_0to100": 100,
+    "sentence_final_drop_pct": 75
+  },
+  "intensity": {
+    "mean_db": 51.5,
+    "sd_db": 21.2,
+    "trail_off_sentences_pct": 0
+  },
+  "steadiness": {
+    "jitter_local_pct": 3.09,
+    "shimmer_local_pct": 17.71
+  }
+}
