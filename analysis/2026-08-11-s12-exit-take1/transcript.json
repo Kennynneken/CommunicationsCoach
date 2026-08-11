@@ -1,0 +1,85 @@
+{
+  "language": "en",
+  "duration_s": 5.91,
+  "words": [
+    {
+      "w": "I",
+      "start": 1.33,
+      "end": 1.79,
+      "p": 0.74
+    },
+    {
+      "w": "don't",
+      "start": 1.79,
+      "end": 1.97,
+      "p": 0.99
+    },
+    {
+      "w": "try",
+      "start": 1.97,
+      "end": 2.25,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 2.25,
+      "end": 2.35,
+      "p": 1.0
+    },
+    {
+      "w": "be",
+      "start": 2.35,
+      "end": 2.51,
+      "p": 1.0
+    },
+    {
+      "w": "good.",
+      "start": 2.51,
+      "end": 2.71,
+      "p": 1.0
+    },
+    {
+      "w": "I",
+      "start": 2.93,
+      "end": 3.05,
+      "p": 0.99
+    },
+    {
+      "w": "really",
+      "start": 3.05,
+      "end": 3.69,
+      "p": 0.84
+    },
+    {
+      "w": "try",
+      "start": 3.69,
+      "end": 3.91,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 3.91,
+      "end": 4.03,
+      "p": 1.0
+    },
+    {
+      "w": "be",
+      "start": 4.03,
+      "end": 4.15,
+      "p": 1.0
+    },
+    {
+      "w": "real.",
+      "start": 4.15,
+      "end": 4.57,
+      "p": 0.98
+    }
+  ],
+  "segments": [
+    {
+      "text": "I don't try to be good. I really try to be real.",
+      "start": 1.33,
+      "end": 4.57
+    }
+  ]
+}

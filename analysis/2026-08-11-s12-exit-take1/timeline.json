@@ -1,0 +1,73 @@
+{
+  "duration_s": 5.91,
+  "has_video": true,
+  "timeline": [
+    {
+      "t": 0,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 39.8,
+      "uprightness": 0.79,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 1,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 27.5,
+      "intensity": 50.6,
+      "uprightness": 0.85,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 2,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 72.5,
+      "intensity": 63.8,
+      "uprightness": 0.82,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 3,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 43.0,
+      "intensity": 62.8,
+      "uprightness": 0.79,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 4,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 16.1,
+      "intensity": 60.0,
+      "uprightness": 0.79,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 5,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": 0.6,
+      "intensity": 49.0,
+      "uprightness": 0.69,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    }
+  ],
+  "incongruence_flags": []
+}
