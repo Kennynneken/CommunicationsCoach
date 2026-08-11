@@ -59,6 +59,21 @@ python3 analysis/score_history.py --trend
 
 Or ask Claude Code: "show my score trend."
 
+## Practicing without a live event
+
+You don't have to wait for a real conversation to get scored. `scenarios/`
+holds practice decks — situation cards with the autopilot version, the move,
+lines to keep in the pocket, and the metric each one is judged on. Pick a card,
+record 60–90 seconds of yourself running it, and put the take through the same
+loop:
+
+```
+sessions/2026-08-14-s7-big-fish-take1.m4a   →   context: networking
+```
+
+Naming the file with the scenario number keeps that situation's trend readable
+in `reports/` separately from your context-wide average.
+
 ## Tips for useful recordings
 
 - 1–5 minutes is the sweet spot; the pipeline handles longer fine.

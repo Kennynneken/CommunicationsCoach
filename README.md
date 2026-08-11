@@ -35,4 +35,5 @@ specific drill for the next round.
 - `setup.sh` — full environment setup (also the cloud env setup script)
 - `pipeline/SPECS.md` — exact specs for every pipeline module
 - `rubrics/` — per-context scoring rubrics
+- `scenarios/` — practice decks (drillable situations + what gets scored)
 - `sessions/` → `analysis/` → `reports/` — the data flow
