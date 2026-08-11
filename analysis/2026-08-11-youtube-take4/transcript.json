@@ -1,0 +1,611 @@
+{
+  "language": "en",
+  "duration_s": 42.86,
+  "words": [
+    {
+      "w": "Failure",
+      "start": 1.49,
+      "end": 2.41,
+      "p": 0.91
+    },
+    {
+      "w": "is",
+      "start": 2.41,
+      "end": 2.83,
+      "p": 0.98
+    },
+    {
+      "w": "not",
+      "start": 2.83,
+      "end": 3.03,
+      "p": 0.98
+    },
+    {
+      "w": "the",
+      "start": 3.03,
+      "end": 3.21,
+      "p": 0.99
+    },
+    {
+      "w": "problem.",
+      "start": 3.21,
+      "end": 3.75,
+      "p": 1.0
+    },
+    {
+      "w": "You",
+      "start": 4.29,
+      "end": 4.99,
+      "p": 0.87
+    },
+    {
+      "w": "are",
+      "start": 4.99,
+      "end": 5.69,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 5.69,
+      "end": 5.85,
+      "p": 1.0
+    },
+    {
+      "w": "problem.",
+      "start": 5.85,
+      "end": 6.35,
+      "p": 1.0
+    },
+    {
+      "w": "Let",
+      "start": 7.31,
+      "end": 7.75,
+      "p": 0.97
+    },
+    {
+      "w": "me",
+      "start": 7.75,
+      "end": 7.89,
+      "p": 1.0
+    },
+    {
+      "w": "explain.",
+      "start": 7.89,
+      "end": 8.75,
+      "p": 0.99
+    },
+    {
+      "w": "Because",
+      "start": 9.63,
+      "end": 9.95,
+      "p": 0.93
+    },
+    {
+      "w": "I",
+      "start": 9.95,
+      "end": 10.15,
+      "p": 0.97
+    },
+    {
+      "w": "think",
+      "start": 10.15,
+      "end": 10.37,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 10.37,
+      "end": 10.57,
+      "p": 0.92
+    },
+    {
+      "w": "there's",
+      "start": 10.57,
+      "end": 10.77,
+      "p": 0.93
+    },
+    {
+      "w": "a",
+      "start": 10.77,
+      "end": 10.87,
+      "p": 0.98
+    },
+    {
+      "w": "part",
+      "start": 10.87,
+      "end": 11.21,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 11.21,
+      "end": 11.39,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 11.39,
+      "end": 11.67,
+      "p": 1.0
+    },
+    {
+      "w": "with",
+      "start": 11.67,
+      "end": 12.41,
+      "p": 0.95
+    },
+    {
+      "w": "the",
+      "start": 12.41,
+      "end": 12.57,
+      "p": 0.32
+    },
+    {
+      "w": "hidden",
+      "start": 12.57,
+      "end": 12.79,
+      "p": 0.99
+    },
+    {
+      "w": "power,",
+      "start": 12.79,
+      "end": 13.41,
+      "p": 1.0
+    },
+    {
+      "w": "a",
+      "start": 13.95,
+      "end": 14.15,
+      "p": 0.82
+    },
+    {
+      "w": "hidden",
+      "start": 14.15,
+      "end": 14.33,
+      "p": 1.0
+    },
+    {
+      "w": "strength,",
+      "start": 14.33,
+      "end": 15.17,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 15.45,
+      "end": 15.91,
+      "p": 0.99
+    },
+    {
+      "w": "realizes",
+      "start": 15.91,
+      "end": 16.57,
+      "p": 0.98
+    },
+    {
+      "w": "that",
+      "start": 16.57,
+      "end": 17.15,
+      "p": 0.99
+    },
+    {
+      "w": "there",
+      "start": 17.15,
+      "end": 17.35,
+      "p": 1.0
+    },
+    {
+      "w": "is",
+      "start": 17.35,
+      "end": 17.55,
+      "p": 0.98
+    },
+    {
+      "w": "no",
+      "start": 17.55,
+      "end": 17.95,
+      "p": 1.0
+    },
+    {
+      "w": "such",
+      "start": 17.95,
+      "end": 18.39,
+      "p": 1.0
+    },
+    {
+      "w": "thing",
+      "start": 18.39,
+      "end": 18.89,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 18.89,
+      "end": 19.28,
+      "p": 1.0
+    },
+    {
+      "w": "failure.",
+      "start": 19.81,
+      "end": 20.33,
+      "p": 0.98
+    },
+    {
+      "w": "There's",
+      "start": 20.55,
+      "end": 20.79,
+      "p": 0.96
+    },
+    {
+      "w": "no",
+      "start": 20.79,
+      "end": 21.01,
+      "p": 1.0
+    },
+    {
+      "w": "such",
+      "start": 21.01,
+      "end": 21.33,
+      "p": 1.0
+    },
+    {
+      "w": "thing",
+      "start": 21.33,
+      "end": 21.59,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 21.59,
+      "end": 21.79,
+      "p": 1.0
+    },
+    {
+      "w": "catastrophe.",
+      "start": 21.79,
+      "end": 22.59,
+      "p": 0.97
+    },
+    {
+      "w": "Because",
+      "start": 23.17,
+      "end": 23.83,
+      "p": 0.99
+    },
+    {
+      "w": "what",
+      "start": 23.83,
+      "end": 24.23,
+      "p": 0.98
+    },
+    {
+      "w": "might",
+      "start": 24.23,
+      "end": 24.49,
+      "p": 0.98
+    },
+    {
+      "w": "look",
+      "start": 24.49,
+      "end": 24.87,
+      "p": 1.0
+    },
+    {
+      "w": "like",
+      "start": 24.87,
+      "end": 25.19,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 25.19,
+      "end": 25.65,
+      "p": 0.97
+    },
+    {
+      "w": "another",
+      "start": 25.65,
+      "end": 26.01,
+      "p": 1.0
+    },
+    {
+      "w": "person",
+      "start": 26.01,
+      "end": 26.55,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 26.55,
+      "end": 26.77,
+      "p": 0.98
+    },
+    {
+      "w": "catastrophe,",
+      "start": 26.77,
+      "end": 27.51,
+      "p": 0.61
+    },
+    {
+      "w": "you",
+      "start": 27.51,
+      "end": 28.43,
+      "p": 0.59
+    },
+    {
+      "w": "could",
+      "start": 28.43,
+      "end": 28.65,
+      "p": 0.96
+    },
+    {
+      "w": "realize",
+      "start": 28.65,
+      "end": 29.11,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 29.11,
+      "end": 29.43,
+      "p": 0.97
+    },
+    {
+      "w": "is",
+      "start": 29.43,
+      "end": 29.67,
+      "p": 0.77
+    },
+    {
+      "w": "actually",
+      "start": 29.67,
+      "end": 30.09,
+      "p": 1.0
+    },
+    {
+      "w": "an",
+      "start": 30.09,
+      "end": 30.29,
+      "p": 0.99
+    },
+    {
+      "w": "opportunity",
+      "start": 30.29,
+      "end": 30.97,
+      "p": 1.0
+    },
+    {
+      "w": "for",
+      "start": 30.97,
+      "end": 31.61,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 31.61,
+      "end": 31.89,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 31.89,
+      "end": 32.45,
+      "p": 0.98
+    },
+    {
+      "w": "create",
+      "start": 32.45,
+      "end": 32.69,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 32.69,
+      "end": 32.85,
+      "p": 1.0
+    },
+    {
+      "w": "life",
+      "start": 32.85,
+      "end": 33.09,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 33.09,
+      "end": 33.27,
+      "p": 0.99
+    },
+    {
+      "w": "you",
+      "start": 33.27,
+      "end": 33.35,
+      "p": 1.0
+    },
+    {
+      "w": "desire,",
+      "start": 33.35,
+      "end": 33.85,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 34.21,
+      "end": 34.73,
+      "p": 0.99
+    },
+    {
+      "w": "pushes",
+      "start": 34.73,
+      "end": 35.05,
+      "p": 0.98
+    },
+    {
+      "w": "you",
+      "start": 35.05,
+      "end": 35.35,
+      "p": 1.0
+    },
+    {
+      "w": "forward",
+      "start": 35.35,
+      "end": 36.01,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 36.01,
+      "end": 36.77,
+      "p": 0.97
+    },
+    {
+      "w": "that",
+      "start": 36.77,
+      "end": 36.91,
+      "p": 0.99
+    },
+    {
+      "w": "dream",
+      "start": 36.91,
+      "end": 37.21,
+      "p": 0.99
+    },
+    {
+      "w": "life",
+      "start": 37.21,
+      "end": 37.45,
+      "p": 0.83
+    },
+    {
+      "w": "fantasy",
+      "start": 37.45,
+      "end": 38.05,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 38.05,
+      "end": 38.75,
+      "p": 0.96
+    },
+    {
+      "w": "you've",
+      "start": 38.75,
+      "end": 38.97,
+      "p": 0.99
+    },
+    {
+      "w": "always",
+      "start": 38.97,
+      "end": 39.13,
+      "p": 1.0
+    },
+    {
+      "w": "wanted.",
+      "start": 39.13,
+      "end": 39.51,
+      "p": 1.0
+    },
+    {
+      "w": "So",
+      "start": 40.25,
+      "end": 40.63,
+      "p": 0.98
+    },
+    {
+      "w": "here",
+      "start": 40.63,
+      "end": 40.91,
+      "p": 0.88
+    },
+    {
+      "w": "is",
+      "start": 40.91,
+      "end": 41.07,
+      "p": 0.71
+    },
+    {
+      "w": "how",
+      "start": 41.07,
+      "end": 41.21,
+      "p": 1.0
+    },
+    {
+      "w": "we're",
+      "start": 41.21,
+      "end": 41.35,
+      "p": 0.98
+    },
+    {
+      "w": "going",
+      "start": 41.35,
+      "end": 41.49,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 41.49,
+      "end": 41.67,
+      "p": 1.0
+    },
+    {
+      "w": "do",
+      "start": 41.67,
+      "end": 41.79,
+      "p": 1.0
+    },
+    {
+      "w": "that.",
+      "start": 41.79,
+      "end": 42.03,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Failure is not the problem. You are the problem.",
+      "start": 1.49,
+      "end": 6.35
+    },
+    {
+      "text": "Let me explain.",
+      "start": 7.31,
+      "end": 8.75
+    },
+    {
+      "text": "Because I think that there's a part of you with the hidden power, a hidden strength,",
+      "start": 9.63,
+      "end": 15.17
+    },
+    {
+      "text": "that realizes that there is no such thing as",
+      "start": 15.45,
+      "end": 19.28
+    },
+    {
+      "text": "failure. There's no such thing as catastrophe.",
+      "start": 19.81,
+      "end": 22.59
+    },
+    {
+      "text": "Because what might look like to another person as catastrophe,",
+      "start": 23.17,
+      "end": 27.51
+    },
+    {
+      "text": "you could realize that is actually an opportunity for you to create the life that you desire,",
+      "start": 27.51,
+      "end": 33.85
+    },
+    {
+      "text": "that pushes you forward to that dream life fantasy that you've always wanted.",
+      "start": 34.21,
+      "end": 39.51
+    },
+    {
+      "text": "So here is how we're going to do that.",
+      "start": 40.25,
+      "end": 42.03
+    }
+  ]
+}
