@@ -1,0 +1,121 @@
+{
+  "wpm_overall": 137.8,
+  "wpm_by_minute": [
+    129.0,
+    153.6
+  ],
+  "filler": {
+    "count": 3,
+    "per_min": 1.9,
+    "words": {
+      "like": 1,
+      "kind of": 1,
+      "i mean": 1
+    },
+    "timestamps": [
+      9.7,
+      18.5,
+      71.6
+    ]
+  },
+  "pauses": {
+    "count": 12,
+    "list": [
+      {
+        "start": 3.63,
+        "dur": 0.58,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 5.83,
+        "dur": 0.72,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 14.01,
+        "dur": 0.64,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 15.67,
+        "dur": 0.64,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 23.69,
+        "dur": 0.54,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 26.35,
+        "dur": 0.5,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 43.95,
+        "dur": 0.96,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 47.43,
+        "dur": 0.62,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 51.93,
+        "dur": 0.92,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 56.43,
+        "dur": 0.8,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 61.93,
+        "dur": 0.5,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 75.33,
+        "dur": 0.52,
+        "after_sentence_end": false,
+        "bridged_by_filler": false
+      }
+    ],
+    "mean_dur": 0.66,
+    "p90_dur": 0.92,
+    "deliberate_count": 2,
+    "anxious_gap_count": 7
+  },
+  "pitch": {
+    "mean_hz": 131.9,
+    "sd_hz": 57.3,
+    "range_hz": [
+      85,
+      273
+    ],
+    "variance_score_0to100": 100,
+    "sentence_final_drop_pct": 40
+  },
+  "intensity": {
+    "mean_db": 54.5,
+    "sd_db": 16.8,
+    "trail_off_sentences_pct": 0
+  },
+  "steadiness": {
+    "jitter_local_pct": 2.78,
+    "shimmer_local_pct": 17.35
+  }
+}

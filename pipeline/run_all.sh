@@ -56,16 +56,19 @@ run_stage() {
 echo "== [1/3] extract_audio =="
 run_stage extract_audio bash "$pipe/extract_audio.sh" "$media" "$outdir"
 
-# transcribe, vocal_metrics, and body_language are independent — run them
-# concurrently so wall clock is the slowest stage (transcribe), not the sum.
-echo "== [2/3] transcribe + vocal_metrics + body_language (parallel) =="
+# The audio chain (transcribe -> vocal_metrics, which reads transcript.json)
+# and body_language are independent — run the two concurrently so wall clock
+# is the slowest chain, not the sum of all stages.
+echo "== [2/3] (transcribe -> vocal_metrics) + body_language (parallel) =="
 has_video=$(python3 -c "import json;print(json.load(open('$outdir/media_info.json'))['has_video'])")
 
 t0=$(date +%s.%N)
-python3 "$pipe/transcribe.py" --input "$outdir/audio.wav" --outdir "$outdir" \
-  > "$outdir/.transcribe.log" 2>&1 & tpid=$!
-python3 "$pipe/vocal_metrics.py" --input "$outdir/audio.wav" --outdir "$outdir" \
-  > "$outdir/.vocal.log" 2>&1 & vpid=$!
+{
+  python3 "$pipe/transcribe.py" --input "$outdir/audio.wav" --outdir "$outdir" \
+    > "$outdir/.transcribe.log" 2>&1 &&
+  python3 "$pipe/vocal_metrics.py" --input "$outdir/audio.wav" --outdir "$outdir" \
+    > "$outdir/.vocal.log" 2>&1
+} & apid=$!
 bpid=""
 if [[ "$has_video" == "True" ]]; then
   python3 "$pipe/body_language.py" --input "$media" --outdir "$outdir" \
@@ -76,8 +79,8 @@ else
 fi
 
 fail=0
-wait "$tpid" || { echo "ERROR: transcribe failed:" >&2; cat "$outdir/.transcribe.log" >&2; fail=1; }
-wait "$vpid" || { echo "ERROR: vocal_metrics failed:" >&2; cat "$outdir/.vocal.log" >&2; fail=1; }
+wait "$apid" || { echo "ERROR: audio chain (transcribe/vocal_metrics) failed:" >&2
+                  cat "$outdir/.transcribe.log" "$outdir/.vocal.log" >&2 2>/dev/null; fail=1; }
 if [[ -n "$bpid" ]]; then
   wait "$bpid" || { echo "ERROR: body_language failed:" >&2; cat "$outdir/.body.log" >&2; fail=1; }
 fi
