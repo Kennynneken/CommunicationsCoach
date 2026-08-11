@@ -1,0 +1,11 @@
+# Raw media can be large — commit only if you want history of takes
+sessions/*.mp4
+sessions/*.mov
+sessions/*.m4a
+sessions/*.wav
+sessions/*.mp3
+!sessions/.gitkeep
+# Intermediate audio
+analysis/**/audio.wav
+__pycache__/
+*.pyc
