@@ -26,6 +26,22 @@ python3 -m pip install \
 # Optional, heavier: facial action units (Duchenne vs. social smile).
 # Uncomment when Phase 2 is stable — it pulls torch.
 # python3 -m pip install py-feat
+# (mediapipe >= 1.0 face-landmarker blendshapes already give a Duchenne proxy —
+#  mouthSmile + cheekSquint — so py-feat is only needed for research-grade AUs.)
+
+echo "== MediaPipe task models =="
+# mediapipe >= 1.0 removed the bundled legacy `solutions` API; the Tasks API
+# needs these model files. Downloaded once, cached in pipeline/models/.
+MODELS_DIR="$(cd "$(dirname "$0")" && pwd)/pipeline/models"
+mkdir -p "$MODELS_DIR"
+MP_BASE="https://storage.googleapis.com/mediapipe-models"
+[[ -s "$MODELS_DIR/pose_landmarker_lite.task" ]] || \
+  curl -sSL -o "$MODELS_DIR/pose_landmarker_lite.task" \
+    "$MP_BASE/pose_landmarker/pose_landmarker_lite/float16/latest/pose_landmarker_lite.task"
+[[ -s "$MODELS_DIR/face_landmarker.task" ]] || \
+  curl -sSL -o "$MODELS_DIR/face_landmarker.task" \
+    "$MP_BASE/face_landmarker/face_landmarker/float16/latest/face_landmarker.task"
+ls -la "$MODELS_DIR"
 
 echo "== Verify =="
 ffmpeg -version | head -n1

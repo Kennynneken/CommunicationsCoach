@@ -9,3 +9,5 @@ sessions/*.mp3
 analysis/**/audio.wav
 __pycache__/
 *.pyc
+# MediaPipe task models — fetched by setup.sh
+pipeline/models/*.task

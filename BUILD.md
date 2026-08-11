@@ -35,6 +35,14 @@ values (WPM between 60–220 on the TTS clip, pause list non-empty).
    If MediaPipe wheels fail in this environment, document the fallback
    (mediapipe-silicon / opencv DNN pose) in this file and implement it.
 
+   > **As built (2026-08):** mediapipe >= 1.0 removed the legacy `solutions`
+   > API, so this script uses the Tasks API (`PoseLandmarker` +
+   > `FaceLandmarker` with iris landmarks and blendshapes). The `.task` model
+   > files are fetched by `setup.sh` into `pipeline/models/` (gitignored).
+   > Bonus over the original spec: face blendshapes provide a Duchenne-smile
+   > proxy (mouthSmile + cheekSquint), so `duchenne_available` is true without
+   > py-feat.
+
 Verify: run on any short video with a person in frame (download a CC0 talking-head
 clip if none in `sessions/`); confirm posture/smile/gaze fields populate.
 
