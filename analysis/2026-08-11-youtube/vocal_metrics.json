@@ -1,0 +1,58 @@
+{
+  "wpm_overall": 174.7,
+  "wpm_by_minute": [
+    174.7
+  ],
+  "filler": {
+    "count": 0,
+    "per_min": 0.0,
+    "words": {},
+    "timestamps": []
+  },
+  "pauses": {
+    "count": 3,
+    "list": [
+      {
+        "start": 6.18,
+        "dur": 2.02,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 9.76,
+        "dur": 0.56,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      },
+      {
+        "start": 27.78,
+        "dur": 0.64,
+        "after_sentence_end": true,
+        "bridged_by_filler": false
+      }
+    ],
+    "mean_dur": 1.07,
+    "p90_dur": 2.02,
+    "deliberate_count": 1,
+    "anxious_gap_count": 0
+  },
+  "pitch": {
+    "mean_hz": 130.5,
+    "sd_hz": 60.5,
+    "range_hz": [
+      83,
+      315
+    ],
+    "variance_score_0to100": 100,
+    "sentence_final_drop_pct": 36
+  },
+  "intensity": {
+    "mean_db": 55.0,
+    "sd_db": 16.5,
+    "trail_off_sentences_pct": 9
+  },
+  "steadiness": {
+    "jitter_local_pct": 2.91,
+    "shimmer_local_pct": 17.45
+  }
+}
