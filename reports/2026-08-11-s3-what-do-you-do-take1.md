@@ -1,5 +1,11 @@
 # Coaching Report — 2026-08-11 — 2026-08-11-s3-what-do-you-do-take1.MOV
 
+> **Correction (added at session wrap).** The pipeline gained a `wpm_speaking`
+> metric after this report was written. This take's articulation rate was
+> **176.3 WPM**, not 141.8 — the headline figure was deflated by silence at the
+> edges of the clip. Still the slowest take of the session and still a real
+> improvement on take 2's 264, but it never reached the 110–150 power zone.
+
 **Scenario:** S3 — Dana closes the loop with *"So what do you do?"*
 **Context:** networking
 **Score: 63/100** ↑ *(vs. 57 take 2, 54 take 1)*

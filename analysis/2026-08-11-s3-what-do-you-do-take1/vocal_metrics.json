@@ -1,8 +1,15 @@
 {
   "wpm_overall": 141.8,
+  "wpm_speaking": 176.3,
   "wpm_by_minute": [
     141.8
   ],
+  "silence": {
+    "lead_in_s": 0.62,
+    "lead_out_s": 2.01,
+    "speech_span_s": 20.22,
+    "talking_s": 18.38
+  },
   "filler": {
     "count": 2,
     "per_min": 5.3,

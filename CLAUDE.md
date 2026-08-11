@@ -17,6 +17,14 @@ score-based coaching aimed at world-class historic levels of delivery.
    `reports/YYYY-MM-DD-<stem>.md` using the matching rubric in `rubrics/`.
 5. You commit reports so progress is tracked longitudinally in git history.
 
+**Before writing any report, read `coaching/kenny-patterns.md`** — his standing
+tells, what's been fixed, and what has never moved. Update it at the end of
+every session. Without it each session rediscovers habits already diagnosed.
+
+For live roleplay sessions — the coach sets a scene, Kenny records his response,
+score, then the scene advances — follow `docs/ROLEPLAY.md`. That mode has been
+the highest-yield use of this repo so far. Practice scenes live in `scenarios/`.
+
 If the pipeline or environment is missing, follow `BUILD.md` to build it first.
 
 ## The scoring scale (1–100)
@@ -85,6 +93,11 @@ emotional experience it creates.
    variance, pause distribution, posture trajectory, smile %, gaze stability)
    and interpret them against the rubric. Metrics are evidence, not the verdict;
    the same long pause is commanding in a speech and awkward in small talk.
+   **Always quote `wpm_speaking`, never `wpm_overall`.** On short clips a held
+   breath before the first word deflates the wall-clock figure enough to invert
+   the finding — a take reading 122 WPM was actually articulating at 222.
+   `wpm_overall` describes the clip; `wpm_speaking` describes him. Report
+   `silence.lead_in_s` separately as the composure signal it is.
 3. **What landed** — 2–3 genuine strengths, tied to timestamps.
 4. **What to fix** — a short list, each tied to a timestamp or metric.
 5. **THE ONE THING** — a single, specific, drillable instruction for the next
