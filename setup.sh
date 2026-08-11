@@ -43,6 +43,15 @@ MP_BASE="https://storage.googleapis.com/mediapipe-models"
     "$MP_BASE/face_landmarker/face_landmarker/float16/latest/face_landmarker.task"
 ls -la "$MODELS_DIR"
 
+echo "== Whisper model pre-download =="
+# Pull the faster-whisper model into the HF cache now so the first pipeline
+# run doesn't pay the download (worth ~10s on the first coaching loop).
+python3 - <<'EOF'
+from faster_whisper import WhisperModel
+WhisperModel("small", device="cpu", compute_type="int8")
+print("whisper 'small' cached")
+EOF
+
 echo "== Verify =="
 ffmpeg -version | head -n1
 python3 - <<'EOF'

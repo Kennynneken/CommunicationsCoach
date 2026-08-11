@@ -11,3 +11,6 @@ __pycache__/
 *.pyc
 # MediaPipe task models — fetched by setup.sh
 pipeline/models/*.task
+# SessionStart hook runtime files
+.claude/setup.log
+.claude/.setup-running
