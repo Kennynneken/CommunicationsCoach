@@ -31,9 +31,14 @@ def main() -> int:
         print("ERROR: faster-whisper not installed — run setup.sh first.", file=sys.stderr)
         return 1
 
-    model = WhisperModel(args.model, device="cpu", compute_type="int8")
+    import os
+
+    threads = max(4, os.cpu_count() or 4)
+    model = WhisperModel(args.model, device="cpu", compute_type="int8", cpu_threads=threads)
+    # beam_size=1 (greedy): ~2x faster on CPU; timing accuracy matters more
+    # than transcription perfection for this pipeline.
     segments_iter, info = model.transcribe(
-        str(audio), word_timestamps=True, vad_filter=True
+        str(audio), word_timestamps=True, vad_filter=True, beam_size=1
     )
 
     words, segments = [], []
