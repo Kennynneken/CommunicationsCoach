@@ -1,0 +1,335 @@
+{
+  "language": "en",
+  "duration_s": 13.37,
+  "words": [
+    {
+      "w": "Yeah,",
+      "start": 0.34,
+      "end": 0.9,
+      "p": 0.91
+    },
+    {
+      "w": "I",
+      "start": 0.96,
+      "end": 1.04,
+      "p": 0.8
+    },
+    {
+      "w": "know",
+      "start": 1.04,
+      "end": 1.1,
+      "p": 0.98
+    },
+    {
+      "w": "I",
+      "start": 1.1,
+      "end": 1.22,
+      "p": 0.93
+    },
+    {
+      "w": "like",
+      "start": 1.22,
+      "end": 1.38,
+      "p": 0.98
+    },
+    {
+      "w": "to",
+      "start": 1.38,
+      "end": 1.46,
+      "p": 1.0
+    },
+    {
+      "w": "get",
+      "start": 1.46,
+      "end": 1.6,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 1.6,
+      "end": 1.74,
+      "p": 0.88
+    },
+    {
+      "w": "boring",
+      "start": 1.74,
+      "end": 2.18,
+      "p": 1.0
+    },
+    {
+      "w": "questions",
+      "start": 2.18,
+      "end": 2.74,
+      "p": 0.99
+    },
+    {
+      "w": "out",
+      "start": 2.74,
+      "end": 3.04,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 3.04,
+      "end": 3.12,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 3.12,
+      "end": 3.24,
+      "p": 1.0
+    },
+    {
+      "w": "way",
+      "start": 3.24,
+      "end": 3.44,
+      "p": 1.0
+    },
+    {
+      "w": "first.",
+      "start": 3.44,
+      "end": 3.78,
+      "p": 0.83
+    },
+    {
+      "w": "It's",
+      "start": 3.98,
+      "end": 4.04,
+      "p": 0.99
+    },
+    {
+      "w": "cool",
+      "start": 4.04,
+      "end": 4.2,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 4.2,
+      "end": 4.32,
+      "p": 0.94
+    },
+    {
+      "w": "you",
+      "start": 4.32,
+      "end": 4.38,
+      "p": 0.99
+    },
+    {
+      "w": "come",
+      "start": 4.38,
+      "end": 4.56,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 4.56,
+      "end": 4.64,
+      "p": 1.0
+    },
+    {
+      "w": "these",
+      "start": 4.64,
+      "end": 4.82,
+      "p": 1.0
+    },
+    {
+      "w": "every",
+      "start": 4.82,
+      "end": 4.98,
+      "p": 1.0
+    },
+    {
+      "w": "quarter",
+      "start": 4.98,
+      "end": 5.32,
+      "p": 1.0
+    },
+    {
+      "w": "This",
+      "start": 5.32,
+      "end": 5.76,
+      "p": 0.68
+    },
+    {
+      "w": "is",
+      "start": 5.76,
+      "end": 5.86,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 5.86,
+      "end": 5.96,
+      "p": 1.0
+    },
+    {
+      "w": "first",
+      "start": 5.96,
+      "end": 6.16,
+      "p": 1.0
+    },
+    {
+      "w": "one",
+      "start": 6.16,
+      "end": 6.36,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 6.36,
+      "end": 6.46,
+      "p": 1.0
+    },
+    {
+      "w": "I'm",
+      "start": 6.46,
+      "end": 6.68,
+      "p": 1.0
+    },
+    {
+      "w": "coming",
+      "start": 6.68,
+      "end": 6.94,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 6.94,
+      "end": 7.22,
+      "p": 0.99
+    },
+    {
+      "w": "Anything",
+      "start": 8.12,
+      "end": 8.48,
+      "p": 0.53
+    },
+    {
+      "w": "exciting",
+      "start": 8.48,
+      "end": 8.84,
+      "p": 0.99
+    },
+    {
+      "w": "going",
+      "start": 8.84,
+      "end": 9.2,
+      "p": 1.0
+    },
+    {
+      "w": "on",
+      "start": 9.2,
+      "end": 9.48,
+      "p": 1.0
+    },
+    {
+      "w": "after",
+      "start": 9.48,
+      "end": 9.72,
+      "p": 1.0
+    },
+    {
+      "w": "these",
+      "start": 9.72,
+      "end": 9.98,
+      "p": 0.99
+    },
+    {
+      "w": "any",
+      "start": 9.98,
+      "end": 10.24,
+      "p": 0.65
+    },
+    {
+      "w": "after",
+      "start": 10.24,
+      "end": 10.8,
+      "p": 0.98
+    },
+    {
+      "w": "parties",
+      "start": 10.8,
+      "end": 11.18,
+      "p": 0.86
+    },
+    {
+      "w": "or",
+      "start": 11.18,
+      "end": 11.42,
+      "p": 0.99
+    },
+    {
+      "w": "anything",
+      "start": 11.42,
+      "end": 11.6,
+      "p": 1.0
+    },
+    {
+      "w": "like",
+      "start": 11.6,
+      "end": 11.92,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 11.92,
+      "end": 12.12,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 12.12,
+      "end": 12.28,
+      "p": 0.98
+    },
+    {
+      "w": "you'd",
+      "start": 12.28,
+      "end": 12.42,
+      "p": 0.91
+    },
+    {
+      "w": "like",
+      "start": 12.42,
+      "end": 12.54,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 12.54,
+      "end": 12.7,
+      "p": 1.0
+    },
+    {
+      "w": "go",
+      "start": 12.7,
+      "end": 12.86,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 12.86,
+      "end": 13.04,
+      "p": 0.98
+    }
+  ],
+  "segments": [
+    {
+      "text": "Yeah, I know I like to get the boring questions out of the way first. It's cool that you come to these every quarter",
+      "start": 0.34,
+      "end": 5.32
+    },
+    {
+      "text": "This is the first one that I'm coming to",
+      "start": 5.32,
+      "end": 7.22
+    },
+    {
+      "text": "Anything exciting going on after these any after parties or anything like that that you'd like to go to",
+      "start": 8.12,
+      "end": 13.04
+    }
+  ]
+}
