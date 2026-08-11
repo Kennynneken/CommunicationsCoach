@@ -4,6 +4,12 @@ sessions/*.mov
 sessions/*.m4a
 sessions/*.wav
 sessions/*.mp3
+# same extensions, uppercase (iPhone writes .MOV)
+sessions/*.MP4
+sessions/*.MOV
+sessions/*.M4A
+sessions/*.WAV
+sessions/*.MP3
 !sessions/.gitkeep
 # Intermediate audio
 analysis/**/audio.wav
