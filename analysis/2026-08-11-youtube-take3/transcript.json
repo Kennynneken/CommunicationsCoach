@@ -1,0 +1,1678 @@
+{
+  "language": "en",
+  "duration_s": 110.68,
+  "words": [
+    {
+      "w": "Failure",
+      "start": 1.23,
+      "end": 2.09,
+      "p": 0.96
+    },
+    {
+      "w": "is",
+      "start": 2.09,
+      "end": 2.61,
+      "p": 0.98
+    },
+    {
+      "w": "not",
+      "start": 2.61,
+      "end": 2.79,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 2.79,
+      "end": 2.95,
+      "p": 0.99
+    },
+    {
+      "w": "problem.",
+      "start": 2.95,
+      "end": 3.41,
+      "p": 1.0
+    },
+    {
+      "w": "You",
+      "start": 3.91,
+      "end": 4.41,
+      "p": 0.96
+    },
+    {
+      "w": "could",
+      "start": 4.41,
+      "end": 5.03,
+      "p": 0.99
+    },
+    {
+      "w": "be",
+      "start": 5.03,
+      "end": 5.21,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 5.21,
+      "end": 5.35,
+      "p": 1.0
+    },
+    {
+      "w": "problem.",
+      "start": 5.35,
+      "end": 5.75,
+      "p": 1.0
+    },
+    {
+      "w": "Let",
+      "start": 7.23,
+      "end": 7.87,
+      "p": 0.98
+    },
+    {
+      "w": "me",
+      "start": 7.87,
+      "end": 7.99,
+      "p": 1.0
+    },
+    {
+      "w": "explain",
+      "start": 7.99,
+      "end": 8.55,
+      "p": 1.0
+    },
+    {
+      "w": "really",
+      "start": 8.55,
+      "end": 8.83,
+      "p": 0.97
+    },
+    {
+      "w": "quickly.",
+      "start": 8.83,
+      "end": 9.23,
+      "p": 1.0
+    },
+    {
+      "w": "Because",
+      "start": 9.75,
+      "end": 10.07,
+      "p": 0.93
+    },
+    {
+      "w": "I",
+      "start": 10.07,
+      "end": 10.27,
+      "p": 0.96
+    },
+    {
+      "w": "think",
+      "start": 10.27,
+      "end": 10.45,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 10.45,
+      "end": 10.65,
+      "p": 0.95
+    },
+    {
+      "w": "there",
+      "start": 10.65,
+      "end": 10.83,
+      "p": 0.99
+    },
+    {
+      "w": "is",
+      "start": 10.83,
+      "end": 10.97,
+      "p": 0.96
+    },
+    {
+      "w": "a",
+      "start": 10.97,
+      "end": 11.09,
+      "p": 0.99
+    },
+    {
+      "w": "part",
+      "start": 11.09,
+      "end": 11.45,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 11.45,
+      "end": 11.69,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 11.69,
+      "end": 11.95,
+      "p": 1.0
+    },
+    {
+      "w": "hidden",
+      "start": 11.95,
+      "end": 12.61,
+      "p": 0.9
+    },
+    {
+      "w": "deep",
+      "start": 12.61,
+      "end": 12.91,
+      "p": 1.0
+    },
+    {
+      "w": "inside",
+      "start": 12.91,
+      "end": 13.39,
+      "p": 1.0
+    },
+    {
+      "w": "with",
+      "start": 13.39,
+      "end": 13.63,
+      "p": 0.89
+    },
+    {
+      "w": "the",
+      "start": 13.63,
+      "end": 13.83,
+      "p": 0.91
+    },
+    {
+      "w": "hidden",
+      "start": 13.83,
+      "end": 14.11,
+      "p": 1.0
+    },
+    {
+      "w": "strength.",
+      "start": 14.11,
+      "end": 14.95,
+      "p": 0.98
+    },
+    {
+      "w": "The",
+      "start": 15.53,
+      "end": 15.89,
+      "p": 0.98
+    },
+    {
+      "w": "ability",
+      "start": 15.89,
+      "end": 16.45,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 16.45,
+      "end": 17.35,
+      "p": 0.98
+    },
+    {
+      "w": "create",
+      "start": 17.35,
+      "end": 17.85,
+      "p": 1.0
+    },
+    {
+      "w": "whatever",
+      "start": 17.85,
+      "end": 18.27,
+      "p": 0.99
+    },
+    {
+      "w": "kind",
+      "start": 18.27,
+      "end": 18.71,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 18.71,
+      "end": 18.91,
+      "p": 1.0
+    },
+    {
+      "w": "life",
+      "start": 18.91,
+      "end": 19.19,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 19.19,
+      "end": 19.47,
+      "p": 0.97
+    },
+    {
+      "w": "you",
+      "start": 19.47,
+      "end": 19.65,
+      "p": 1.0
+    },
+    {
+      "w": "imagine,",
+      "start": 19.65,
+      "end": 20.23,
+      "p": 0.92
+    },
+    {
+      "w": "the",
+      "start": 20.41,
+      "end": 20.51,
+      "p": 0.98
+    },
+    {
+      "w": "life",
+      "start": 20.51,
+      "end": 20.83,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 20.83,
+      "end": 21.11,
+      "p": 0.99
+    },
+    {
+      "w": "you",
+      "start": 21.11,
+      "end": 21.29,
+      "p": 1.0
+    },
+    {
+      "w": "are",
+      "start": 21.29,
+      "end": 21.43,
+      "p": 0.96
+    },
+    {
+      "w": "meant",
+      "start": 21.43,
+      "end": 21.69,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 21.69,
+      "end": 21.93,
+      "p": 1.0
+    },
+    {
+      "w": "live",
+      "start": 21.93,
+      "end": 22.29,
+      "p": 1.0
+    },
+    {
+      "w": "and",
+      "start": 22.29,
+      "end": 22.93,
+      "p": 0.95
+    },
+    {
+      "w": "deserve",
+      "start": 22.93,
+      "end": 23.35,
+      "p": 0.98
+    },
+    {
+      "w": "where",
+      "start": 23.35,
+      "end": 23.63,
+      "p": 0.21
+    },
+    {
+      "w": "you",
+      "start": 23.63,
+      "end": 23.79,
+      "p": 1.0
+    },
+    {
+      "w": "have",
+      "start": 23.79,
+      "end": 24.09,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 24.09,
+      "end": 24.61,
+      "p": 0.99
+    },
+    {
+      "w": "relationships",
+      "start": 24.61,
+      "end": 25.31,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 25.31,
+      "end": 25.77,
+      "p": 0.99
+    },
+    {
+      "w": "you",
+      "start": 25.77,
+      "end": 25.85,
+      "p": 1.0
+    },
+    {
+      "w": "desire.",
+      "start": 25.85,
+      "end": 26.29,
+      "p": 1.0
+    },
+    {
+      "w": "Husband,",
+      "start": 26.97,
+      "end": 27.43,
+      "p": 0.51
+    },
+    {
+      "w": "wife,",
+      "start": 27.79,
+      "end": 28.15,
+      "p": 0.97
+    },
+    {
+      "w": "boyfriend,",
+      "start": 28.61,
+      "end": 28.79,
+      "p": 0.98
+    },
+    {
+      "w": "girlfriend,",
+      "start": 29.23,
+      "end": 29.57,
+      "p": 0.95
+    },
+    {
+      "w": "they",
+      "start": 29.57,
+      "end": 29.89,
+      "p": 0.57
+    },
+    {
+      "w": "respect",
+      "start": 29.89,
+      "end": 30.49,
+      "p": 0.66
+    },
+    {
+      "w": "and",
+      "start": 30.49,
+      "end": 30.83,
+      "p": 0.98
+    },
+    {
+      "w": "love",
+      "start": 30.83,
+      "end": 31.15,
+      "p": 0.99
+    },
+    {
+      "w": "from",
+      "start": 31.15,
+      "end": 31.39,
+      "p": 0.97
+    },
+    {
+      "w": "them",
+      "start": 31.39,
+      "end": 31.75,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 31.75,
+      "end": 32.39,
+      "p": 0.58
+    },
+    {
+      "w": "makes",
+      "start": 32.39,
+      "end": 32.67,
+      "p": 0.97
+    },
+    {
+      "w": "you",
+      "start": 32.67,
+      "end": 32.83,
+      "p": 1.0
+    },
+    {
+      "w": "feel",
+      "start": 32.83,
+      "end": 33.09,
+      "p": 1.0
+    },
+    {
+      "w": "all",
+      "start": 33.09,
+      "end": 33.29,
+      "p": 0.82
+    },
+    {
+      "w": "ooey",
+      "start": 33.29,
+      "end": 33.75,
+      "p": 0.86
+    },
+    {
+      "w": "-gooey",
+      "start": 33.75,
+      "end": 34.19,
+      "p": 0.84
+    },
+    {
+      "w": "inside.",
+      "start": 34.19,
+      "end": 34.59,
+      "p": 0.99
+    },
+    {
+      "w": "I",
+      "start": 35.53,
+      "end": 36.17,
+      "p": 0.98
+    },
+    {
+      "w": "think",
+      "start": 36.17,
+      "end": 36.43,
+      "p": 0.96
+    },
+    {
+      "w": "that",
+      "start": 36.43,
+      "end": 36.65,
+      "p": 0.95
+    },
+    {
+      "w": "there's",
+      "start": 36.65,
+      "end": 36.89,
+      "p": 0.97
+    },
+    {
+      "w": "that",
+      "start": 36.89,
+      "end": 37.03,
+      "p": 1.0
+    },
+    {
+      "w": "power",
+      "start": 37.03,
+      "end": 37.41,
+      "p": 1.0
+    },
+    {
+      "w": "hidden",
+      "start": 37.41,
+      "end": 37.69,
+      "p": 1.0
+    },
+    {
+      "w": "inside",
+      "start": 37.69,
+      "end": 38.19,
+      "p": 1.0
+    },
+    {
+      "w": "and",
+      "start": 38.19,
+      "end": 38.37,
+      "p": 0.69
+    },
+    {
+      "w": "the",
+      "start": 38.37,
+      "end": 38.53,
+      "p": 1.0
+    },
+    {
+      "w": "key",
+      "start": 38.53,
+      "end": 38.83,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 38.83,
+      "end": 39.07,
+      "p": 1.0
+    },
+    {
+      "w": "attaining",
+      "start": 39.07,
+      "end": 39.45,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 39.45,
+      "end": 39.75,
+      "p": 1.0
+    },
+    {
+      "w": "power",
+      "start": 39.75,
+      "end": 40.11,
+      "p": 1.0
+    },
+    {
+      "w": "is",
+      "start": 40.11,
+      "end": 40.73,
+      "p": 0.93
+    },
+    {
+      "w": "this",
+      "start": 40.73,
+      "end": 40.91,
+      "p": 0.95
+    },
+    {
+      "w": "simple",
+      "start": 40.91,
+      "end": 41.25,
+      "p": 1.0
+    },
+    {
+      "w": "realization",
+      "start": 41.25,
+      "end": 41.89,
+      "p": 0.96
+    },
+    {
+      "w": "we're",
+      "start": 41.89,
+      "end": 42.31,
+      "p": 0.97
+    },
+    {
+      "w": "going",
+      "start": 42.31,
+      "end": 42.49,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 42.49,
+      "end": 42.65,
+      "p": 1.0
+    },
+    {
+      "w": "talk",
+      "start": 42.65,
+      "end": 42.93,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 42.93,
+      "end": 43.19,
+      "p": 1.0
+    },
+    {
+      "w": "today",
+      "start": 43.19,
+      "end": 43.57,
+      "p": 1.0
+    },
+    {
+      "w": "where",
+      "start": 43.57,
+      "end": 44.21,
+      "p": 0.74
+    },
+    {
+      "w": "you",
+      "start": 44.21,
+      "end": 44.35,
+      "p": 1.0
+    },
+    {
+      "w": "realize",
+      "start": 44.35,
+      "end": 44.95,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 44.95,
+      "end": 45.79,
+      "p": 0.99
+    },
+    {
+      "w": "there's",
+      "start": 45.79,
+      "end": 46.05,
+      "p": 0.99
+    },
+    {
+      "w": "no",
+      "start": 46.05,
+      "end": 46.27,
+      "p": 1.0
+    },
+    {
+      "w": "such",
+      "start": 46.27,
+      "end": 46.59,
+      "p": 1.0
+    },
+    {
+      "w": "thing",
+      "start": 46.59,
+      "end": 46.91,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 46.91,
+      "end": 47.15,
+      "p": 1.0
+    },
+    {
+      "w": "failure.",
+      "start": 47.15,
+      "end": 47.69,
+      "p": 0.96
+    },
+    {
+      "w": "There's",
+      "start": 48.61,
+      "end": 49.25,
+      "p": 0.99
+    },
+    {
+      "w": "no",
+      "start": 49.25,
+      "end": 49.43,
+      "p": 1.0
+    },
+    {
+      "w": "such",
+      "start": 49.43,
+      "end": 49.71,
+      "p": 1.0
+    },
+    {
+      "w": "thing",
+      "start": 49.71,
+      "end": 49.97,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 49.97,
+      "end": 50.27,
+      "p": 1.0
+    },
+    {
+      "w": "an",
+      "start": 50.27,
+      "end": 50.43,
+      "p": 1.0
+    },
+    {
+      "w": "obstacle.",
+      "start": 50.43,
+      "end": 51.25,
+      "p": 0.98
+    },
+    {
+      "w": "Because",
+      "start": 52.05,
+      "end": 52.39,
+      "p": 0.08
+    },
+    {
+      "w": "those",
+      "start": 52.39,
+      "end": 52.73,
+      "p": 0.87
+    },
+    {
+      "w": "obstacles",
+      "start": 52.73,
+      "end": 53.55,
+      "p": 0.98
+    },
+    {
+      "w": "that",
+      "start": 53.55,
+      "end": 53.87,
+      "p": 0.97
+    },
+    {
+      "w": "seem",
+      "start": 53.87,
+      "end": 54.29,
+      "p": 0.98
+    },
+    {
+      "w": "like",
+      "start": 54.29,
+      "end": 54.57,
+      "p": 1.0
+    },
+    {
+      "w": "failure,",
+      "start": 54.57,
+      "end": 55.11,
+      "p": 0.97
+    },
+    {
+      "w": "they",
+      "start": 55.61,
+      "end": 56.03,
+      "p": 0.96
+    },
+    {
+      "w": "are",
+      "start": 56.03,
+      "end": 56.39,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 56.39,
+      "end": 56.55,
+      "p": 0.99
+    },
+    {
+      "w": "opportunities",
+      "start": 56.55,
+      "end": 57.31,
+      "p": 0.98
+    },
+    {
+      "w": "in",
+      "start": 57.31,
+      "end": 57.79,
+      "p": 0.99
+    },
+    {
+      "w": "your",
+      "start": 57.79,
+      "end": 57.91,
+      "p": 1.0
+    },
+    {
+      "w": "life",
+      "start": 57.91,
+      "end": 58.31,
+      "p": 1.0
+    },
+    {
+      "w": "and",
+      "start": 58.31,
+      "end": 58.61,
+      "p": 0.16
+    },
+    {
+      "w": "the",
+      "start": 60.42,
+      "end": 60.58,
+      "p": 0.98
+    },
+    {
+      "w": "reason",
+      "start": 60.58,
+      "end": 61.14,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 61.14,
+      "end": 61.6,
+      "p": 0.99
+    },
+    {
+      "w": "this",
+      "start": 61.6,
+      "end": 61.84,
+      "p": 0.99
+    },
+    {
+      "w": "is",
+      "start": 61.84,
+      "end": 61.98,
+      "p": 1.0
+    },
+    {
+      "w": "so",
+      "start": 61.98,
+      "end": 62.28,
+      "p": 1.0
+    },
+    {
+      "w": "important",
+      "start": 62.28,
+      "end": 62.84,
+      "p": 1.0
+    },
+    {
+      "w": "is",
+      "start": 62.84,
+      "end": 63.0,
+      "p": 0.96
+    },
+    {
+      "w": "because",
+      "start": 63.0,
+      "end": 63.3,
+      "p": 0.98
+    },
+    {
+      "w": "if",
+      "start": 63.3,
+      "end": 63.92,
+      "p": 0.92
+    },
+    {
+      "w": "you",
+      "start": 63.92,
+      "end": 64.02,
+      "p": 1.0
+    },
+    {
+      "w": "believe",
+      "start": 64.02,
+      "end": 64.3,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 64.3,
+      "end": 64.5,
+      "p": 0.99
+    },
+    {
+      "w": "failure,",
+      "start": 64.5,
+      "end": 65.1,
+      "p": 0.99
+    },
+    {
+      "w": "if",
+      "start": 65.62,
+      "end": 65.84,
+      "p": 0.97
+    },
+    {
+      "w": "you",
+      "start": 65.84,
+      "end": 65.92,
+      "p": 1.0
+    },
+    {
+      "w": "believe",
+      "start": 65.92,
+      "end": 66.2,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 66.2,
+      "end": 66.36,
+      "p": 0.98
+    },
+    {
+      "w": "they're",
+      "start": 66.36,
+      "end": 66.5,
+      "p": 0.91
+    },
+    {
+      "w": "the",
+      "start": 66.5,
+      "end": 66.6,
+      "p": 1.0
+    },
+    {
+      "w": "obstacles",
+      "start": 66.6,
+      "end": 67.22,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 67.22,
+      "end": 67.56,
+      "p": 0.99
+    },
+    {
+      "w": "are",
+      "start": 67.56,
+      "end": 67.66,
+      "p": 1.0
+    },
+    {
+      "w": "holding",
+      "start": 67.66,
+      "end": 68.02,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 68.02,
+      "end": 68.3,
+      "p": 1.0
+    },
+    {
+      "w": "back,",
+      "start": 68.3,
+      "end": 68.84,
+      "p": 1.0
+    },
+    {
+      "w": "then",
+      "start": 68.94,
+      "end": 69.78,
+      "p": 0.96
+    },
+    {
+      "w": "you're",
+      "start": 69.78,
+      "end": 69.94,
+      "p": 0.99
+    },
+    {
+      "w": "going",
+      "start": 69.94,
+      "end": 70.02,
+      "p": 0.66
+    },
+    {
+      "w": "to",
+      "start": 70.02,
+      "end": 70.1,
+      "p": 1.0
+    },
+    {
+      "w": "have",
+      "start": 70.1,
+      "end": 70.32,
+      "p": 1.0
+    },
+    {
+      "w": "a",
+      "start": 70.32,
+      "end": 70.46,
+      "p": 1.0
+    },
+    {
+      "w": "really",
+      "start": 70.46,
+      "end": 70.76,
+      "p": 1.0
+    },
+    {
+      "w": "hard",
+      "start": 70.76,
+      "end": 71.12,
+      "p": 1.0
+    },
+    {
+      "w": "time",
+      "start": 71.12,
+      "end": 71.42,
+      "p": 1.0
+    },
+    {
+      "w": "creating",
+      "start": 71.42,
+      "end": 71.78,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 71.78,
+      "end": 72.1,
+      "p": 1.0
+    },
+    {
+      "w": "life.",
+      "start": 72.1,
+      "end": 72.46,
+      "p": 1.0
+    },
+    {
+      "w": "You're",
+      "start": 72.68,
+      "end": 72.98,
+      "p": 0.99
+    },
+    {
+      "w": "going",
+      "start": 72.98,
+      "end": 73.1,
+      "p": 0.94
+    },
+    {
+      "w": "to",
+      "start": 73.1,
+      "end": 73.16,
+      "p": 1.0
+    },
+    {
+      "w": "needlessly",
+      "start": 73.16,
+      "end": 73.76,
+      "p": 1.0
+    },
+    {
+      "w": "struggle",
+      "start": 73.76,
+      "end": 74.24,
+      "p": 1.0
+    },
+    {
+      "w": "for",
+      "start": 74.24,
+      "end": 74.52,
+      "p": 1.0
+    },
+    {
+      "w": "a",
+      "start": 74.52,
+      "end": 74.66,
+      "p": 1.0
+    },
+    {
+      "w": "very",
+      "start": 74.66,
+      "end": 75.08,
+      "p": 1.0
+    },
+    {
+      "w": "long",
+      "start": 75.08,
+      "end": 75.38,
+      "p": 1.0
+    },
+    {
+      "w": "time.",
+      "start": 75.38,
+      "end": 75.84,
+      "p": 1.0
+    },
+    {
+      "w": "So",
+      "start": 76.46,
+      "end": 77.06,
+      "p": 0.98
+    },
+    {
+      "w": "we're",
+      "start": 77.06,
+      "end": 77.22,
+      "p": 0.96
+    },
+    {
+      "w": "going",
+      "start": 77.22,
+      "end": 77.36,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 77.36,
+      "end": 77.5,
+      "p": 1.0
+    },
+    {
+      "w": "tap",
+      "start": 77.5,
+      "end": 77.78,
+      "p": 0.99
+    },
+    {
+      "w": "into",
+      "start": 77.78,
+      "end": 78.08,
+      "p": 0.99
+    },
+    {
+      "w": "what's",
+      "start": 78.08,
+      "end": 78.8,
+      "p": 0.99
+    },
+    {
+      "w": "called",
+      "start": 78.8,
+      "end": 79.02,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 79.02,
+      "end": 79.24,
+      "p": 0.89
+    },
+    {
+      "w": "mage.",
+      "start": 79.24,
+      "end": 80.0,
+      "p": 0.77
+    },
+    {
+      "w": "The",
+      "start": 80.0,
+      "end": 80.86,
+      "p": 0.71
+    },
+    {
+      "w": "mage",
+      "start": 80.86,
+      "end": 81.34,
+      "p": 0.8
+    },
+    {
+      "w": "is",
+      "start": 81.34,
+      "end": 81.48,
+      "p": 0.99
+    },
+    {
+      "w": "a",
+      "start": 81.48,
+      "end": 81.6,
+      "p": 0.88
+    },
+    {
+      "w": "part",
+      "start": 81.6,
+      "end": 81.82,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 81.82,
+      "end": 81.96,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 81.96,
+      "end": 82.06,
+      "p": 1.0
+    },
+    {
+      "w": "with",
+      "start": 82.06,
+      "end": 82.24,
+      "p": 0.97
+    },
+    {
+      "w": "that",
+      "start": 82.24,
+      "end": 82.42,
+      "p": 0.99
+    },
+    {
+      "w": "transformational",
+      "start": 82.42,
+      "end": 83.52,
+      "p": 0.99
+    },
+    {
+      "w": "power",
+      "start": 83.52,
+      "end": 84.18,
+      "p": 0.99
+    },
+    {
+      "w": "and",
+      "start": 84.18,
+      "end": 84.54,
+      "p": 0.31
+    },
+    {
+      "w": "the",
+      "start": 85.4,
+      "end": 85.52,
+      "p": 0.95
+    },
+    {
+      "w": "reason",
+      "start": 85.52,
+      "end": 85.72,
+      "p": 1.0
+    },
+    {
+      "w": "that's",
+      "start": 85.72,
+      "end": 86.02,
+      "p": 0.98
+    },
+    {
+      "w": "important",
+      "start": 86.02,
+      "end": 86.42,
+      "p": 1.0
+    },
+    {
+      "w": "is",
+      "start": 86.42,
+      "end": 86.62,
+      "p": 0.98
+    },
+    {
+      "w": "because",
+      "start": 86.62,
+      "end": 86.84,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 86.84,
+      "end": 87.06,
+      "p": 0.99
+    },
+    {
+      "w": "power",
+      "start": 87.06,
+      "end": 87.42,
+      "p": 1.0
+    },
+    {
+      "w": "doesn't",
+      "start": 87.42,
+      "end": 87.78,
+      "p": 1.0
+    },
+    {
+      "w": "come",
+      "start": 87.78,
+      "end": 88.0,
+      "p": 1.0
+    },
+    {
+      "w": "from",
+      "start": 88.0,
+      "end": 88.16,
+      "p": 1.0
+    },
+    {
+      "w": "something",
+      "start": 88.16,
+      "end": 88.56,
+      "p": 1.0
+    },
+    {
+      "w": "external.",
+      "start": 89.3,
+      "end": 89.66,
+      "p": 0.96
+    },
+    {
+      "w": "It",
+      "start": 90.14,
+      "end": 90.86,
+      "p": 0.99
+    },
+    {
+      "w": "doesn't",
+      "start": 90.86,
+      "end": 91.16,
+      "p": 1.0
+    },
+    {
+      "w": "come",
+      "start": 91.16,
+      "end": 91.36,
+      "p": 1.0
+    },
+    {
+      "w": "from",
+      "start": 91.36,
+      "end": 91.56,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 91.56,
+      "end": 91.74,
+      "p": 1.0
+    },
+    {
+      "w": "money,",
+      "start": 91.74,
+      "end": 92.16,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 92.66,
+      "end": 92.7,
+      "p": 0.99
+    },
+    {
+      "w": "relationships",
+      "start": 92.7,
+      "end": 93.44,
+      "p": 1.0
+    },
+    {
+      "w": "or",
+      "start": 93.44,
+      "end": 94.0,
+      "p": 0.69
+    },
+    {
+      "w": "the",
+      "start": 94.0,
+      "end": 94.1,
+      "p": 1.0
+    },
+    {
+      "w": "respect.",
+      "start": 94.1,
+      "end": 94.56,
+      "p": 1.0
+    },
+    {
+      "w": "The",
+      "start": 95.54,
+      "end": 96.12,
+      "p": 0.95
+    },
+    {
+      "w": "power",
+      "start": 96.12,
+      "end": 96.46,
+      "p": 1.0
+    },
+    {
+      "w": "comes",
+      "start": 96.46,
+      "end": 96.78,
+      "p": 1.0
+    },
+    {
+      "w": "from",
+      "start": 96.78,
+      "end": 97.06,
+      "p": 1.0
+    },
+    {
+      "w": "internal,",
+      "start": 97.06,
+      "end": 97.72,
+      "p": 0.97
+    },
+    {
+      "w": "that",
+      "start": 98.04,
+      "end": 98.06,
+      "p": 0.99
+    },
+    {
+      "w": "mage,",
+      "start": 98.06,
+      "end": 98.76,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 98.86,
+      "end": 99.24,
+      "p": 0.94
+    },
+    {
+      "w": "can",
+      "start": 99.24,
+      "end": 99.44,
+      "p": 1.0
+    },
+    {
+      "w": "transform",
+      "start": 99.44,
+      "end": 100.14,
+      "p": 1.0
+    },
+    {
+      "w": "something",
+      "start": 100.14,
+      "end": 100.84,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 100.84,
+      "end": 101.2,
+      "p": 1.0
+    },
+    {
+      "w": "somebody",
+      "start": 101.2,
+      "end": 102.1,
+      "p": 0.99
+    },
+    {
+      "w": "else",
+      "start": 102.1,
+      "end": 102.36,
+      "p": 1.0
+    },
+    {
+      "w": "would",
+      "start": 102.36,
+      "end": 102.54,
+      "p": 0.99
+    },
+    {
+      "w": "see",
+      "start": 102.54,
+      "end": 102.82,
+      "p": 1.0
+    },
+    {
+      "w": "as",
+      "start": 102.82,
+      "end": 103.18,
+      "p": 1.0
+    },
+    {
+      "w": "failure",
+      "start": 103.18,
+      "end": 104.0,
+      "p": 0.97
+    },
+    {
+      "w": "and",
+      "start": 104.0,
+      "end": 104.78,
+      "p": 0.92
+    },
+    {
+      "w": "transform",
+      "start": 104.78,
+      "end": 105.32,
+      "p": 0.99
+    },
+    {
+      "w": "it",
+      "start": 105.32,
+      "end": 105.54,
+      "p": 0.87
+    },
+    {
+      "w": "into",
+      "start": 105.54,
+      "end": 105.74,
+      "p": 0.99
+    },
+    {
+      "w": "your",
+      "start": 105.74,
+      "end": 105.96,
+      "p": 1.0
+    },
+    {
+      "w": "best",
+      "start": 105.96,
+      "end": 106.34,
+      "p": 1.0
+    },
+    {
+      "w": "opportunity,",
+      "start": 106.34,
+      "end": 107.16,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 107.66,
+      "end": 107.82,
+      "p": 0.99
+    },
+    {
+      "w": "opportunity",
+      "start": 107.82,
+      "end": 108.42,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 108.42,
+      "end": 108.78,
+      "p": 1.0
+    },
+    {
+      "w": "a",
+      "start": 108.78,
+      "end": 108.9,
+      "p": 1.0
+    },
+    {
+      "w": "lifetime.",
+      "start": 108.9,
+      "end": 109.34,
+      "p": 0.98
+    }
+  ],
+  "segments": [
+    {
+      "text": "Failure is not the problem. You could be the problem.",
+      "start": 1.23,
+      "end": 5.75
+    },
+    {
+      "text": "Let me explain really quickly.",
+      "start": 7.23,
+      "end": 9.23
+    },
+    {
+      "text": "Because I think that there is a part of you hidden deep inside with the hidden strength.",
+      "start": 9.75,
+      "end": 14.95
+    },
+    {
+      "text": "The ability to create whatever kind of life that you imagine, the life that you are meant to live and",
+      "start": 15.53,
+      "end": 22.93
+    },
+    {
+      "text": "deserve where you have the relationships that you desire.",
+      "start": 22.93,
+      "end": 26.29
+    },
+    {
+      "text": "Husband, wife, boyfriend, girlfriend, they respect and love from them that makes you feel all ooey-gooey inside.",
+      "start": 26.97,
+      "end": 34.59
+    },
+    {
+      "text": "I",
+      "start": 35.53,
+      "end": 36.17
+    },
+    {
+      "text": "think that there's that power hidden inside and the key to attaining that power is this simple",
+      "start": 36.17,
+      "end": 41.25
+    },
+    {
+      "text": "realization we're going to talk about today where you realize that there's no such thing as failure.",
+      "start": 41.25,
+      "end": 47.69
+    },
+    {
+      "text": "There's no such thing as an obstacle.",
+      "start": 48.61,
+      "end": 51.25
+    },
+    {
+      "text": "Because those obstacles that seem like failure,",
+      "start": 52.05,
+      "end": 55.11
+    },
+    {
+      "text": "they are the opportunities in your life and",
+      "start": 55.61,
+      "end": 58.61
+    },
+    {
+      "text": "the reason that this is so important is because if you believe in failure, if you believe that they're the",
+      "start": 60.42,
+      "end": 66.6
+    },
+    {
+      "text": "obstacles that are holding you back,",
+      "start": 66.6,
+      "end": 68.84
+    },
+    {
+      "text": "then you're going to have a really hard time creating that life. You're going to needlessly struggle for a very long time.",
+      "start": 68.94,
+      "end": 75.84
+    },
+    {
+      "text": "So we're going to tap into what's called the mage.",
+      "start": 76.46,
+      "end": 80.0
+    },
+    {
+      "text": "The mage is a part of you with that transformational power and",
+      "start": 80.0,
+      "end": 84.54
+    },
+    {
+      "text": "the reason that's important is because that power doesn't come from something",
+      "start": 85.4,
+      "end": 88.56
+    },
+    {
+      "text": "external. It doesn't come from the money, the relationships or the respect.",
+      "start": 89.3,
+      "end": 94.56
+    },
+    {
+      "text": "The power comes from internal, that mage, that can transform something that",
+      "start": 95.54,
+      "end": 101.2
+    },
+    {
+      "text": "somebody else would see as",
+      "start": 101.2,
+      "end": 103.18
+    },
+    {
+      "text": "failure and transform it into your best opportunity, the opportunity of a lifetime.",
+      "start": 103.18,
+      "end": 109.34
+    }
+  ]
+}
