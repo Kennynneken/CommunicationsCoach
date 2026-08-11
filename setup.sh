@@ -11,7 +11,8 @@ if command -v apt-get >/dev/null 2>&1; then
 fi
 
 echo "== Python packages =="
-python3 -m pip install --upgrade pip
+# pip may be distro-managed (RECORD file missing) — a failed self-upgrade is fine.
+python3 -m pip install --upgrade pip 2>/dev/null || echo "pip self-upgrade skipped (distro-managed); continuing with $(python3 -m pip --version)"
 python3 -m pip install \
   faster-whisper \
   praat-parselmouth \
