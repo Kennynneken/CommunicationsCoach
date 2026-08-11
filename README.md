@@ -8,6 +8,11 @@ specific drill for the next round.
 
 ## First run (bootstrapping)
 
+> **Status: DONE (2026-08-11).** The pipeline is built and verified through
+> the Phase 5 dry run — see `reports/2026-08-11-SAMPLE-*.md` for a worked
+> example report. New environments just need `bash setup.sh` (it is also the
+> Claude Code cloud environment setup script). Full usage: `docs/USAGE.md`.
+
 1. Push this repo to GitHub and open it in Claude Code (cloud). Point the
    environment setup at `setup.sh`.
 2. First message to Claude Code:
