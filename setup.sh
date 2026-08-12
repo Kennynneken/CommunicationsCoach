@@ -43,6 +43,19 @@ MP_BASE="https://storage.googleapis.com/mediapipe-models"
     "$MP_BASE/face_landmarker/face_landmarker/float16/latest/face_landmarker.task"
 ls -la "$MODELS_DIR"
 
+echo "== Whisper model (pre-download + warm) =="
+# Without this the FIRST take of every fresh container pays the model download
+# and a cold load inside the pipeline run — measured at ~42s versus ~2s warm.
+# Pulling it here moves that cost into environment setup, where nobody is
+# waiting on a score.
+python3 - <<'EOF'
+import os, time
+from faster_whisper import WhisperModel
+t = time.time()
+WhisperModel("small", device="cpu", compute_type="int8", cpu_threads=max(4, os.cpu_count() or 4))
+print(f"whisper 'small' ready in {time.time() - t:.1f}s")
+EOF
+
 echo "== Verify =="
 ffmpeg -version | head -n1
 python3 - <<'EOF'

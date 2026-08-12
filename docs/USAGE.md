@@ -101,3 +101,38 @@ flags three things: the **bottleneck** (weakest average), the **lowest ceiling**
 (the channel you've never once been good at), and your **strongest**. Two takes
 can score within 2 points of each other on the headline and have completely
 inverted profiles — the headline hides that; this doesn't.
+
+## Turnaround time
+
+Measured on this container (4 CPUs, ~10s clip), warm:
+
+| | before | after |
+|---|---|---|
+| first take of a session | up to ~50s (cold whisper load) | **~6s** (model pre-warmed at session start) |
+| every later take | ~7.6s | **~6.3s** |
+
+What changed:
+
+- **`.claude/hooks/session-start.sh`** runs `setup.sh` when anything is missing
+  and warms the whisper weights, in the background, at session start. Cold model
+  load measured 42s against 2s warm — that cost now lands before you've finished
+  recording, not after you've uploaded.
+- **`setup.sh` pre-downloads the whisper model**, so a fresh container pays for
+  it during environment setup rather than on your first take.
+- **`body_language` runs in parallel with `transcribe`.** Modest on a 4-core box
+  (~1.2s) because whisper already saturates the CPU; larger where there are
+  spare cores.
+- **Frame decoding skips what it doesn't sample** (`grab()` rather than
+  `read()`), 60% off decode time and it scales with clip length.
+- **`pipeline/digest.py`** prints transcript, vocal numbers, pause map, body
+  trajectory and incongruence flags at the end of every run, so scoring starts
+  from one block of output instead of several file reads.
+
+### One command from recording to digest
+
+```
+bash coach.sh /path/to/video.MOV networking --name s5-big-fish-take1
+```
+
+Copies the file into `sessions/` with today's date, runs the pipeline, prints
+the digest. Won't overwrite an existing take of the same name — it auto-suffixes.
