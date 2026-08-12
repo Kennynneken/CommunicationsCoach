@@ -82,3 +82,22 @@ in `reports/` separately from your context-wide average.
   melody, and transcript analysis carry the coaching.
 - Name files with a date and the scenario; the git history of `reports/`
   becomes your longitudinal progress record.
+
+## The dimension profile
+
+Every report scores eight dimensions alongside the headline number —
+confidence, warmth, body language, presence, verbal acuity, unexpectedness,
+curiosity and attunement. Definitions and calibration live in
+`rubrics/dimensions.md`. The headline score is the rubric-weighted verdict for
+the context; the dimensions tell you *which channel* carried the take and which
+one sank it.
+
+```
+python3 analysis/score_history.py --dimensions
+```
+
+That prints every take as a column, with min/max/average per dimension, and
+flags three things: the **bottleneck** (weakest average), the **lowest ceiling**
+(the channel you've never once been good at), and your **strongest**. Two takes
+can score within 2 points of each other on the headline and have completely
+inverted profiles — the headline hides that; this doesn't.

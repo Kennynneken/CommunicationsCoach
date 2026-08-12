@@ -9,6 +9,40 @@ Last updated: 2026-08-11 (networking roleplay, 8 takes)
 
 ---
 
+## Dimension profile (8 takes, `rubrics/dimensions.md`)
+
+`python3 analysis/score_history.py --dimensions`
+
+| Dimension | avg | best | worst | Read |
+|---|---|---|---|---|
+| Body language | **67** | 82 | 45 | Steadiest channel. Upright and still by default. |
+| Confidence | **65** | 84 | 42 | Climbed hard all session; now a strength. |
+| Unexpectedness | **63** | 82 | 45 | Spiky and real — the RDJ axis is genuinely available to him. |
+| Verbal acuity | **61** | 88 | 50 | All-or-nothing: one 88, everything else 50–66. |
+| Warmth | **59** | **74** | 35 | **Lowest ceiling of all eight — never once been warmer than 74.** |
+| Attunement | **54** | 84 | 38 | Wildly volatile; swings 46 points take to take. |
+| Curiosity | **52** | 90 | 20 | The widest range in the profile (70 points). |
+| Presence | **45** | 78 | 25 | **The bottleneck.** Only one take above 55. |
+
+Three structural facts this exposes:
+
+1. **Presence is the bottleneck** (avg 45), and the tool found it independently
+   of the pause analysis. Everything else is downstream of talking too fast to
+   hear himself.
+2. **Warmth has the lowest ceiling** (74). Every other dimension has cleared 78
+   at least once; warmth never has. He is *capable* of warmth — Duchenne
+   proportion is 84–100% — but he has never sustained it through a whole take.
+   This is the quietest problem in the profile and probably the most important
+   one after presence.
+3. **He trades channels instead of stacking them.** Take 8 posted verbal 88 /
+   confidence 84 / unexpected 82 while curiosity fell to 20, warmth to 35,
+   attunement to 38 and body to 45. Take 7 was the inverse: curiosity 90 /
+   attunement 84 / body 82 / presence 78, with verbal at 50. **He has never had
+   more than four dimensions above 70 at once.** That, not the headline score,
+   is the ceiling to attack.
+
+---
+
 ## Open — actively drilling
 
 ### 1. The padding clause (the defining habit)

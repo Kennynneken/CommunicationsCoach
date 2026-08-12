@@ -9,8 +9,15 @@ Data lives in reports/score_history.csv (date,context,score,session).
 """
 import argparse
 import csv
+import signal
 import sys
 from pathlib import Path
+
+# Die quietly when piped into head/less rather than dumping a BrokenPipeError.
+try:
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)
+except (AttributeError, ValueError):  # not POSIX, or not the main thread
+    pass
 
 CSV_PATH = Path(__file__).resolve().parent.parent / "reports" / "score_history.csv"
 CONTEXTS = ["speech", "small-talk", "networking", "dinner-party", "youtube"]
@@ -57,12 +64,67 @@ def trend(context=None):
             print(f"  {r['date']}  {int(r['score']):3d} |{bar:<50}| {r['session']}")
 
 
+DIMS = [
+    ("confidence", "Confidence"),
+    ("warmth", "Warmth"),
+    ("body", "Body language"),
+    ("presence", "Presence"),
+    ("verbal", "Verbal acuity"),
+    ("unexpected", "Unexpectedness"),
+    ("curiosity", "Curiosity"),
+    ("attunement", "Attunement"),
+]
+DIM_CSV = CSV_PATH.parent / "dimension_history.csv"
+
+
+def dimensions(context=None):
+    """Print the per-dimension profile across sessions (see rubrics/dimensions.md)."""
+    if not DIM_CSV.exists():
+        print(f"No dimension history yet ({DIM_CSV} not found).")
+        return
+    with DIM_CSV.open(newline="", encoding="utf-8") as f:
+        rows = [r for r in csv.DictReader(f) if not context or r["context"] == context]
+    if not rows:
+        print("No dimension rows for that context.")
+        return
+
+    width = max(len(label) for _, label in DIMS)
+    print(f"\n{'':<{width}}  " + " ".join(f"{i+1:>3}" for i in range(len(rows)))
+          + "   min  max  avg  last   Δ")
+    means = {}
+    for key, label in DIMS:
+        vals = [int(r[key]) for r in rows]
+        means[label] = sum(vals) / len(vals)
+        d = vals[-1] - vals[-2] if len(vals) >= 2 else 0
+        cells = " ".join(f"{v:>3}" for v in vals)
+        print(f"{label:<{width}}  {cells}   {min(vals):>3}  {max(vals):>3}"
+              f"  {means[label]:>3.0f}  {vals[-1]:>3}  {d:>+4}")
+
+    overall = [int(r["score"]) for r in rows]
+    print(f"{'HEADLINE':<{width}}  " + " ".join(f"{v:>3}" for v in overall) +
+          f"   {min(overall):>3}  {max(overall):>3}  {sum(overall)/len(overall):>3.0f}"
+          f"  {overall[-1]:>3}  {overall[-1] - overall[-2] if len(overall) >= 2 else 0:>+4}")
+
+    print("\nsessions:")
+    for i, r in enumerate(rows, 1):
+        print(f"  {i:>2}. {r['date']}  {r['session']}")
+
+    # The weakest average is usually the real bottleneck; the lowest ceiling is
+    # the channel he has never once been good at.
+    ceilings = {label: max(int(r[k]) for r in rows) for k, label in DIMS}
+    print(f"\nbottleneck     : {min(means, key=means.get)} (avg {min(means.values()):.0f})")
+    print(f"lowest ceiling : {min(ceilings, key=ceilings.get)} (best ever {min(ceilings.values())})")
+    print(f"strongest      : {max(means, key=means.get)} (avg {max(means.values()):.0f})")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     mode = ap.add_mutually_exclusive_group(required=True)
     mode.add_argument("--add", action="store_true", help="log a session score")
     mode.add_argument("--trend", action="store_true", help="print per-context trend table")
+    mode.add_argument("--dimensions", action="store_true",
+                      help="print the eight-dimension profile across sessions")
     ap.add_argument("--date", help="YYYY-MM-DD (required with --add)")
     ap.add_argument("--context", choices=CONTEXTS)
     ap.add_argument("--score", type=int, help="1-100 (required with --add)")
@@ -76,6 +138,8 @@ def main() -> int:
         if not 1 <= args.score <= 100:
             ap.error("--score must be 1-100")
         add(args.date, args.context, args.score, args.session)
+    elif args.dimensions:
+        dimensions(args.context)
     else:
         trend(args.context)
     return 0

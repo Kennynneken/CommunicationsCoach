@@ -17,6 +17,36 @@ after-hours at Land-Grant, Franklinton.
 | 7 | `s4-layer3-take2` | Her disclosure: "I've never said that out loud" | 76 ↑4 |
 | 8 | `s12-exit-take1` | She lifts and compliments him | 74 ↓2 |
 
+## Dimension profile (backfilled)
+
+Eight-dimension scoring (`rubrics/dimensions.md`) was added to the system after
+this session and backfilled across all eight takes from the packets and
+transcripts. Rows are takes 1–8.
+
+| Dimension | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | avg |
+|---|---|---|---|---|---|---|---|---|---|
+| Confidence | 42 | 60 | 62 | 66 | 72 | 80 | 55 | **84** | 65 |
+| Warmth | 62 | 66 | 65 | 48 | **74** | 62 | 58 | 35 | 59 |
+| Body language | 68 | 62 | 72 | 74 | 70 | 66 | **82** | 45 | 67 |
+| Presence | 30 | 25 | 45 | 55 | 35 | 48 | **78** | 42 | **45** |
+| Verbal acuity | 58 | 52 | 55 | 60 | 66 | 58 | 50 | **88** | 61 |
+| Unexpectedness | 55 | 58 | 70 | 45 | 62 | 78 | 52 | **82** | 63 |
+| Curiosity | 25 | 22 | 30 | 78 | 85 | 70 | **90** | 20 | 52 |
+| Attunement | 45 | 40 | 55 | 62 | 38 | 68 | **84** | 38 | 54 |
+| **HEADLINE** | 54 | 57 | 63 | 66 | 71 | 72 | **76** | 74 | 67 |
+
+- **Bottleneck: Presence, avg 45** — only one take above 55, and that one scored
+  on a held breath *before* speaking rather than a pause inside it. The
+  dimension model found the same problem the pause map did, independently.
+- **Lowest ceiling: Warmth, best-ever 74.** Every other dimension has cleared 78
+  at least once. Warmth never has. Quietest problem in the profile.
+- **He trades channels rather than stacking them.** Take 8: verbal 88,
+  confidence 84, unexpectedness 82 — while curiosity fell to 20, warmth to 35,
+  attunement to 38, body to 45. Take 7 is the mirror image. **Never more than
+  four dimensions above 70 simultaneously.** That is the real ceiling, and it is
+  invisible in the headline score, which moved only 2 points between those two
+  radically different takes.
+
 ## The arc in one paragraph
 
 He started by burning a charming opening line on event logistics — three
