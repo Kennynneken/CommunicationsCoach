@@ -59,6 +59,21 @@ python3 analysis/score_history.py --trend
 
 Or ask Claude Code: "show my score trend."
 
+## Practicing without a live event
+
+You don't have to wait for a real conversation to get scored. `scenarios/`
+holds practice decks — situation cards with the autopilot version, the move,
+lines to keep in the pocket, and the metric each one is judged on. Pick a card,
+record 60–90 seconds of yourself running it, and put the take through the same
+loop:
+
+```
+sessions/2026-08-14-s7-big-fish-take1.m4a   →   context: networking
+```
+
+Naming the file with the scenario number keeps that situation's trend readable
+in `reports/` separately from your context-wide average.
+
 ## Tips for useful recordings
 
 - 1–5 minutes is the sweet spot; the pipeline handles longer fine.
@@ -67,3 +82,57 @@ Or ask Claude Code: "show my score trend."
   melody, and transcript analysis carry the coaching.
 - Name files with a date and the scenario; the git history of `reports/`
   becomes your longitudinal progress record.
+
+## The dimension profile
+
+Every report scores eight dimensions alongside the headline number —
+confidence, warmth, body language, presence, verbal acuity, unexpectedness,
+curiosity and attunement. Definitions and calibration live in
+`rubrics/dimensions.md`. The headline score is the rubric-weighted verdict for
+the context; the dimensions tell you *which channel* carried the take and which
+one sank it.
+
+```
+python3 analysis/score_history.py --dimensions
+```
+
+That prints every take as a column, with min/max/average per dimension, and
+flags three things: the **bottleneck** (weakest average), the **lowest ceiling**
+(the channel you've never once been good at), and your **strongest**. Two takes
+can score within 2 points of each other on the headline and have completely
+inverted profiles — the headline hides that; this doesn't.
+
+## Turnaround time
+
+Measured on this container (4 CPUs, ~10s clip), warm:
+
+| | before | after |
+|---|---|---|
+| first take of a session | up to ~50s (cold whisper load) | **~6s** (model pre-warmed at session start) |
+| every later take | ~7.6s | **~6.3s** |
+
+What changed:
+
+- **`.claude/hooks/session-start.sh`** runs `setup.sh` when anything is missing
+  and warms the whisper weights, in the background, at session start. Cold model
+  load measured 42s against 2s warm — that cost now lands before you've finished
+  recording, not after you've uploaded.
+- **`setup.sh` pre-downloads the whisper model**, so a fresh container pays for
+  it during environment setup rather than on your first take.
+- **`body_language` runs in parallel with `transcribe`.** Modest on a 4-core box
+  (~1.2s) because whisper already saturates the CPU; larger where there are
+  spare cores.
+- **Frame decoding skips what it doesn't sample** (`grab()` rather than
+  `read()`), 60% off decode time and it scales with clip length.
+- **`pipeline/digest.py`** prints transcript, vocal numbers, pause map, body
+  trajectory and incongruence flags at the end of every run, so scoring starts
+  from one block of output instead of several file reads.
+
+### One command from recording to digest
+
+```
+bash coach.sh /path/to/video.MOV networking --name s5-big-fish-take1
+```
+
+Copies the file into `sessions/` with today's date, runs the pipeline, prints
+the digest. Won't overwrite an existing take of the same name — it auto-suffixes.

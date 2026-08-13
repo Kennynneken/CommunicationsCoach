@@ -1,0 +1,9 @@
+date,context,session,score,confidence,warmth,body,presence,verbal,unexpected,curiosity,attunement
+2026-08-11,networking,s1-dana-rail-take1,54,42,62,68,30,58,55,25,45
+2026-08-11,networking,s1-dana-rail-take2,57,60,66,62,25,52,58,22,40
+2026-08-11,networking,s3-what-do-you-do-take1,63,62,65,72,45,55,70,30,55
+2026-08-11,networking,s4-risk-pivot-take1,66,66,48,74,55,60,45,78,62
+2026-08-11,networking,s4-layer2-take1,71,72,74,70,35,66,62,85,38
+2026-08-11,networking,s4-layer3-take1,72,80,62,66,48,58,78,70,68
+2026-08-11,networking,s4-layer3-take2,76,55,58,82,78,50,52,90,84
+2026-08-11,networking,s12-exit-take1,74,84,35,45,42,88,82,20,38

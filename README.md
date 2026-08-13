@@ -35,4 +35,7 @@ specific drill for the next round.
 - `setup.sh` — full environment setup (also the cloud env setup script)
 - `pipeline/SPECS.md` — exact specs for every pipeline module
 - `rubrics/` — per-context scoring rubrics
+- `scenarios/` — practice decks (drillable situations + what gets scored)
+- `coaching/kenny-patterns.md` — standing tells carried between sessions
+- `docs/ROLEPLAY.md` — the live scene-by-scene coaching loop
 - `sessions/` → `analysis/` → `reports/` — the data flow

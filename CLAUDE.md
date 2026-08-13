@@ -17,6 +17,14 @@ score-based coaching aimed at world-class historic levels of delivery.
    `reports/YYYY-MM-DD-<stem>.md` using the matching rubric in `rubrics/`.
 5. You commit reports so progress is tracked longitudinally in git history.
 
+**Before writing any report, read `coaching/kenny-patterns.md`** — his standing
+tells, what's been fixed, and what has never moved. Update it at the end of
+every session. Without it each session rediscovers habits already diagnosed.
+
+For live roleplay sessions — the coach sets a scene, Kenny records his response,
+score, then the scene advances — follow `docs/ROLEPLAY.md`. That mode has been
+the highest-yield use of this repo so far. Practice scenes live in `scenarios/`.
+
 If the pipeline or environment is missing, follow `BUILD.md` to build it first.
 
 ## The scoring scale (1–100)
@@ -81,14 +89,28 @@ emotional experience it creates.
 
 1. **Context + Score (1–100)** with one-sentence justification and trend arrow
    vs. last session of this context.
+1b. **Dimension profile** — a compact table scoring all eight dimensions in
+   `rubrics/dimensions.md` (confidence, warmth, body language, presence, verbal
+   acuity, unexpectedness, curiosity, attunement), each 1–100 with its own
+   delta, plus one line on the highest and one on the lowest. The headline score
+   is the rubric-weighted verdict and is **not** the average of the dimensions.
+   Score them independently — one great line must not lift all eight. Log the
+   row to `reports/dimension_history.csv`.
 2. **What the numbers show** — cite the actual metrics (WPM, filler rate, pitch
    variance, pause distribution, posture trajectory, smile %, gaze stability)
    and interpret them against the rubric. Metrics are evidence, not the verdict;
    the same long pause is commanding in a speech and awkward in small talk.
+   **Always quote `wpm_speaking`, never `wpm_overall`.** On short clips a held
+   breath before the first word deflates the wall-clock figure enough to invert
+   the finding — a take reading 122 WPM was actually articulating at 222.
+   `wpm_overall` describes the clip; `wpm_speaking` describes him. Report
+   `silence.lead_in_s` separately as the composure signal it is.
 3. **What landed** — 2–3 genuine strengths, tied to timestamps.
 4. **What to fix** — a short list, each tied to a timestamp or metric.
 5. **THE ONE THING** — a single, specific, drillable instruction for the next
-   round. One. Make it concrete enough to practice today (e.g., "At every
+   round, aimed at the lowest dimension that is *blocking the others* (not
+   automatically the lowest number). One. Make it concrete enough to practice
+   today (e.g., "At every
    sentence that ends a story beat, hold a full 1.5-second silent pause before
    the next sentence — you currently average 0.4s and bridge half of them
    with 'um'").

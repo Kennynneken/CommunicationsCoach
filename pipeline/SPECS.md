@@ -29,7 +29,10 @@ Inputs: `audio.wav`, `transcript.json`. Output `vocal_metrics.json`:
 ```json
 {
   "wpm_overall": 148.2,
+  "wpm_speaking": 171.5,
   "wpm_by_minute": [152.0, 149.3],
+  "silence": {"lead_in_s": 1.4, "lead_out_s": 0.3,
+              "speech_span_s": 118.2, "talking_s": 103.6},
   "filler": {"count": 11, "per_min": 3.6,
              "words": {"um": 6, "uh": 3, "like": 2},
              "timestamps": [12.4, 33.1]},
@@ -49,6 +52,16 @@ Inputs: `audio.wav`, `transcript.json`. Output `vocal_metrics.json`:
 }
 ```
 Definitions:
+- `wpm_overall` = words ÷ wall-clock duration. `wpm_speaking` = words ÷
+  `talking_s`, where `talking_s` is the first-word-to-last-word span minus every
+  counted pause — i.e. the articulation rate. **Coach on `wpm_speaking`.** On
+  short clips the two diverge wildly: a 5.9s take with a 1.33s lead-in read
+  121.8 overall and 222.2 speaking. `wpm_overall` describes the clip;
+  `wpm_speaking` describes the speaker.
+- `silence.lead_in_s` = time before the first word. The pause map only sees gaps
+  *between* words, so a held beat before speaking — the composure signal every
+  rubric asks for — is otherwise invisible in the packet. Report it separately;
+  do not let it masquerade as a slow speaking rate.
 - Pause = inter-word gap ≥ 0.5s. `after_sentence_end` from punctuation/segment
   boundary. `deliberate` heuristic: ≥ 0.8s AND at sentence/clause boundary AND
   not bridged by filler within 0.3s. `anxious_gap`: mid-clause ≥ 0.5s or any

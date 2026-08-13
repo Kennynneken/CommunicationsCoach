@@ -1,0 +1,46 @@
+{
+  "wpm_overall": 154.0,
+  "wpm_speaking": 214.3,
+  "wpm_by_minute": [
+    154.0
+  ],
+  "silence": {
+    "lead_in_s": 1.23,
+    "lead_out_s": 1.29,
+    "speech_span_s": 6.44,
+    "talking_s": 6.44
+  },
+  "filler": {
+    "count": 0,
+    "per_min": 0.0,
+    "words": {},
+    "timestamps": []
+  },
+  "pauses": {
+    "count": 0,
+    "list": [],
+    "mean_dur": 0.0,
+    "p90_dur": 0.0,
+    "deliberate_count": 0,
+    "anxious_gap_count": 0
+  },
+  "pitch": {
+    "mean_hz": 125.8,
+    "sd_hz": 74.7,
+    "range_hz": [
+      77,
+      326
+    ],
+    "variance_score_0to100": 100,
+    "sentence_final_drop_pct": 100
+  },
+  "intensity": {
+    "mean_db": 53.1,
+    "sd_db": 17.0,
+    "trail_off_sentences_pct": 0
+  },
+  "steadiness": {
+    "jitter_local_pct": 3.11,
+    "shimmer_local_pct": 15.06
+  }
+}

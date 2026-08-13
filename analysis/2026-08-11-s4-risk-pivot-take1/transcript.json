@@ -1,0 +1,202 @@
+{
+  "language": "en",
+  "duration_s": 11.13,
+  "words": [
+    {
+      "w": "Oh,",
+      "start": 3.09,
+      "end": 3.59,
+      "p": 0.38
+    },
+    {
+      "w": "I",
+      "start": 3.63,
+      "end": 3.69,
+      "p": 1.0
+    },
+    {
+      "w": "like",
+      "start": 3.69,
+      "end": 3.87,
+      "p": 0.98
+    },
+    {
+      "w": "the",
+      "start": 3.87,
+      "end": 4.03,
+      "p": 0.99
+    },
+    {
+      "w": "sound",
+      "start": 4.03,
+      "end": 4.35,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 4.35,
+      "end": 4.49,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 4.49,
+      "end": 4.67,
+      "p": 1.0
+    },
+    {
+      "w": "telling",
+      "start": 4.67,
+      "end": 5.01,
+      "p": 0.46
+    },
+    {
+      "w": "people",
+      "start": 5.01,
+      "end": 5.35,
+      "p": 0.99
+    },
+    {
+      "w": "what",
+      "start": 5.35,
+      "end": 5.57,
+      "p": 0.98
+    },
+    {
+      "w": "they",
+      "start": 5.57,
+      "end": 5.75,
+      "p": 1.0
+    },
+    {
+      "w": "don't",
+      "start": 5.75,
+      "end": 6.11,
+      "p": 0.99
+    },
+    {
+      "w": "want",
+      "start": 6.11,
+      "end": 6.25,
+      "p": 0.91
+    },
+    {
+      "w": "to",
+      "start": 6.25,
+      "end": 6.37,
+      "p": 1.0
+    },
+    {
+      "w": "hear.",
+      "start": 6.37,
+      "end": 6.57,
+      "p": 1.0
+    },
+    {
+      "w": "That's",
+      "start": 6.71,
+      "end": 6.89,
+      "p": 0.99
+    },
+    {
+      "w": "really",
+      "start": 6.89,
+      "end": 7.17,
+      "p": 1.0
+    },
+    {
+      "w": "cool.",
+      "start": 7.17,
+      "end": 7.45,
+      "p": 1.0
+    },
+    {
+      "w": "How?",
+      "start": 7.59,
+      "end": 7.71,
+      "p": 0.66
+    },
+    {
+      "w": "What",
+      "start": 7.97,
+      "end": 7.99,
+      "p": 0.99
+    },
+    {
+      "w": "motivated",
+      "start": 7.99,
+      "end": 8.37,
+      "p": 0.99
+    },
+    {
+      "w": "you",
+      "start": 8.37,
+      "end": 8.71,
+      "p": 0.99
+    },
+    {
+      "w": "to",
+      "start": 8.71,
+      "end": 8.79,
+      "p": 0.99
+    },
+    {
+      "w": "get",
+      "start": 8.79,
+      "end": 8.97,
+      "p": 1.0
+    },
+    {
+      "w": "into",
+      "start": 8.97,
+      "end": 9.15,
+      "p": 0.99
+    },
+    {
+      "w": "this",
+      "start": 9.15,
+      "end": 9.37,
+      "p": 1.0
+    },
+    {
+      "w": "line",
+      "start": 9.37,
+      "end": 9.63,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 9.63,
+      "end": 9.77,
+      "p": 1.0
+    },
+    {
+      "w": "work?",
+      "start": 9.77,
+      "end": 10.07,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Oh, I like the sound of that telling people what they don't want to hear.",
+      "start": 3.09,
+      "end": 6.57
+    },
+    {
+      "text": "That's really cool.",
+      "start": 6.71,
+      "end": 7.45
+    },
+    {
+      "text": "How?",
+      "start": 7.59,
+      "end": 7.71
+    },
+    {
+      "text": "What motivated you to get into this line of work?",
+      "start": 7.97,
+      "end": 10.07
+    }
+  ]
+}

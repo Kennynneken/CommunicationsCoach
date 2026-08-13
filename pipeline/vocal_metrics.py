@@ -194,7 +194,12 @@ def main() -> int:
         print("WARNING: no words in transcript; wrote stub vocal_metrics.json")
         return 0
 
-    # Speaking rate
+    # Speaking rate.
+    # wpm_overall divides by wall-clock, so a long silence before the first word
+    # (or after the last) deflates it — a take that opens with a 3s composure
+    # beat can read 156 WPM while the words themselves are sprinting at 240.
+    # wpm_speaking is the articulation rate: words per minute of actual talking,
+    # with lead-in, lead-out, and every counted pause removed.
     wpm_overall = len(words) / minutes
     wpm_by_minute = []
     for m in range(int(duration // 60) + (1 if duration % 60 > 5 else 0)):
@@ -216,11 +221,27 @@ def main() -> int:
     durs_sorted = sorted(durs)
     p90 = durs_sorted[max(0, int(round(0.9 * len(durs_sorted))) - 1)] if durs_sorted else 0.0
 
+    # Silence at the edges of the take. The pause map only sees gaps *between*
+    # words, so a held beat before speaking — the composure signal the rubrics
+    # ask for — was previously invisible in the packet.
+    lead_in = round(words[0]["start"], 2)
+    lead_out = round(max(0.0, duration - words[-1]["end"]), 2)
+    speech_span = max(words[-1]["end"] - words[0]["start"], 1e-6)
+    talking_s = max(speech_span - sum(p["dur"] for p in pauses), 1e-6)
+    wpm_speaking = len(words) / (talking_s / 60.0)
+
     pitch_block, intensity_block, steadiness = pitch_intensity(audio, words)
 
     metrics = {
         "wpm_overall": round(wpm_overall, 1),
+        "wpm_speaking": round(wpm_speaking, 1),
         "wpm_by_minute": wpm_by_minute,
+        "silence": {
+            "lead_in_s": lead_in,
+            "lead_out_s": lead_out,
+            "speech_span_s": round(speech_span, 2),
+            "talking_s": round(talking_s, 2),
+        },
         "filler": {
             "count": sum(filler_counts.values()),
             "per_min": round(sum(filler_counts.values()) / minutes, 1),
@@ -242,7 +263,8 @@ def main() -> int:
     (outdir / "vocal_metrics.json").write_text(json.dumps(metrics, indent=2), encoding="utf-8")
     print(
         f"vocal metrics -> {outdir}/vocal_metrics.json "
-        f"(wpm {metrics['wpm_overall']}, fillers/min {metrics['filler']['per_min']}, "
+        f"(wpm {metrics['wpm_overall']} overall / {metrics['wpm_speaking']} speaking, "
+        f"lead-in {lead_in}s, fillers/min {metrics['filler']['per_min']}, "
         f"pauses {len(pauses)}: {len(deliberate)} deliberate / {len(anxious)} anxious)"
     )
     return 0

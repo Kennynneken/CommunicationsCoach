@@ -1,0 +1,210 @@
+{
+  "language": "en",
+  "duration_s": 10.79,
+  "words": [
+    {
+      "w": "Yeah,",
+      "start": 0.88,
+      "end": 1.52,
+      "p": 0.82
+    },
+    {
+      "w": "I've",
+      "start": 1.84,
+      "end": 2.08,
+      "p": 1.0
+    },
+    {
+      "w": "been",
+      "start": 2.08,
+      "end": 2.18,
+      "p": 1.0
+    },
+    {
+      "w": "kind",
+      "start": 2.18,
+      "end": 2.4,
+      "p": 0.95
+    },
+    {
+      "w": "of",
+      "start": 2.4,
+      "end": 2.52,
+      "p": 1.0
+    },
+    {
+      "w": "pretending",
+      "start": 2.52,
+      "end": 2.94,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 2.94,
+      "end": 3.5,
+      "p": 1.0
+    },
+    {
+      "w": "look",
+      "start": 3.5,
+      "end": 3.98,
+      "p": 0.99
+    },
+    {
+      "w": "for",
+      "start": 3.98,
+      "end": 4.14,
+      "p": 1.0
+    },
+    {
+      "w": "people",
+      "start": 4.14,
+      "end": 4.38,
+      "p": 1.0
+    },
+    {
+      "w": "my",
+      "start": 4.38,
+      "end": 4.62,
+      "p": 0.99
+    },
+    {
+      "w": "entire",
+      "start": 4.62,
+      "end": 4.9,
+      "p": 1.0
+    },
+    {
+      "w": "life",
+      "start": 4.9,
+      "end": 5.26,
+      "p": 1.0
+    },
+    {
+      "w": "at",
+      "start": 5.26,
+      "end": 5.5,
+      "p": 0.97
+    },
+    {
+      "w": "events",
+      "start": 5.5,
+      "end": 5.8,
+      "p": 1.0
+    },
+    {
+      "w": "like",
+      "start": 5.8,
+      "end": 6.04,
+      "p": 1.0
+    },
+    {
+      "w": "this",
+      "start": 6.04,
+      "end": 6.4,
+      "p": 1.0
+    },
+    {
+      "w": "Well,",
+      "start": 6.86,
+      "end": 7.3,
+      "p": 0.58
+    },
+    {
+      "w": "how",
+      "start": 7.3,
+      "end": 7.6,
+      "p": 0.99
+    },
+    {
+      "w": "often",
+      "start": 7.6,
+      "end": 7.8,
+      "p": 1.0
+    },
+    {
+      "w": "do",
+      "start": 7.8,
+      "end": 7.92,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 7.92,
+      "end": 7.98,
+      "p": 1.0
+    },
+    {
+      "w": "come",
+      "start": 7.98,
+      "end": 8.2,
+      "p": 1.0
+    },
+    {
+      "w": "here?",
+      "start": 8.2,
+      "end": 8.42,
+      "p": 1.0
+    },
+    {
+      "w": "How",
+      "start": 8.52,
+      "end": 8.6,
+      "p": 0.99
+    },
+    {
+      "w": "did",
+      "start": 8.6,
+      "end": 8.7,
+      "p": 0.71
+    },
+    {
+      "w": "you",
+      "start": 8.7,
+      "end": 8.76,
+      "p": 1.0
+    },
+    {
+      "w": "find",
+      "start": 8.76,
+      "end": 8.92,
+      "p": 1.0
+    },
+    {
+      "w": "out",
+      "start": 8.92,
+      "end": 9.08,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 9.08,
+      "end": 9.26,
+      "p": 1.0
+    },
+    {
+      "w": "this",
+      "start": 9.26,
+      "end": 9.46,
+      "p": 1.0
+    },
+    {
+      "w": "event?",
+      "start": 9.46,
+      "end": 9.68,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Yeah, I've been kind of pretending to look for people my entire life at events like this",
+      "start": 0.88,
+      "end": 6.4
+    },
+    {
+      "text": "Well, how often do you come here? How did you find out about this event?",
+      "start": 6.86,
+      "end": 9.68
+    }
+  ]
+}

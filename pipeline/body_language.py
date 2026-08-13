@@ -148,12 +148,17 @@ def main() -> int:
     frame_idx = 0
 
     while True:
+        # Only decode the frames we actually sample: grab() advances the reader
+        # without decoding, so at 3 fps off 30 fps source we skip ~90% of the
+        # decode work instead of throwing it away after the fact.
+        if frame_idx % step:
+            if not cap.grab():
+                break
+            frame_idx += 1
+            continue
         ok, frame = cap.read()
         if not ok:
             break
-        if frame_idx % step:
-            frame_idx += 1
-            continue
         t = frame_idx / src_fps
         ts_ms = int(t * 1000)
         rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
