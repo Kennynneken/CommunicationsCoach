@@ -113,10 +113,10 @@ Measured on this container (4 CPUs, ~10s clip), warm:
 
 What changed:
 
-- **`.claude/hooks/session-start.sh`** runs `setup.sh` when anything is missing
-  and warms the whisper weights, in the background, at session start. Cold model
-  load measured 42s against 2s warm — that cost now lands before you've finished
-  recording, not after you've uploaded.
+- **`.claude/hooks/session-start.sh`** installs anything missing and warms the
+  whisper weights before the session begins. Cold model load measured 42s
+  against 2s warm — paid at session start, not on your first upload. It runs
+  synchronously; see "Why is my container coming up empty?" below for why.
 - **`setup.sh` pre-downloads the whisper model**, so a fresh container pays for
   it during environment setup rather than on your first take.
 - **`body_language` runs in parallel with `transcribe`.** Modest on a 4-core box
@@ -136,3 +136,31 @@ bash coach.sh /path/to/video.MOV networking --name s5-big-fish-take1
 
 Copies the file into `sessions/` with today's date, runs the pipeline, prints
 the digest. Won't overwrite an existing take of the same name — it auto-suffixes.
+
+## Why is my container coming up empty?
+
+If a new session opens and the first thing that happens is a 4–5 minute
+`setup.sh` install, the Claude Code environment is not provisioning the
+dependencies — every session is rebuilding them from scratch.
+
+**One-time fix:** in the Claude Code web environment settings for this repo,
+set the environment's **setup script** to `setup.sh`. The provisioned image is
+cached after that script runs, so future containers come up with ffmpeg, the
+Python stack, the MediaPipe models and the whisper weights already present. The
+SessionStart hook then costs about three seconds instead of five minutes.
+
+Docs: https://code.claude.com/docs/en/claude-code-on-the-web
+
+### How readiness is handled
+
+`pipeline/ensure_ready.sh` is the single entry point — the SessionStart hook
+calls it, and CLAUDE.md tells the coach to call it rather than `setup.sh`. It
+holds an exclusive lock, so if the hook is already installing, a second caller
+**waits for that install** instead of starting a competing apt/pip run. Verified
+with four concurrent callers: exactly one setup runs, the rest wait and pick up
+the result.
+
+The hook is **synchronous**. An earlier async version let the session start
+before dependencies were ready, and the agent — seeing nothing installed —
+kicked off its own duplicate setup. Blocking is what makes "session started"
+mean "ready to score."

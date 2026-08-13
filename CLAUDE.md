@@ -25,7 +25,11 @@ For live roleplay sessions — the coach sets a scene, Kenny records his respons
 score, then the scene advances — follow `docs/ROLEPLAY.md`. That mode has been
 the highest-yield use of this repo so far. Practice scenes live in `scenarios/`.
 
-If the pipeline or environment is missing, follow `BUILD.md` to build it first.
+If the pipeline or environment is missing, run **`bash pipeline/ensure_ready.sh`**
+— never `setup.sh` directly. A SessionStart hook may already be installing, and
+`ensure_ready.sh` holds a lock so you wait for it instead of starting a second
+competing apt/pip run. It is idempotent and returns in ~3s when nothing is
+needed. Only follow `BUILD.md` if the pipeline files themselves are absent.
 
 ## The scoring scale (1–100)
 
