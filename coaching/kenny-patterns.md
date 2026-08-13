@@ -76,7 +76,6 @@ sentence that explains, softens, tags, or labels it.
 | s4-layer2 | "Why do you say it was embarrassing?" | *8-second name introduction* |
 | s4-layer3-1 | "Let's take this back somewhere real." | *"…shall we?"* |
 | s4-layer3-2 | "What was going through your mind?" | *"That must have been eye-opening"* (moved to the front) |
-
 | s15-take3 | "…who or what this problem is." | *"Very curious."* |
 
 Note the migration — when told to stop adding a clause *after*, he added one
