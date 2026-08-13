@@ -1,0 +1,102 @@
+{
+  "language": "en",
+  "duration_s": 6.68,
+  "words": [
+    {
+      "w": "Well,",
+      "start": 0.4,
+      "end": 1.0,
+      "p": 0.92
+    },
+    {
+      "w": "nothing's",
+      "start": 1.22,
+      "end": 1.8,
+      "p": 0.91
+    },
+    {
+      "w": "ever",
+      "start": 1.8,
+      "end": 2.0,
+      "p": 0.99
+    },
+    {
+      "w": "completely",
+      "start": 2.0,
+      "end": 2.54,
+      "p": 0.99
+    },
+    {
+      "w": "your",
+      "start": 2.54,
+      "end": 3.12,
+      "p": 0.98
+    },
+    {
+      "w": "fault.",
+      "start": 3.12,
+      "end": 3.5,
+      "p": 1.0
+    },
+    {
+      "w": "Why",
+      "start": 3.98,
+      "end": 4.44,
+      "p": 0.98
+    },
+    {
+      "w": "don't",
+      "start": 4.44,
+      "end": 4.58,
+      "p": 1.0
+    },
+    {
+      "w": "we",
+      "start": 4.58,
+      "end": 4.66,
+      "p": 1.0
+    },
+    {
+      "w": "go",
+      "start": 4.66,
+      "end": 4.8,
+      "p": 0.99
+    },
+    {
+      "w": "get",
+      "start": 4.8,
+      "end": 4.96,
+      "p": 0.99
+    },
+    {
+      "w": "some",
+      "start": 4.96,
+      "end": 5.14,
+      "p": 1.0
+    },
+    {
+      "w": "warm",
+      "start": 5.14,
+      "end": 5.42,
+      "p": 0.99
+    },
+    {
+      "w": "coffee?",
+      "start": 5.42,
+      "end": 5.86,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Well, nothing's ever completely your fault.",
+      "start": 0.4,
+      "end": 3.5
+    },
+    {
+      "text": "Why don't we go get some warm coffee?",
+      "start": 3.98,
+      "end": 5.86
+    }
+  ]
+}
