@@ -6,20 +6,24 @@ set -euo pipefail
 echo "== System packages =="
 if command -v apt-get >/dev/null 2>&1; then
   sudo apt-get update -y || apt-get update -y
-  sudo apt-get install -y ffmpeg espeak-ng libsndfile1 || \
-    apt-get install -y ffmpeg espeak-ng libsndfile1
+  # espeak-ng was only ever used to synthesise a throwaway test clip in BUILD;
+  # libsndfile1 is kept as cheap insurance for wav-reading transitive deps.
+  sudo apt-get install -y ffmpeg libsndfile1 || \
+    apt-get install -y ffmpeg libsndfile1
 fi
 
 echo "== Python packages =="
 # pip may be distro-managed (RECORD file missing) — a failed self-upgrade is fine.
 python3 -m pip install --upgrade pip 2>/dev/null || echo "pip self-upgrade skipped (distro-managed); continuing with $(python3 -m pip --version)"
+# Only what the pipeline actually imports. librosa, soundfile and pandas were
+# installed but never imported by any module; dropping them takes a cold-cache
+# pip install from 75s to 29s and the venv from 1.5G to 973M. Verified by
+# running the full pipeline on a real take in a slim venv — the resulting
+# vocal_metrics.json and body_metrics.json were byte-identical.
 python3 -m pip install \
   faster-whisper \
   praat-parselmouth \
-  librosa \
-  soundfile \
   numpy \
-  pandas \
   mediapipe \
   opencv-python-headless
 
@@ -59,7 +63,7 @@ EOF
 echo "== Verify =="
 ffmpeg -version | head -n1
 python3 - <<'EOF'
-import faster_whisper, parselmouth, librosa, numpy, cv2
+import faster_whisper, parselmouth, numpy, cv2
 try:
     import mediapipe
     print("mediapipe OK")

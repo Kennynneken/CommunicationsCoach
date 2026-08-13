@@ -71,7 +71,9 @@ Definitions:
 - `variance_score_0to100`: min-max scale pitch SD where SD 10 Hz→20 and
   SD 45 Hz→90 (linear, clamp 0–100). Crude but consistent session-to-session.
 - Pitch via parselmouth (Praat autocorrelation, floor 60 Hz, ceiling 400 Hz);
-  intensity via parselmouth; use librosa only for onset/energy extras.
+  intensity via parselmouth. Keep the dependency set to what is imported —
+  librosa/pandas/soundfile were removed as unused; re-add only if a module
+  genuinely needs them.
 
 ## body_language.py
 Skip cleanly (write `{"has_video": false}`) when input has no video stream.
