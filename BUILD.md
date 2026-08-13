@@ -10,7 +10,7 @@ after every passing phase with a descriptive message.
    and update setup.sh so it runs cleanly from scratch — this file must remain
    the single source of truth for environment setup (it doubles as the Claude
    Code cloud environment setup script).
-2. Verify: `python -c "import faster_whisper, parselmouth, librosa, mediapipe, cv2, numpy"`
+2. Verify: `python -c "import faster_whisper, parselmouth, mediapipe, cv2, numpy"`
    and `ffmpeg -version` all succeed.
 
 ## Phase 1 — Audio pipeline
@@ -21,10 +21,10 @@ Build these scripts per the specs in `pipeline/SPECS.md`:
    analysis folder.
 2. `pipeline/transcribe.py` — faster-whisper (model `small`, word timestamps on)
    → `transcript.json` (words with start/end) + `transcript.md` (readable).
-3. `pipeline/vocal_metrics.py` — parselmouth + librosa + transcript.json →
+3. `pipeline/vocal_metrics.py` — parselmouth + transcript.json →
    `vocal_metrics.json` per the schema in SPECS.md.
 
-Verify: generate a 30-second test clip with ffmpeg + espeak (or record silence
+Verify: generate a 30-second test clip with ffmpeg (or record silence
 plus a TTS voice), run all three scripts, confirm valid JSON output with sane
 values (WPM between 60–220 on the TTS clip, pause list non-empty).
 
