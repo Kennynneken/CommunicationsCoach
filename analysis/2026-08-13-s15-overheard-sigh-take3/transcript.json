@@ -1,0 +1,150 @@
+{
+  "language": "en",
+  "duration_s": 10.64,
+  "words": [
+    {
+      "w": "Hmm.",
+      "start": 0.21,
+      "end": 0.87,
+      "p": 0.65
+    },
+    {
+      "w": "Well,",
+      "start": 1.67,
+      "end": 2.23,
+      "p": 0.97
+    },
+    {
+      "w": "let's",
+      "start": 2.65,
+      "end": 3.13,
+      "p": 0.99
+    },
+    {
+      "w": "get",
+      "start": 3.13,
+      "end": 3.27,
+      "p": 1.0
+    },
+    {
+      "w": "up,",
+      "start": 3.27,
+      "end": 3.51,
+      "p": 0.99
+    },
+    {
+      "w": "move",
+      "start": 3.79,
+      "end": 4.13,
+      "p": 1.0
+    },
+    {
+      "w": "our",
+      "start": 4.13,
+      "end": 4.27,
+      "p": 0.99
+    },
+    {
+      "w": "bodies",
+      "start": 4.27,
+      "end": 4.59,
+      "p": 1.0
+    },
+    {
+      "w": "around,",
+      "start": 4.59,
+      "end": 5.03,
+      "p": 1.0
+    },
+    {
+      "w": "and",
+      "start": 5.27,
+      "end": 5.35,
+      "p": 0.99
+    },
+    {
+      "w": "you",
+      "start": 5.35,
+      "end": 5.83,
+      "p": 0.96
+    },
+    {
+      "w": "can",
+      "start": 5.83,
+      "end": 5.97,
+      "p": 0.99
+    },
+    {
+      "w": "tell",
+      "start": 5.97,
+      "end": 6.21,
+      "p": 1.0
+    },
+    {
+      "w": "me",
+      "start": 6.21,
+      "end": 6.45,
+      "p": 1.0
+    },
+    {
+      "w": "who",
+      "start": 6.45,
+      "end": 6.91,
+      "p": 1.0
+    },
+    {
+      "w": "or",
+      "start": 6.91,
+      "end": 7.33,
+      "p": 0.93
+    },
+    {
+      "w": "what",
+      "start": 7.33,
+      "end": 7.73,
+      "p": 1.0
+    },
+    {
+      "w": "this",
+      "start": 7.73,
+      "end": 7.91,
+      "p": 1.0
+    },
+    {
+      "w": "problem",
+      "start": 7.91,
+      "end": 8.25,
+      "p": 1.0
+    },
+    {
+      "w": "is.",
+      "start": 8.25,
+      "end": 8.59,
+      "p": 1.0
+    },
+    {
+      "w": "Very",
+      "start": 8.97,
+      "end": 9.19,
+      "p": 0.97
+    },
+    {
+      "w": "curious.",
+      "start": 9.19,
+      "end": 9.51,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Hmm. Well, let's get up, move our bodies around, and you can tell me who or what this problem",
+      "start": 0.21,
+      "end": 8.25
+    },
+    {
+      "text": "is. Very curious.",
+      "start": 8.25,
+      "end": 9.51
+    }
+  ]
+}
