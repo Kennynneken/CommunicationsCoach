@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "duration_s": 6.63,
+  "words": [
+    {
+      "w": "March",
+      "start": 1.2,
+      "end": 1.72,
+      "p": 0.88
+    },
+    {
+      "w": "11th.",
+      "start": 1.72,
+      "end": 3.24,
+      "p": 0.92
+    },
+    {
+      "w": "What",
+      "start": 3.8,
+      "end": 4.32,
+      "p": 0.98
+    },
+    {
+      "w": "happened",
+      "start": 4.32,
+      "end": 4.54,
+      "p": 0.99
+    },
+    {
+      "w": "on",
+      "start": 4.54,
+      "end": 4.72,
+      "p": 0.99
+    },
+    {
+      "w": "March",
+      "start": 4.72,
+      "end": 4.9,
+      "p": 1.0
+    },
+    {
+      "w": "11th?",
+      "start": 4.9,
+      "end": 5.66,
+      "p": 0.98
+    }
+  ],
+  "segments": [
+    {
+      "text": "March 11th.",
+      "start": 1.2,
+      "end": 3.24
+    },
+    {
+      "text": "What happened on March 11th?",
+      "start": 3.8,
+      "end": 5.66
+    }
+  ]
+}
