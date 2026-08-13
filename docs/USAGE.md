@@ -113,10 +113,10 @@ Measured on this container (4 CPUs, ~10s clip), warm:
 
 What changed:
 
-- **`.claude/hooks/session-start.sh`** runs `setup.sh` when anything is missing
-  and warms the whisper weights, in the background, at session start. Cold model
-  load measured 42s against 2s warm — that cost now lands before you've finished
-  recording, not after you've uploaded.
+- **`.claude/hooks/session-start.sh`** installs anything missing and warms the
+  whisper weights before the session begins. Cold model load measured 42s
+  against 2s warm — paid at session start, not on your first upload. It runs
+  synchronously; see "Why is my container coming up empty?" below for why.
 - **`setup.sh` pre-downloads the whisper model**, so a fresh container pays for
   it during environment setup rather than on your first take.
 - **`body_language` runs in parallel with `transcribe`.** Modest on a 4-core box
