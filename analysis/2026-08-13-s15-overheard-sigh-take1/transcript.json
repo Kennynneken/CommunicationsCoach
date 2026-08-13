@@ -1,0 +1,85 @@
+{
+  "language": "en",
+  "duration_s": 5.05,
+  "words": [
+    {
+      "w": "Seems",
+      "start": 0.62,
+      "end": 1.12,
+      "p": 0.84
+    },
+    {
+      "w": "like",
+      "start": 1.12,
+      "end": 1.32,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 1.32,
+      "end": 1.42,
+      "p": 0.91
+    },
+    {
+      "w": "need",
+      "start": 1.42,
+      "end": 1.54,
+      "p": 0.98
+    },
+    {
+      "w": "some",
+      "start": 1.54,
+      "end": 1.72,
+      "p": 1.0
+    },
+    {
+      "w": "space",
+      "start": 1.72,
+      "end": 2.06,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 2.06,
+      "end": 2.26,
+      "p": 1.0
+    },
+    {
+      "w": "cool",
+      "start": 2.26,
+      "end": 2.46,
+      "p": 0.94
+    },
+    {
+      "w": "down.",
+      "start": 2.46,
+      "end": 2.72,
+      "p": 1.0
+    },
+    {
+      "w": "What's",
+      "start": 3.22,
+      "end": 3.68,
+      "p": 0.98
+    },
+    {
+      "w": "going",
+      "start": 3.68,
+      "end": 3.84,
+      "p": 0.98
+    },
+    {
+      "w": "on?",
+      "start": 3.84,
+      "end": 4.1,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Seems like you need some space to cool down. What's going on?",
+      "start": 0.62,
+      "end": 4.1
+    }
+  ]
+}
