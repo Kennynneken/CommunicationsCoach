@@ -1,0 +1,499 @@
+{
+  "language": "en",
+  "duration_s": 22.31,
+  "words": [
+    {
+      "w": "Oh",
+      "start": 0.08,
+      "end": 0.62,
+      "p": 0.69
+    },
+    {
+      "w": "yeah,",
+      "start": 0.62,
+      "end": 0.88,
+      "p": 0.66
+    },
+    {
+      "w": "Sean",
+      "start": 1.28,
+      "end": 1.4,
+      "p": 0.44
+    },
+    {
+      "w": "and",
+      "start": 1.4,
+      "end": 1.52,
+      "p": 0.99
+    },
+    {
+      "w": "I",
+      "start": 1.52,
+      "end": 1.64,
+      "p": 0.97
+    },
+    {
+      "w": "go",
+      "start": 1.64,
+      "end": 1.76,
+      "p": 0.89
+    },
+    {
+      "w": "way",
+      "start": 1.76,
+      "end": 1.96,
+      "p": 0.98
+    },
+    {
+      "w": "back",
+      "start": 1.96,
+      "end": 2.26,
+      "p": 1.0
+    },
+    {
+      "w": "two,",
+      "start": 2.26,
+      "end": 2.88,
+      "p": 0.57
+    },
+    {
+      "w": "three",
+      "start": 3.3,
+      "end": 3.7,
+      "p": 0.99
+    },
+    {
+      "w": "years.",
+      "start": 3.7,
+      "end": 4.16,
+      "p": 0.99
+    },
+    {
+      "w": "We",
+      "start": 4.9,
+      "end": 5.14,
+      "p": 1.0
+    },
+    {
+      "w": "met",
+      "start": 5.14,
+      "end": 5.6,
+      "p": 0.99
+    },
+    {
+      "w": "deer",
+      "start": 5.6,
+      "end": 5.94,
+      "p": 0.98
+    },
+    {
+      "w": "hunting",
+      "start": 5.94,
+      "end": 6.18,
+      "p": 0.99
+    },
+    {
+      "w": "a",
+      "start": 6.18,
+      "end": 6.4,
+      "p": 0.99
+    },
+    {
+      "w": "couple",
+      "start": 6.4,
+      "end": 6.64,
+      "p": 1.0
+    },
+    {
+      "w": "years",
+      "start": 6.64,
+      "end": 6.88,
+      "p": 0.69
+    },
+    {
+      "w": "ago",
+      "start": 6.88,
+      "end": 7.14,
+      "p": 1.0
+    },
+    {
+      "w": "at",
+      "start": 7.14,
+      "end": 7.32,
+      "p": 0.9
+    },
+    {
+      "w": "a",
+      "start": 7.32,
+      "end": 7.42,
+      "p": 0.97
+    },
+    {
+      "w": "buddy",
+      "start": 7.42,
+      "end": 7.62,
+      "p": 0.75
+    },
+    {
+      "w": "Rob's",
+      "start": 7.62,
+      "end": 8.14,
+      "p": 0.89
+    },
+    {
+      "w": "cabin",
+      "start": 8.14,
+      "end": 8.54,
+      "p": 0.93
+    },
+    {
+      "w": "and",
+      "start": 8.54,
+      "end": 8.96,
+      "p": 0.45
+    },
+    {
+      "w": "we,",
+      "start": 8.96,
+      "end": 9.22,
+      "p": 0.52
+    },
+    {
+      "w": "I",
+      "start": 9.36,
+      "end": 9.44,
+      "p": 0.97
+    },
+    {
+      "w": "know",
+      "start": 9.44,
+      "end": 9.58,
+      "p": 0.99
+    },
+    {
+      "w": "ever",
+      "start": 9.58,
+      "end": 9.76,
+      "p": 0.68
+    },
+    {
+      "w": "since",
+      "start": 9.76,
+      "end": 10.04,
+      "p": 1.0
+    },
+    {
+      "w": "we've",
+      "start": 10.04,
+      "end": 10.46,
+      "p": 0.92
+    },
+    {
+      "w": "gotten",
+      "start": 10.46,
+      "end": 11.02,
+      "p": 0.8
+    },
+    {
+      "w": "out",
+      "start": 11.02,
+      "end": 11.26,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 11.26,
+      "end": 11.38,
+      "p": 0.77
+    },
+    {
+      "w": "the",
+      "start": 11.38,
+      "end": 11.5,
+      "p": 0.97
+    },
+    {
+      "w": "tree",
+      "start": 11.5,
+      "end": 11.74,
+      "p": 0.94
+    },
+    {
+      "w": "stands",
+      "start": 11.74,
+      "end": 12.12,
+      "p": 0.9
+    },
+    {
+      "w": "together,",
+      "start": 12.12,
+      "end": 12.44,
+      "p": 0.98
+    },
+    {
+      "w": "got",
+      "start": 12.68,
+      "end": 12.76,
+      "p": 0.94
+    },
+    {
+      "w": "some",
+      "start": 12.76,
+      "end": 12.96,
+      "p": 0.99
+    },
+    {
+      "w": "time",
+      "start": 12.96,
+      "end": 13.24,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 13.24,
+      "end": 13.38,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 13.38,
+      "end": 13.48,
+      "p": 1.0
+    },
+    {
+      "w": "woods,",
+      "start": 13.48,
+      "end": 13.8,
+      "p": 1.0
+    },
+    {
+      "w": "so",
+      "start": 13.98,
+      "end": 14.14,
+      "p": 0.99
+    },
+    {
+      "w": "he",
+      "start": 14.14,
+      "end": 14.32,
+      "p": 0.99
+    },
+    {
+      "w": "thought",
+      "start": 14.32,
+      "end": 14.54,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 14.54,
+      "end": 14.68,
+      "p": 0.91
+    },
+    {
+      "w": "it'd",
+      "start": 14.68,
+      "end": 14.8,
+      "p": 0.84
+    },
+    {
+      "w": "be",
+      "start": 14.8,
+      "end": 14.98,
+      "p": 1.0
+    },
+    {
+      "w": "a",
+      "start": 14.98,
+      "end": 15.16,
+      "p": 0.98
+    },
+    {
+      "w": "good",
+      "start": 15.16,
+      "end": 15.66,
+      "p": 1.0
+    },
+    {
+      "w": "idea",
+      "start": 15.66,
+      "end": 15.86,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 15.86,
+      "end": 16.0,
+      "p": 1.0
+    },
+    {
+      "w": "bring",
+      "start": 16.0,
+      "end": 16.16,
+      "p": 1.0
+    },
+    {
+      "w": "me",
+      "start": 16.16,
+      "end": 16.38,
+      "p": 1.0
+    },
+    {
+      "w": "out",
+      "start": 16.38,
+      "end": 16.56,
+      "p": 0.99
+    },
+    {
+      "w": "here",
+      "start": 16.56,
+      "end": 16.76,
+      "p": 0.99
+    },
+    {
+      "w": "and",
+      "start": 16.76,
+      "end": 16.88,
+      "p": 0.93
+    },
+    {
+      "w": "meet",
+      "start": 16.88,
+      "end": 17.02,
+      "p": 1.0
+    },
+    {
+      "w": "some",
+      "start": 17.02,
+      "end": 17.26,
+      "p": 1.0
+    },
+    {
+      "w": "new",
+      "start": 17.26,
+      "end": 17.42,
+      "p": 1.0
+    },
+    {
+      "w": "people",
+      "start": 17.42,
+      "end": 17.82,
+      "p": 1.0
+    },
+    {
+      "w": "and",
+      "start": 17.82,
+      "end": 18.04,
+      "p": 0.87
+    },
+    {
+      "w": "integrate",
+      "start": 18.04,
+      "end": 18.36,
+      "p": 1.0
+    },
+    {
+      "w": "me",
+      "start": 18.36,
+      "end": 18.62,
+      "p": 1.0
+    },
+    {
+      "w": "into",
+      "start": 18.62,
+      "end": 18.74,
+      "p": 0.89
+    },
+    {
+      "w": "his",
+      "start": 18.74,
+      "end": 18.86,
+      "p": 0.98
+    },
+    {
+      "w": "community.",
+      "start": 18.86,
+      "end": 19.34,
+      "p": 1.0
+    },
+    {
+      "w": "I'm",
+      "start": 19.96,
+      "end": 20.1,
+      "p": 0.84
+    },
+    {
+      "w": "curious",
+      "start": 20.1,
+      "end": 20.3,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 20.3,
+      "end": 20.56,
+      "p": 1.0
+    },
+    {
+      "w": "you.",
+      "start": 20.56,
+      "end": 20.82,
+      "p": 1.0
+    },
+    {
+      "w": "What's",
+      "start": 21.22,
+      "end": 21.4,
+      "p": 1.0
+    },
+    {
+      "w": "your",
+      "start": 21.4,
+      "end": 21.48,
+      "p": 1.0
+    },
+    {
+      "w": "story?",
+      "start": 21.48,
+      "end": 21.82,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Oh yeah, Sean and I go way back two, three years.",
+      "start": 0.08,
+      "end": 4.16
+    },
+    {
+      "text": "We met deer hunting a couple years ago at a buddy Rob's cabin and we, I know ever since",
+      "start": 4.9,
+      "end": 10.04
+    },
+    {
+      "text": "we've gotten out in the tree stands together, got some time in the woods, so he thought that",
+      "start": 10.04,
+      "end": 14.68
+    },
+    {
+      "text": "it'd be a good idea to bring me out here and meet some new people and integrate me",
+      "start": 14.68,
+      "end": 18.62
+    },
+    {
+      "text": "into his community.",
+      "start": 18.62,
+      "end": 19.34
+    },
+    {
+      "text": "I'm curious about you.",
+      "start": 19.96,
+      "end": 20.82
+    },
+    {
+      "text": "What's your story?",
+      "start": 21.22,
+      "end": 21.82
+    }
+  ]
+}
