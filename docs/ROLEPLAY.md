@@ -50,9 +50,13 @@ The scene is only useful if the character responds the way a real person would.
 ## Reporting during a roleplay
 
 Write the full report to `reports/` every take — that's the longitudinal record.
-But **the chat reply must be short**. Score, the one or two genuine strengths
-with their numbers, the sharpest miss, then straight back into the scene. Long
-chat write-ups kill the momentum that makes this mode work.
+But **the chat reply must be minimal** (per Kenny, 2026-08-14): **score, THE
+ONE THING for the next take, then the scene. Nothing else.** No strengths
+list, no secondary fixes, no metric tour — all of that lives in the written
+report for later reading. One correction per shot is the one-element rule
+(Giang) applied to the feedback channel itself: a list of five fixes produces
+zero fixes. If a previous ONE THING was executed, it may be acknowledged in
+one clause, then replaced.
 
 ## File naming
 
