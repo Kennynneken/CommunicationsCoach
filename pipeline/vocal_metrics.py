@@ -17,6 +17,26 @@ FILLER_BRIDGE_WINDOW = 0.3
 SINGLE_FILLERS = {"um", "uh", "er", "ah", "like"}
 MULTI_FILLERS = [("you", "know"), ("sort", "of"), ("kind", "of"), ("i", "mean")]
 
+# "like" is a filler in "it was, like, huge" but a verb in "I really like that"
+# and a preposition in "a room like this". These guards keep real usages out of
+# the filler count — a false positive there fakes a regression in a metric
+# tracked longitudinally.
+LIKE_COMPARATIVE_PREV = {
+    "is", "was", "are", "were", "be", "been", "am",
+    "feels", "feel", "felt", "looks", "look", "looked",
+    "seems", "seem", "seemed", "sounds", "sound", "sounded",
+}
+LIKE_VERB_PREV = {
+    "i", "you", "we", "they", "he", "she", "who", "people",
+    "would", "wouldn't", "d", "do", "don't", "does", "doesn't",
+    "did", "didn't", "to", "ll", "will", "might", "may", "really",
+}
+LIKE_SKIP_ADVERBS = {
+    "really", "real", "actually", "totally", "genuinely", "honestly",
+    "especially", "particularly", "also", "still", "always", "never",
+    "definitely", "absolutely",
+}
+
 
 def norm(word: str) -> str:
     return re.sub(r"[^a-z']", "", word.lower())
@@ -24,6 +44,27 @@ def norm(word: str) -> str:
 
 def ends_sentence(word: str) -> bool:
     return bool(re.search(r"[.!?…]$", word.strip()))
+
+
+def like_is_filler(normed, i):
+    """True when the "like" at index i is discourse filler, not verb/comparative.
+
+    Walks back over intensifying adverbs so "I really like" reads the same as
+    "I like". Anything preceded by a subject pronoun, modal or "to" is the verb.
+    """
+    j = i - 1
+    while j >= 0 and normed[j] in LIKE_SKIP_ADVERBS and normed[j] not in LIKE_VERB_PREV:
+        j -= 1
+    if j < 0:
+        return True
+    prev = normed[j]
+    # Quotative "I was like" IS filler; comparative "it was like huge" is not.
+    # The subject is what separates them.
+    if prev in {"was", "were", "am", "are"} and j > 0 and normed[j - 1] in {
+        "i", "he", "she", "they", "we", "you",
+    }:
+        return True
+    return prev not in LIKE_COMPARATIVE_PREV and prev not in LIKE_VERB_PREV
 
 
 def find_fillers(words):
@@ -39,13 +80,7 @@ def find_fillers(words):
 
     for i, n in enumerate(normed):
         if n in SINGLE_FILLERS:
-            # "like" only when non-comparative: skip when preceded by a
-            # be/feel/look/seem/sound verb ("it was like...") — approximation.
-            if n == "like" and i > 0 and normed[i - 1] in {
-                "is", "was", "are", "were", "be", "been", "am",
-                "feels", "feel", "felt", "looks", "look", "looked",
-                "seems", "seem", "seemed", "sounds", "sound", "sounded",
-            }:
+            if n == "like" and not like_is_filler(normed, i):
                 continue
             add(i, n)
     for a, b in MULTI_FILLERS:
