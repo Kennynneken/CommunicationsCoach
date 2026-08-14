@@ -32,6 +32,15 @@ After each take, choose one:
 
 Advance by default. Re-run only when the miss would compound.
 
+**Mastery mode (added 2026-08-14, per Kenny):** when invoked, the scene
+freezes and the SAME beat is re-drilled — same setup, same incoming line —
+until the take scores **80 or higher**. The other person's line does not
+change between attempts; only Kenny's response does. Score each attempt
+normally (full report, history logged, `-takeN` increments), chat reply stays
+score + ONE THING + "again" or "passed." The bar is the headline score for
+the beat, not a single dimension. On a pass, the scene resumes from the
+passing take's version of events.
+
 ## Playing the other person honestly
 
 The scene is only useful if the character responds the way a real person would.
