@@ -1,0 +1,49 @@
+{
+  "language": "en",
+  "duration_s": 4.44,
+  "words": [
+    {
+      "w": "Hey,",
+      "start": 0.75,
+      "end": 1.37,
+      "p": 0.84
+    },
+    {
+      "w": "I'm",
+      "start": 1.99,
+      "end": 2.25,
+      "p": 1.0
+    },
+    {
+      "w": "Kenny.",
+      "start": 2.25,
+      "end": 2.51,
+      "p": 0.98
+    },
+    {
+      "w": "What's",
+      "start": 2.97,
+      "end": 3.29,
+      "p": 0.99
+    },
+    {
+      "w": "your",
+      "start": 3.29,
+      "end": 3.39,
+      "p": 1.0
+    },
+    {
+      "w": "name?",
+      "start": 3.39,
+      "end": 3.59,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Hey, I'm Kenny. What's your name?",
+      "start": 0.75,
+      "end": 3.59
+    }
+  ]
+}
