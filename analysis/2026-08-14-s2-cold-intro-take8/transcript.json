@@ -1,0 +1,309 @@
+{
+  "language": "en",
+  "duration_s": 18.88,
+  "words": [
+    {
+      "w": "Damn",
+      "start": 1.74,
+      "end": 2.42,
+      "p": 0.77
+    },
+    {
+      "w": "brother,",
+      "start": 2.42,
+      "end": 2.74,
+      "p": 0.47
+    },
+    {
+      "w": "I",
+      "start": 3.68,
+      "end": 3.94,
+      "p": 0.97
+    },
+    {
+      "w": "Imagine",
+      "start": 4.38,
+      "end": 4.64,
+      "p": 0.35
+    },
+    {
+      "w": "you've",
+      "start": 4.64,
+      "end": 5.14,
+      "p": 0.94
+    },
+    {
+      "w": "really",
+      "start": 5.14,
+      "end": 5.66,
+      "p": 0.98
+    },
+    {
+      "w": "seen",
+      "start": 5.66,
+      "end": 5.98,
+      "p": 0.97
+    },
+    {
+      "w": "some",
+      "start": 5.98,
+      "end": 6.16,
+      "p": 0.99
+    },
+    {
+      "w": "shit",
+      "start": 6.16,
+      "end": 6.42,
+      "p": 0.97
+    },
+    {
+      "w": "in",
+      "start": 6.42,
+      "end": 6.56,
+      "p": 0.96
+    },
+    {
+      "w": "your",
+      "start": 6.56,
+      "end": 6.64,
+      "p": 1.0
+    },
+    {
+      "w": "day.",
+      "start": 6.64,
+      "end": 6.92,
+      "p": 1.0
+    },
+    {
+      "w": "I",
+      "start": 7.74,
+      "end": 8.26,
+      "p": 0.99
+    },
+    {
+      "w": "Couldn't",
+      "start": 8.26,
+      "end": 8.46,
+      "p": 0.89
+    },
+    {
+      "w": "imagine",
+      "start": 8.46,
+      "end": 8.74,
+      "p": 0.98
+    },
+    {
+      "w": "what",
+      "start": 8.74,
+      "end": 8.94,
+      "p": 0.99
+    },
+    {
+      "w": "it's",
+      "start": 8.94,
+      "end": 9.12,
+      "p": 0.99
+    },
+    {
+      "w": "like",
+      "start": 9.12,
+      "end": 9.28,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 9.28,
+      "end": 9.48,
+      "p": 0.97
+    },
+    {
+      "w": "just",
+      "start": 9.48,
+      "end": 9.72,
+      "p": 0.99
+    },
+    {
+      "w": "be",
+      "start": 9.72,
+      "end": 10.6,
+      "p": 0.7
+    },
+    {
+      "w": "around",
+      "start": 10.6,
+      "end": 10.8,
+      "p": 1.0
+    },
+    {
+      "w": "people",
+      "start": 10.8,
+      "end": 11.04,
+      "p": 0.99
+    },
+    {
+      "w": "who",
+      "start": 11.04,
+      "end": 11.22,
+      "p": 0.99
+    },
+    {
+      "w": "are",
+      "start": 11.22,
+      "end": 11.34,
+      "p": 0.99
+    },
+    {
+      "w": "sick",
+      "start": 11.34,
+      "end": 11.62,
+      "p": 0.98
+    },
+    {
+      "w": "all",
+      "start": 11.62,
+      "end": 11.88,
+      "p": 1.0
+    },
+    {
+      "w": "day",
+      "start": 11.88,
+      "end": 12.18,
+      "p": 1.0
+    },
+    {
+      "w": "I",
+      "start": 12.18,
+      "end": 12.98,
+      "p": 0.43
+    },
+    {
+      "w": "imagine",
+      "start": 12.98,
+      "end": 13.36,
+      "p": 0.72
+    },
+    {
+      "w": "that",
+      "start": 13.36,
+      "end": 13.6,
+      "p": 1.0
+    },
+    {
+      "w": "you've",
+      "start": 13.6,
+      "end": 13.82,
+      "p": 0.99
+    },
+    {
+      "w": "seen",
+      "start": 13.82,
+      "end": 14.0,
+      "p": 1.0
+    },
+    {
+      "w": "some",
+      "start": 14.0,
+      "end": 14.2,
+      "p": 0.84
+    },
+    {
+      "w": "things",
+      "start": 14.2,
+      "end": 14.44,
+      "p": 0.99
+    },
+    {
+      "w": "that",
+      "start": 14.44,
+      "end": 14.64,
+      "p": 0.98
+    },
+    {
+      "w": "you",
+      "start": 14.64,
+      "end": 14.8,
+      "p": 1.0
+    },
+    {
+      "w": "can",
+      "start": 14.8,
+      "end": 14.96,
+      "p": 0.99
+    },
+    {
+      "w": "never",
+      "start": 14.96,
+      "end": 15.32,
+      "p": 1.0
+    },
+    {
+      "w": "unsee",
+      "start": 15.32,
+      "end": 16.16,
+      "p": 0.94
+    },
+    {
+      "w": "How'd",
+      "start": 16.72,
+      "end": 17.24,
+      "p": 0.75
+    },
+    {
+      "w": "you",
+      "start": 17.24,
+      "end": 17.32,
+      "p": 0.99
+    },
+    {
+      "w": "move",
+      "start": 17.32,
+      "end": 17.52,
+      "p": 1.0
+    },
+    {
+      "w": "forward",
+      "start": 17.52,
+      "end": 17.92,
+      "p": 1.0
+    },
+    {
+      "w": "through",
+      "start": 17.92,
+      "end": 18.26,
+      "p": 0.99
+    },
+    {
+      "w": "it?",
+      "start": 18.26,
+      "end": 18.48,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Damn brother, I",
+      "start": 1.74,
+      "end": 3.94
+    },
+    {
+      "text": "Imagine you've really seen some shit in your day. I",
+      "start": 4.38,
+      "end": 8.26
+    },
+    {
+      "text": "Couldn't imagine what it's like to just be around people who are sick all day",
+      "start": 8.26,
+      "end": 12.18
+    },
+    {
+      "text": "I imagine that you've seen some things that you can never unsee",
+      "start": 12.18,
+      "end": 16.16
+    },
+    {
+      "text": "How'd you move forward through it?",
+      "start": 16.72,
+      "end": 18.48
+    }
+  ]
+}

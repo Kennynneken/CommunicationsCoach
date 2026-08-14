@@ -74,7 +74,8 @@ def like_is_filler(normed, i):
     # "What was that like (for you)?" / "what's it like" — wh-predicate, not
     # filler: "like" preceded by a pronoun object with a wh-word earlier in
     # the clause.
-    if prev in {"that", "it", "this", "he", "she", "they"} and any(
+    if prev in {"that", "it", "this", "he", "she", "they", "it's", "that's",
+                "what's"} and any(
         w in {"what", "how"} for w in normed[max(0, i - 6):i]
     ):
         return False
