@@ -28,7 +28,12 @@ self-cancellation ("jokes aside," "shall we," "kind of," "I mean"). A hedge
 attached to a strong line is a confidence failure even when the voice is
 steady. **Hedges, padding and approval-checks are safety behaviors
 (Smithyman): they exist to pre-soften judgment, they raise anxiety, and they
-block connection. Name them as such in reports.**
+block connection. Name them as such in reports.** Greene's distinction is the
+scoring line: **vulnerability seduces, insecurity repels** — an unguarded
+admission from a stable base scores UP; the same content wrapped in hedges
+scores DOWN. Boldness of entry counts here too: a committed opener at full
+volume vs. a hedged half-entry ("timidity is self-absorption," not
+politeness).
 **100:** every sentence lands as something he would defend out loud.
 
 ### 2. Warmth
@@ -42,7 +47,11 @@ words" (Giang); a warm expression arriving after the sentence delivered the
 warmth too late for the sentence to carry it. Also melodic register,
 generosity of attention, absence of transactional framing. Warmth is not
 niceness — it's whether they leave feeling better about themselves than when
-they arrived.
+they arrived. **Mitfreude check (Greene):** when they share good news, score
+the enthusiasm response — latency, pitch lift, smile, follow-up question.
+Visible joy in someone else's win is rare and magnetic; a flat "nice" is a
+declined bid. The Charmer's rule is the frame: make THEM the center of
+attention, be a source of pleasure, never complain, never justify.
 **100:** they feel chosen, not processed.
 
 ### 3. Body Language
@@ -82,7 +91,10 @@ content ("a little bit of family history" for a business collapsing) are the
 classic failure. So is the padding clause. So is the adjective stack. Specific
 beats general (Giang: senses + emotion; "For Example" — a concrete picture
 beats an abstraction, Smithyman). Economy: RDJ's script-breaking lines are
-*short*. **100:** every word is the right word and there are no extra ones.
+*short*, and Greene's Law 4 is the doctrine — "the more you say, the more
+common you appear." Score words-per-turn and trailing repetition (restating a
+landed point in weaker words); the Windbag flag fires at >60% talk-time in a
+duo. **100:** every word is the right word and there are no extra ones.
 
 ### 6. Unexpectedness
 *The Robert Downey Jr. axis — now specified from the verified literature.*
@@ -96,7 +108,11 @@ stock answer was available; visible enjoyment of his own material *while
 delivering it* (smile/pitch spike during, not after); teasing that goes at
 himself first, with warmth repair after. Autopilot scores in the 20s no matter
 how smoothly it's delivered. This is the scarcest dimension and the one with
-the highest ceiling.
+the highest ceiling. Greene adds the calibration rule: **conform in form,
+stand out in substance** — match the room's register and codes, differentiate
+through purpose, novelty, and attention quality; and **mystery via
+contradiction** (pair warmth with unexpected directness; don't front-load the
+whole résumé — leave something unexplained).
 **100:** they retell it to someone else that week.
 
 ### 7. Curiosity
@@ -108,7 +124,10 @@ classification — facts of life vs. **feelings about life** (Duhigg: deep
 questions ask about values, beliefs, judgments, experiences; "What made you
 decide…" not "Where did you…"). Curiosity is also his anxiety tool: attention
 on the other person is the clinical cure for self-focus (Smithyman — "don't
-try to be interesting; be INTERESTED").
+try to be interesting; be INTERESTED"; Greene — outer-direction: "enter their
+spirit and hear what they're missing in life"). **Gap-reading (Greene) is the
+elite tier:** beyond the words, did he catch what this person's role starves
+them of — recognition, fun, being asked a real question — and respond to THAT?
 **CEILING RULE (new):** an all-questions take caps at ~70. Pure question-asking
 builds liking but not closeness (Smithyman's gap; Aron: no alternation → no
 bond). World-class curiosity *braids* questions with self-disclosure — see

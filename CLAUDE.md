@@ -52,9 +52,17 @@ needed. Only follow `BUILD.md` if the pipeline files themselves are absent.
 
 Grounded in the research corpus in `coaching/research-foundations.md`
 (Vinh Giang, the RDJ analysis literature, Dr. Thomas Smithyman, Charles
-Duhigg's *Supercommunicators* — with the underlying studies). The drill
-library implementing these is `coaching/drills.md`. When principles here and
-detail there conflict, the research file wins.
+Duhigg's *Supercommunicators*, Robert Greene — with the underlying studies).
+The drill library implementing these is `coaching/drills.md`. When principles
+here and detail there conflict, the research file wins.
+
+The most agreed-upon mechanic across all five sources: **attention off
+yourself, onto them.** Self-focus is the anxiety engine, the charm killer,
+and the timidity source at once; outer-direction is the cure for all three.
+Two Greene lines carry standing weight: **vulnerability seduces, insecurity
+repels** (an unguarded admission from a stable base vs. the same content
+wrapped in hedges), and **say less than necessary** — the extra sentence
+cheapens the good one. Leave conversations at their peak, not their decay.
 
 ### Emotion over information
 Words matter, but how they make the listener FEEL matters far more. Conversation

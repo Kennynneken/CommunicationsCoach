@@ -28,6 +28,11 @@ A cold approach is its own beat with its own goal function. Per Smithyman:
   4. **Safety behaviors named and penalized**: padding clauses, speed,
      approval-checking, apologizing for existing ("sorry to interrupt"),
      over-explaining the approach itself.
+  5. **Commitment (Greene, Law 28):** the approach is entered with boldness or
+     not at all — full volume on the first sentence, no hovering, no hedged
+     half-entry. "Doubts and hesitations infect the execution"; timidity is
+     self-absorption wearing politeness. A committed opener that misses beats
+     a hedged one that lands.
 - **Do not demand unexpectedness in the first ten seconds.** Script-breaking
   is earned *inside* a conversation; at the door, warm + plain + certain beats
   clever. (RDJ's script transcendence requires knowing the script first —
@@ -57,6 +62,16 @@ A cold approach is its own beat with its own goal function. Per Smithyman:
   others, and whether his questions redirect the group thread.
 - Filler per minute > 5 in a first-impression context is a priority fix; the
   fix is a pause, not suppression (Giang).
+- **Exits: leave at the peak (Greene, Law 16).** Score whether he ends the
+  conversation on its emotional high point or rides it into dead air. A close
+  that names specific value + a concrete next step, delivered downward, at the
+  peak — that is the full move. "Too much circulation makes the price go down."
+- **Status reading (Law 1):** with a clearly higher-status person, brilliance
+  goes into the questions, not the displays. Flag self-display escalation in
+  high-status scenes.
+- **Mitfreude moments:** when someone shares good news, the enthusiasm
+  response is scored (latency, pitch lift, smile, follow-up). Understate his
+  own wins; credit others.
 
 ## Common score bands
 - 80s: approached warm and plain, braided questions with disclosure, one

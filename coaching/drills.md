@@ -146,6 +146,40 @@ One notch louder than feels natural, especially on the first sentence of an
 approach. It will feel like shouting; it isn't. Drop volume only ON PURPOSE
 (intimacy on the line that matters).
 
+## Economy & exits (Greene block)
+
+### E1 · Say it once
+**Trains:** verbal acuity · **Source:** Greene (Law 4: say less than
+necessary), the padding-clause work
+Deliver the point, then stop — no restatement in weaker words, no trailing
+lap. "The more you say, the more common you appear." The padding clause and
+the trailing repetition are the same habit at different scales. Test on
+transcript: any sentence that re-says the previous one gets cut.
+
+### E2 · Leave at the peak
+**Trains:** presence, memorability · **Source:** Greene (Law 16 /
+Covetousness: "it is not possession but desire that impels people")
+End the conversation on its emotional high point — the laugh, the landed
+line, the exchanged real thing — not two minutes into its decay. Close with
+specific value + concrete next step, downward ending, gone. In roleplay:
+Kenny decides when the scene ends, and is scored on whether he chose the peak.
+
+### E3 · The Mitfreude rep
+**Trains:** warmth · **Source:** Greene (Law of Envy, inverted)
+When the scene partner shares good news: visible joy, fast — pitch lifts,
+face joins, then a follow-up question about THEIR win. No pivot to his own
+story (one-upping is the grandiosity tell). Coach injects a good-news beat
+into scenes specifically to score this.
+
+### E4 · Gap-reading
+**Trains:** curiosity, attunement (elite tier) · **Source:** Greene (Ideal
+Lover / victim theory: "people are constantly giving out signals as to what
+they lack")
+Within three minutes, form one hypothesis about what this person's role
+starves them of — recognition, fun, being taken seriously, a real question —
+and aim one move at the gap instead of the surface topic. Scored on whether
+the hypothesis showed up in his next question.
+
 ## Boundaries
 
 ### X1 · The playful exit

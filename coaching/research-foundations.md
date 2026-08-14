@@ -197,11 +197,100 @@ from a third-party writeup of his video.
 
 ---
 
-## 5. Where the four sources converge (highest-confidence coaching truths)
+## 5. Robert Greene (charisma mechanics, social dynamics)
+
+Added 2026-08-14 (second research pass). Sourcing: verified quote aggregators,
+full DOAC/Modern Wisdom transcripts, quote databases. **Coaching hygiene:** the
+48 Laws / Art of Seduction material carries an adversarial frame Greene himself
+calls descriptive-not-prescriptive; this repo uses his *mechanics* (attention,
+outer-direction, boldness, gap-reading) and drops the adversarial frame. His
+interview-era advice is already the compatible version.
+
+- **Outer-direction is the charisma mechanic** (verbatim, DOAC): *"You're not
+  having that internal monologue going, does she like me?… You're listening to
+  them and you're entering their spirit and hearing what they're missing in
+  life."* Attention is the scarce gift — "normally people never pay us
+  attention. We all want to be validated." Converges exactly with Smithyman's
+  self-focused-attention cure and Duhigg's perspective-getting.
+- **The four empathy skills** (*Laws of Human Nature*): **empathic attitude**
+  (assume you're ignorant; silence the inner monologue), **visceral empathy**
+  (feel their mood physically — tone, tension), **analytic empathy** (use
+  biography when reading fails), **empathic skill** (check your reads against
+  outcomes — empathy is a muscle).
+- **Gap-reading (the Ideal Lover / victim theory):** *"People are constantly
+  giving out signals as to what they lack."* The Casanova method: study them,
+  find what's missing in their life, supply it. In business rooms: identify
+  what this person's role starves them of (recognition, fun, a real question)
+  and respond to THAT, not the surface topic. This is the identity-layer move
+  in Greene's vocabulary.
+- **Vulnerability vs. insecurity — the critical distinction** (verbatim):
+  *"Vulnerability is seductive but insecurity is anti-seductive, and there's a
+  big difference."* Insecurity is contagious ("you can smell it… it makes you
+  feel insecure"). Vulnerability = one unguarded admission from a stable base
+  (= RDJ's emotional transparency); insecurity = hedges, pre-apologies,
+  approval-checks (= Smithyman's safety behaviors). Three sources, one
+  finding.
+- **Boldness (Law 28 / the Bold Move):** *"Your doubts and hesitations will
+  infect your execution… Everyone admires the bold; no one honors the timid."*
+  And the reframe that matters for Kenny: **"Timid people are often
+  self-absorbed, obsessed with the way people see them… timidity is
+  self-absorption,"** not politeness. The approach must be committed — no
+  hovering, no half-entry, no hedged opener.
+- **Say Less Than Necessary (Law 4):** *"The more you say, the more common you
+  appear, and the less in control… Powerful people impress by saying less."*
+  Validates the padding-clause coaching from the power side: the second
+  sentence doesn't just soften the line, it cheapens it. Observable: words per
+  turn, trailing repetition (restating the point in weaker words).
+- **Presence/absence — leave at the peak (Law 16 / Covetousness):** *"It is
+  not possession but desire that secretly impels people"*; *"too much
+  circulation makes the price go down."* Behavioral: shorter, denser
+  contributions; end the conversation at its emotional high point, not its
+  decay. Caveat: absence only works after presence is established.
+- **The Charismatic's ten qualities** (verified list, *Art of Seduction*):
+  purpose, mystery (via contradiction), saintliness, eloquence (words aimed at
+  emotion; repeatable phrases), theatricality, uninhibitedness, **fervency**,
+  vulnerability, adventurousness, **magnetism (the eyes** — steady gaze on the
+  key line; *"if any physical attribute is crucial, it is the eyes"*). His
+  claim: "All of these skills are acquirable."
+- **The Charmer's laws** (charm = "seduction without sex"): make the other
+  person the center of attention; be a source of pleasure ("lighthearted beats
+  serious"; "no one wants to hear about your problems"); calm in adversity;
+  never complain, never justify yourself; be useful subtly; follow through.
+- **The Anti-Seducer taxonomy** (what kills charm): core = "insecurity,
+  self-absorption, and inability to grasp the psychology of another person."
+  Scoreable sub-types: **Windbag** (over-talking "breaks the spell" —
+  talk-time >60% in a duo), **Bumbler** (visible self-monitoring — the
+  approval-check), **Suffocator** (too much too soon — depth is earned),
+  **Moralizer** (unsolicited judgment), **Reactor** (oversensitive to
+  slights).
+- **Mitfreude (Law of Envy, inverted):** active, visible joy in another's
+  good news is rare and magnetic. Observable: enthusiasm-response latency,
+  pitch lift, smile, and a follow-up question when someone shares a win. Its
+  hygiene twin: understate your own wins, credit others, confess a struggle
+  occasionally.
+- **Method acting / first impressions (Law of Role-Playing):** train yourself
+  to summon the required emotion, don't fake its surface — "people continually
+  leak their true feelings in nonverbal cues they cannot control," and the
+  audience reads leakage. People judge in seconds and rarely revise: work
+  hardest on the opening (justifies scoring the first 20 seconds separately).
+  Voice as tell: *"Your voice betrays your weakness, your lack of
+  confidence"* — and confidence itself is earned, not faked: *"Real confidence
+  comes from actual actions… if you feel confident, it will naturally radiate."*
+- **Increase reaction time (Law of Irrationality):** *"The longer you can
+  resist reacting, the more mental space for reflection."* The pre-turn pause
+  is the rationality drill — fourth source to converge on it.
+- **The three-law tension, resolved:** Court Attention (Law 6) vs. Behave Like
+  Others (Law 38) vs. Never Outshine (Law 1) → **conform in form, stand out in
+  substance**: match the room's register and codes; differentiate through
+  purpose, novelty, and attention quality. With a higher-status person,
+  brilliance goes into questions, not displays.
+
+## 6. Where the sources converge (highest-confidence coaching truths)
 
 1. **Prepared spontaneity.** Giang ("Don't hope for a good conversation —
    prepare for one"), Recenello ("tee'd up"), Duhigg (30-second prep study),
-   Smithyman (back-pocket basics). Preparation is not inauthentic; it is the
+   Smithyman (back-pocket basics), Greene (method acting — rehearse the
+   emotion, effort as theater). Preparation is not inauthentic; it is the
    *mechanism* of ease.
 2. **Warmth must be OUT and ON TIME.** Smithyman (warmth is reflected; hiding
    interest is a safety behavior), Giang (face is the remote control of tone),
@@ -221,8 +310,20 @@ from a third-party writeup of his video.
    impression), Duhigg/Epley (deep talk is less awkward than predicted), RDJ
    (self-amusement — the goal is your own enjoyment, which removes
    outcome-dependence).
+7. **Attention off yourself, onto them — five for five.** Smithyman
+   (self-focused attention is the anxiety engine), Duhigg (perspective-
+   getting), Greene (outer-direction; "timidity is self-absorption"), Giang
+   (curiosity as the conversation engine), RDJ literature (perceptual acuity).
+   The single most agreed-upon mechanic in the entire corpus.
+8. **Vulnerability works only from a stable base.** Greene (vulnerability
+   seduces, insecurity repels), RDJ (transparency + self-acceptance),
+   Smithyman (safety behaviors ARE the insecurity display), Duhigg
+   (vulnerability = "something the other person might judge," small is fine).
+9. **Less is more, and leave high.** Greene (Law 4 say less; leave at the
+   peak), Giang (2–3 min story cap), Sievers (influencers talk less), the
+   padding-clause coaching. The extra sentence cheapens the good one.
 
-## 6. What this changed in the grading system (honest deltas)
+## 7. What this changed in the grading system (honest deltas)
 
 1. **The conversational tempo doctrine was miscalibrated.** Old: "110–150 WPM
    power zone" applied everywhere; Kenny's 193–264 scored as a standing top
@@ -253,3 +354,11 @@ from a third-party writeup of his video.
    penalty, pre-turn breath, the doctor test (verbatim Duhigg), three-layers
    (Aron/Duhigg), novelty/unexpectedness axis (RDJ stack), Duchenne tracking,
    melody as memorability, callbacks, prepared openers.
+8. **Greene additions (2026-08-14 second pass):** words-per-turn and
+   trailing-repetition now scored under verbal acuity (Law 4); exits scored on
+   leave-at-peak vs. ride-to-decay; approach commitment scored under boldness
+   (hedged opener = timidity = self-absorption, a safety behavior); gaze
+   steadiness ON the key line (magnetism); Mitfreude as a warmth observable
+   (enthusiasm response to others' good news); the Anti-Seducer taxonomy as
+   named negative flags (Windbag / Bumbler / Suffocator / Moralizer);
+   "conform in form, stand out in substance" as the room-calibration rule.
