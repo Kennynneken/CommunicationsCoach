@@ -71,6 +71,13 @@ def like_is_filler(normed, i):
         return True
     if i + 1 < len(normed) and normed[i + 1] in LIKE_PREPOSITIONAL_NEXT:
         return False
+    # "What was that like (for you)?" / "what's it like" — wh-predicate, not
+    # filler: "like" preceded by a pronoun object with a wh-word earlier in
+    # the clause.
+    if prev in {"that", "it", "this", "he", "she", "they"} and any(
+        w in {"what", "how"} for w in normed[max(0, i - 6):i]
+    ):
+        return False
     return prev not in LIKE_COMPARATIVE_PREV and prev not in LIKE_VERB_PREV
 
 

@@ -1,0 +1,151 @@
+{
+  "language": "en",
+  "duration_s": 7.74,
+  "words": [
+    {
+      "w": "Hey,",
+      "start": 0.56,
+      "end": 1.08,
+      "p": 0.92
+    },
+    {
+      "w": "brother,",
+      "start": 1.12,
+      "end": 1.26,
+      "p": 0.97
+    },
+    {
+      "w": "I'm",
+      "start": 1.42,
+      "end": 1.54,
+      "p": 1.0
+    },
+    {
+      "w": "glad",
+      "start": 1.54,
+      "end": 1.88,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 1.88,
+      "end": 2.1,
+      "p": 0.99
+    },
+    {
+      "w": "nobody's",
+      "start": 2.1,
+      "end": 2.58,
+      "p": 0.98
+    },
+    {
+      "w": "bleeding",
+      "start": 2.58,
+      "end": 2.9,
+      "p": 0.98
+    },
+    {
+      "w": "on",
+      "start": 2.9,
+      "end": 3.24,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 3.24,
+      "end": 3.48,
+      "p": 1.0
+    },
+    {
+      "w": "at",
+      "start": 3.48,
+      "end": 4.0,
+      "p": 0.43
+    },
+    {
+      "w": "least",
+      "start": 4.0,
+      "end": 4.16,
+      "p": 1.0
+    },
+    {
+      "w": "not",
+      "start": 4.16,
+      "end": 4.4,
+      "p": 0.99
+    },
+    {
+      "w": "yet.",
+      "start": 4.4,
+      "end": 4.78,
+      "p": 0.99
+    },
+    {
+      "w": "Come",
+      "start": 5.04,
+      "end": 5.5,
+      "p": 0.47
+    },
+    {
+      "w": "about",
+      "start": 5.5,
+      "end": 5.66,
+      "p": 0.37
+    },
+    {
+      "w": "the",
+      "start": 5.66,
+      "end": 5.78,
+      "p": 0.98
+    },
+    {
+      "w": "burnout.",
+      "start": 5.78,
+      "end": 6.06,
+      "p": 0.94
+    },
+    {
+      "w": "What",
+      "start": 6.22,
+      "end": 6.34,
+      "p": 1.0
+    },
+    {
+      "w": "was",
+      "start": 6.34,
+      "end": 6.5,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 6.5,
+      "end": 6.64,
+      "p": 1.0
+    },
+    {
+      "w": "like",
+      "start": 6.64,
+      "end": 6.9,
+      "p": 0.96
+    },
+    {
+      "w": "for",
+      "start": 6.9,
+      "end": 7.16,
+      "p": 1.0
+    },
+    {
+      "w": "you?",
+      "start": 7.16,
+      "end": 7.34,
+      "p": 0.99
+    }
+  ],
+  "segments": [
+    {
+      "text": "Hey, brother, I'm glad that nobody's bleeding on you at least not yet. Come about the burnout. What was that like for you?",
+      "start": 0.56,
+      "end": 7.34
+    }
+  ]
+}

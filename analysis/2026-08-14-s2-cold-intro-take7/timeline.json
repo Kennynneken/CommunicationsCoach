@@ -1,0 +1,95 @@
+{
+  "duration_s": 7.74,
+  "has_video": true,
+  "timeline": [
+    {
+      "t": 0,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": null,
+      "intensity": 57.2,
+      "uprightness": 0.87,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 1,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 12.0,
+      "intensity": 72.1,
+      "uprightness": 0.9,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 2,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 11.6,
+      "intensity": 70.8,
+      "uprightness": 0.86,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 3,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 8.7,
+      "intensity": 60.9,
+      "uprightness": 0.9,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 4,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 34.1,
+      "intensity": 65.2,
+      "uprightness": 0.89,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 5,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 45.2,
+      "intensity": 65.5,
+      "uprightness": 0.88,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 6,
+      "speaking": true,
+      "wpm_local": 300,
+      "pitch_sd_local": 19.4,
+      "intensity": 67.3,
+      "uprightness": 0.9,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 7,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": null,
+      "intensity": 59.1,
+      "uprightness": 0.91,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    }
+  ],
+  "incongruence_flags": []
+}
