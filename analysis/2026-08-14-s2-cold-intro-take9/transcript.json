@@ -1,0 +1,126 @@
+{
+  "language": "en",
+  "duration_s": 8.45,
+  "words": [
+    {
+      "w": "I",
+      "start": 1.26,
+      "end": 1.72,
+      "p": 0.79
+    },
+    {
+      "w": "feel",
+      "start": 1.72,
+      "end": 1.96,
+      "p": 0.98
+    },
+    {
+      "w": "it",
+      "start": 1.96,
+      "end": 2.08,
+      "p": 0.99
+    },
+    {
+      "w": "brother.",
+      "start": 2.08,
+      "end": 2.28,
+      "p": 0.59
+    },
+    {
+      "w": "When",
+      "start": 3.32,
+      "end": 3.56,
+      "p": 0.97
+    },
+    {
+      "w": "you're",
+      "start": 3.56,
+      "end": 3.86,
+      "p": 0.96
+    },
+    {
+      "w": "sitting",
+      "start": 3.86,
+      "end": 4.22,
+      "p": 0.99
+    },
+    {
+      "w": "in",
+      "start": 4.22,
+      "end": 4.4,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 4.4,
+      "end": 4.52,
+      "p": 0.97
+    },
+    {
+      "w": "parking",
+      "start": 4.52,
+      "end": 4.8,
+      "p": 1.0
+    },
+    {
+      "w": "garage,",
+      "start": 4.8,
+      "end": 5.26,
+      "p": 1.0
+    },
+    {
+      "w": "what",
+      "start": 6.02,
+      "end": 6.6,
+      "p": 0.96
+    },
+    {
+      "w": "would",
+      "start": 6.6,
+      "end": 6.8,
+      "p": 0.99
+    },
+    {
+      "w": "be",
+      "start": 6.8,
+      "end": 6.96,
+      "p": 0.99
+    },
+    {
+      "w": "going",
+      "start": 6.96,
+      "end": 7.18,
+      "p": 1.0
+    },
+    {
+      "w": "through",
+      "start": 7.18,
+      "end": 7.42,
+      "p": 0.98
+    },
+    {
+      "w": "your",
+      "start": 7.42,
+      "end": 7.54,
+      "p": 0.99
+    },
+    {
+      "w": "mind?",
+      "start": 7.54,
+      "end": 7.96,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "I feel it brother.",
+      "start": 1.26,
+      "end": 2.28
+    },
+    {
+      "text": "When you're sitting in that parking garage, what would be going through your mind?",
+      "start": 3.32,
+      "end": 7.96
+    }
+  ]
+}
