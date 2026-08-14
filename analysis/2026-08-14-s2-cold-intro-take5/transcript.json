@@ -1,0 +1,323 @@
+{
+  "language": "en",
+  "duration_s": 15.91,
+  "words": [
+    {
+      "w": "Um,",
+      "start": 1.39,
+      "end": 2.11,
+      "p": 0.16
+    },
+    {
+      "w": "and",
+      "start": 2.13,
+      "end": 2.29,
+      "p": 0.72
+    },
+    {
+      "w": "I",
+      "start": 2.29,
+      "end": 2.57,
+      "p": 0.99
+    },
+    {
+      "w": "actually",
+      "start": 2.57,
+      "end": 3.01,
+      "p": 0.95
+    },
+    {
+      "w": "don't",
+      "start": 3.01,
+      "end": 3.33,
+      "p": 1.0
+    },
+    {
+      "w": "work",
+      "start": 3.33,
+      "end": 3.63,
+      "p": 1.0
+    },
+    {
+      "w": "here",
+      "start": 3.63,
+      "end": 3.81,
+      "p": 1.0
+    },
+    {
+      "w": "at",
+      "start": 3.81,
+      "end": 3.97,
+      "p": 1.0
+    },
+    {
+      "w": "all.",
+      "start": 3.97,
+      "end": 4.25,
+      "p": 1.0
+    },
+    {
+      "w": "I",
+      "start": 4.47,
+      "end": 4.75,
+      "p": 1.0
+    },
+    {
+      "w": "was",
+      "start": 4.75,
+      "end": 4.83,
+      "p": 1.0
+    },
+    {
+      "w": "invited",
+      "start": 4.83,
+      "end": 5.13,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 5.13,
+      "end": 5.33,
+      "p": 1.0
+    },
+    {
+      "w": "this",
+      "start": 5.33,
+      "end": 5.49,
+      "p": 1.0
+    },
+    {
+      "w": "party",
+      "start": 5.49,
+      "end": 5.79,
+      "p": 0.99
+    },
+    {
+      "w": "from",
+      "start": 5.79,
+      "end": 6.01,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 6.01,
+      "end": 6.15,
+      "p": 1.0
+    },
+    {
+      "w": "founder",
+      "start": 6.15,
+      "end": 6.45,
+      "p": 0.99
+    },
+    {
+      "w": "of",
+      "start": 6.45,
+      "end": 6.63,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 6.63,
+      "end": 6.71,
+      "p": 1.0
+    },
+    {
+      "w": "company",
+      "start": 6.71,
+      "end": 7.03,
+      "p": 1.0
+    },
+    {
+      "w": "But",
+      "start": 7.03,
+      "end": 7.33,
+      "p": 0.34
+    },
+    {
+      "w": "you",
+      "start": 7.33,
+      "end": 7.55,
+      "p": 0.81
+    },
+    {
+      "w": "know,",
+      "start": 7.55,
+      "end": 7.67,
+      "p": 1.0
+    },
+    {
+      "w": "I",
+      "start": 7.67,
+      "end": 7.77,
+      "p": 1.0
+    },
+    {
+      "w": "don't",
+      "start": 7.77,
+      "end": 8.31,
+      "p": 1.0
+    },
+    {
+      "w": "really",
+      "start": 8.31,
+      "end": 8.73,
+      "p": 1.0
+    },
+    {
+      "w": "know",
+      "start": 8.73,
+      "end": 9.17,
+      "p": 1.0
+    },
+    {
+      "w": "anybody",
+      "start": 9.17,
+      "end": 9.65,
+      "p": 1.0
+    },
+    {
+      "w": "here.",
+      "start": 9.65,
+      "end": 10.05,
+      "p": 1.0
+    },
+    {
+      "w": "So",
+      "start": 10.09,
+      "end": 10.39,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 10.39,
+      "end": 11.05,
+      "p": 0.97
+    },
+    {
+      "w": "are",
+      "start": 11.05,
+      "end": 11.53,
+      "p": 0.99
+    },
+    {
+      "w": "the",
+      "start": 11.53,
+      "end": 11.67,
+      "p": 1.0
+    },
+    {
+      "w": "first",
+      "start": 11.67,
+      "end": 11.93,
+      "p": 1.0
+    },
+    {
+      "w": "new",
+      "start": 11.93,
+      "end": 12.15,
+      "p": 1.0
+    },
+    {
+      "w": "person",
+      "start": 12.15,
+      "end": 12.45,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 12.45,
+      "end": 12.63,
+      "p": 0.99
+    },
+    {
+      "w": "I'm",
+      "start": 12.63,
+      "end": 12.77,
+      "p": 1.0
+    },
+    {
+      "w": "talking",
+      "start": 12.77,
+      "end": 13.05,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 13.05,
+      "end": 13.31,
+      "p": 0.99
+    },
+    {
+      "w": "So",
+      "start": 13.31,
+      "end": 13.55,
+      "p": 0.15
+    },
+    {
+      "w": "what's",
+      "start": 13.55,
+      "end": 13.87,
+      "p": 0.96
+    },
+    {
+      "w": "your",
+      "start": 13.87,
+      "end": 13.95,
+      "p": 1.0
+    },
+    {
+      "w": "story?",
+      "start": 13.95,
+      "end": 14.51,
+      "p": 1.0
+    },
+    {
+      "w": "How",
+      "start": 14.69,
+      "end": 14.73,
+      "p": 1.0
+    },
+    {
+      "w": "did",
+      "start": 14.73,
+      "end": 14.85,
+      "p": 1.0
+    },
+    {
+      "w": "you",
+      "start": 14.85,
+      "end": 14.95,
+      "p": 1.0
+    },
+    {
+      "w": "get",
+      "start": 14.95,
+      "end": 15.17,
+      "p": 1.0
+    },
+    {
+      "w": "here?",
+      "start": 15.17,
+      "end": 15.49,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Um, and I actually don't work here at all. I was invited to this party from the founder of the company",
+      "start": 1.39,
+      "end": 7.03
+    },
+    {
+      "text": "But you know, I don't really know anybody here. So you are the first new person that I'm talking to",
+      "start": 7.03,
+      "end": 13.31
+    },
+    {
+      "text": "So what's your story? How did you get here?",
+      "start": 13.31,
+      "end": 15.49
+    }
+  ]
+}

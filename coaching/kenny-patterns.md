@@ -54,6 +54,13 @@ Three structural facts this exposes:
 
 ## Open — actively drilling
 
+### 0a. The chassis fails at length (named 2026-08-14, cold-take5)
+Every take longer than ~10s in the record shows posture decline; take5 is the
+worst yet (0.90 → 0.77, −0.13, sway 35 — both records) with the collapse
+monotonic through the take. Short takes hide it: takes 1–4 today were 4–7s.
+Cross-reference mixer take 8 (best line of the night, body folding while
+saying it). The body has never yet survived a full paragraph.
+
 ### 0. The late smile (promoted to top open item, 2026-08-14)
 His warmest expression reliably arrives AFTER he finishes speaking. Measured
 across five occurrences (s1, s4-risk, s4-layer3-1, both 08-14 cold takes):
@@ -163,10 +170,13 @@ Not yet automatic on the approach beat.
 
 ## Resolved — hold the gain
 
-### 1. Filler — fixed within one session
-`11.1 → 13.5 → 5.3 → 5.4 → 0.0 → 0.0 → 0.0 → 0.0` per minute. Four consecutive
-clean takes, including under the heaviest emotional load of the night. Watch for
-regression; do not spend coaching budget here unless it returns.
+### 1. Filler — fixed within one session; REGRESSION WATCH (2026-08-14)
+`11.1 → 13.5 → 5.3 → 5.4 → 0.0 → 0.0 → 0.0 → 0.0` per minute, then seven more
+clean takes — and a return at 7.5/min in cold-take5, the first *multi-beat
+conversational* load of the new campaign. Placement is diagnostic: "um" as the
+first syllable AFTER a 1.39s held lead-in (pause-then-filler — the hold spent
+on nothing), and "you know" bridging into a warm line. Fine on short scripted
+beats; leaks under improvised length. Watch, don't re-drill yet.
 
 ### 2. The pre-turn hold — a genuine strength
 He takes real silence *before* speaking: 3.09s (s4-risk), 2.45s (s4-layer3-2),
