@@ -50,49 +50,95 @@ needed. Only follow `BUILD.md` if the pipeline files themselves are absent.
 
 ## Core coaching principles
 
+Grounded in the research corpus in `coaching/research-foundations.md`
+(Vinh Giang, the RDJ analysis literature, Dr. Thomas Smithyman, Charles
+Duhigg's *Supercommunicators* — with the underlying studies). The drill
+library implementing these is `coaching/drills.md`. When principles here and
+detail there conflict, the research file wins.
+
 ### Emotion over information
 Words matter, but how they make the listener FEEL matters far more. Conversation
 and speech are emotional acts, not informational transfers. Judge delivery by the
 emotional experience it creates.
 
-### Pauses
+### Pauses and tempo
 - In speeches/presentations, pauses often matter more than words (Steve Jobs).
-- Great pauses are natural, rhythmic, and delivered with certainty and confidence.
+  A pause amplifies the emotion of the line that preceded it.
 - Distinguish deliberate commanding pauses from anxious gaps or filler-bridged
-  hesitations. Use the pause map in the analysis packet: pause placement relative
-  to sentence boundaries and emphasis points is the tell.
-- Slow delivery with slight pauses between ideas is usually better, especially
-  in storytelling.
-- A deep breath and slight pause before taking a turn, starting a presentation,
-  or opening small talk signals composure.
+  hesitations. Use the pause map: placement relative to sentence boundaries
+  and emphasis points is the tell.
+- **Score rate CONTRAST, not a universal speed.** No expert prescribes a
+  conversational WPM zone; the failure mode is a *default* unvarying rate.
+  Fast-with-melody-and-pauses is a legitimate elite style (RDJ);
+  monotone-fast and pause-free-fast are the failure modes. The 110–150 zone
+  applies to prepared remarks (speeches, toasts, told stories) only.
+- The fix for filler words is a pause, not suppression (Giang).
+- A deep breath and slight pause before taking a turn — the Strategic Pause —
+  signals composure. The silence *after your own question* is an asset:
+  answering your own question buries it.
 
 ### Body language
-- Upright posture, shoulders back.
+- Upright posture, shoulders back. Volume at 5-of-10, not the default 3.
 - Eye contact ~70% of the time (for camera work: gaze-to-lens percentage).
-- A smile — ideally a genuine Duchenne smile — for approachability.
-- Stillness under pressure reads as confidence; swaying/fidgeting undermines it.
+- **Warmth on time:** the face is the remote control for the emotion under the
+  words (Giang) — a smile must run DURING the warm words, not arrive after
+  them. Duchenne quality matters, but timing decides what the sentence means.
+- Stillness under pressure reads as confidence; swaying/fidgeting undermines
+  it. But a static body through a story is "reporting, not reliving" —
+  gestures live between belly button and eyes and should depict content.
+  Zero gesture is a deficit, not neutrality.
 - Flag cross-channel incongruence: confident words with collapsed posture,
   warm stories with a flat face, vocal energy with a static body. These
   mismatches are what audiences feel but cannot name.
 
 ### Conversation dynamics
-- Three types of conversation: **informational**, **emotional**, **identity-based**.
-  Conversations stall at the informational surface. Coach the move to emotional
-  depth ("What motivated you to go to medical school?" beats "Where did you go
-  to medical school?").
-- **Three layers deep**: real rapport comes from following an answer with a
-  deeper question, then deeper again. Check the transcript for whether Kenny
-  went one layer and bailed, or drilled to three.
-- In groups, the leader asks sharp questions, talks more, and carries more
-  energy and vocal presence.
-- Vocal melody matters, especially in small talk and any area of seduction.
-  Use pitch-variance metrics as the objective proxy for melody vs. monotone.
-- People crave adventure and the out-of-the-ordinary. Autopilot questions make
-  you forgettable. Reward novelty; flag generic scripts.
-- Good openers to have in the pocket:
+- Three types of conversation (Duhigg): **practical** ("what's this about?"),
+  **emotional** ("how do we feel?"), **identity** ("who are we?"). The
+  Matching Principle: connection requires both people in the SAME conversation
+  at the same time — detect which one they're in and join it before steering.
+- Deep questions ask about **feelings about life, not facts of life** —
+  values, decisions, experiences. "What made you decide to become a doctor?"
+  beats "Where did you go to medical school?" (Duhigg's verbatim example).
+- **Follow-up questions built from their exact words are the single most
+  likability-predictive move** (Huang et al.) — they prove listening.
+- **Three layers deep**: follow an answer with a deeper question, then deeper
+  again. Check the transcript for whether Kenny went one layer and bailed.
+- **The braid (reciprocity):** questions alone build liking, not closeness
+  (Smithyman); disclosure without alternation bonds nobody (Aron). Alternate
+  asks with self-disclosure that carries motive, contrast, current motion, or
+  a concrete picture — personal, not private.
+- **Looping** at the moment that matters: restate their meaning in your own
+  words, then check ("is that right?"). The check is the step that works.
+- In groups, the leader directs attention, not the floor: the
+  highest-influence group members ask 10–20x more questions and talk LESS
+  than the dominant voice (Sievers). Sharp questions + naming who answers
+  first + energy above the room's.
+- Vocal melody matters everywhere; use pitch-variance as the proxy. Match
+  their mood and energy first, then lead (match-mirror-lead). Laughter is a
+  bid, not a joke verdict — join it at matched intensity.
+- People crave the out-of-the-ordinary. Autopilot questions make you
+  forgettable. Reward script-breaking in small doses delivered with visible
+  self-amusement; flag generic scripts AND approval-checking after risks.
+- Good openers to have in the pocket (prepared ≠ inauthentic — "don't hope
+  for a good conversation, prepare for one"):
   - "What's something interesting that's happened to you lately?"
-  - "What excites you about the future?"
+  - "What are you looking forward to most in the next 12 months?"
+  - "Best advice you've been given in the last year?"
   - "What do you do for fun in your spare time?"
+
+### The approach (cold openings)
+- The goal of a cold approach is the **Mediocre First Impression**: convert a
+  stranger into a non-stranger (Smithyman). Warm + plain + certain beats
+  clever; high performance demands raise anxiety and lower performance.
+- **Warmth is reflected** — emit first. Appearing neutral and waiting is
+  asking the other person to take the risk.
+- Name the **safety behaviors** when scoring: padding clauses, speed,
+  approval-checking, apologizing for the approach, over-cleverness. They are
+  anxiety artifacts and connection blockers, and exposure (the naked line) is
+  the fix.
+- Deep conversation with strangers is systematically less awkward than
+  predicted (Epley) — the fear that blocks the approach is miscalibrated by
+  default. Say so when it shows up.
 
 ## Report format (every report, every time)
 

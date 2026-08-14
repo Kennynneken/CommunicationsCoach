@@ -5,7 +5,16 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-11 (networking roleplay, 8 takes)
+Last updated: 2026-08-14 (cold-approach drill, 3 takes + research rebuild)
+
+**2026-08-14 framework note:** the grading system was rebuilt against the
+research corpus (`coaching/research-foundations.md`). Several standing items
+below were *reframed* by it — the reframes are marked inline. Biggest changes:
+tempo is now scored as contrast-not-zone (his 210–260 WPM is workable IF
+varied and punctuated — RDJ profile), pure question-asking now caps curiosity
+(needs the disclosure braid), warmth is scored on smile *timing*, gesture 0%
+is now a scored deficit, and cold approaches are scored on Smithyman's
+stranger→non-stranger goal, not brilliance.
 
 ---
 
@@ -45,9 +54,31 @@ Three structural facts this exposes:
 
 ## Open — actively drilling
 
-### 1. The padding clause (the defining habit)
+### 0. The late smile (promoted to top open item, 2026-08-14)
+His warmest expression reliably arrives AFTER he finishes speaking. Measured
+across five occurrences (s1, s4-risk, s4-layer3-1, both 08-14 cold takes):
+smile high on throwaway openers, 0.00 across the payload line, then peaks
+(0.80–0.82, his best values ever) ~0.4s after the last word. Duchenne is 100%
+— the warmth is real, it is a *timing* failure: the face works while he talks
+and releases when done. Research frame: tonality follows the face (Giang), so
+the warm line is being delivered with cold tone every time. **Fix showed up
+immediately when drilled** (take 3: smile led the first word by 0.04s and
+warmth posted his best-ever 60) — but it held only on the open, then strobed
+off on every content word. Drill: A4 smile-then-speak; last word gets more
+face than the first.
+
+### 0b. The buried question (named 2026-08-14)
+He asks, then answers or talks over his own silence — 0.64s from question to
+self-rescue in the take that exposed it. Related: stacked questions (below).
+The question's entire value is in the space after it. Drill: S1 ask-then-shut-up
+— the recording must end in his silence.
+
+### 1. The padding clause (the defining habit) — now understood as a safety behavior
 He cannot let a good line stand alone. Every strong sentence gets a second
-sentence that explains, softens, tags, or labels it.
+sentence that explains, softens, tags, or labels it. Research reframe
+(Smithyman): this is a textbook **safety behavior** — pre-softening judgment.
+It raises anxiety and blocks connection; the fix is exposure (leave the line
+naked), which he has already done once under load (s12).
 
 | Take | The good line | The padding |
 |---|---|---|
@@ -62,21 +93,24 @@ he added one *before*. The instinct is the target, not the position.
 — 11 words, nothing attached. It is the best line of the session. Not a
 coincidence.**
 
-### 2. Zero deliberate pauses — 8 for 8
-`deliberate_count = 0` in every take recorded to date. Closest approach: 0.76s
-(s3), against a 0.8s bar. He has never once held a silence of 0.8s+ *inside* his
-speech. He does hold silence *before* speaking (see Resolved #2), which is why
-this looks better in the wall-clock WPM than it is.
+### 2. Zero deliberate pauses — 11 for 11
+`deliberate_count = 0` in every take recorded to date; the three 08-14 takes
+had **zero silence of any kind inside them** (talking Ns of Ns span). Research
+reframe: no expert prescribes a pause duration — the 0.8s bar is our
+instrument, not doctrine. What's actually broken is pause *function*: he never
+leaves space after his own questions and never slows into a key line. Keep
+measuring `deliberate_count`; coach S1/S3, not the stopwatch.
 
-### 3. Tempo — never actually solved
-`wpm_speaking` (articulation rate, added at the end of this session) tells the
-true story that `wpm_overall` was hiding:
-
-`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222`
-
-No trend. He has never entered the 110–150 power zone at the articulation level.
-Every apparent "slowdown" was lead-in silence deflating the wall-clock figure.
-**This is the top priority and it has never been genuinely drilled.**
+### 3. Tempo — reframed 2026-08-14: contrast, not zone
+`wpm_speaking` across 11 takes:
+`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222 → 209 → 216 → 232`
+No trend, and **no longer chasing 110–150 in conversation** — research says
+score contrast, and fast-with-melody-and-pauses is a legitimate elite profile
+(RDJ), which matches his elite pitch variance. The actual deficit stands and
+is now precisely named: **one unvarying rate, zero pauses = zero contrast.**
+He does not need to be slower; he needs to be *variable* — one deliberate
+half-speed sentence per take (drill S3). The 110–150 zone still applies to
+prepared remarks (toasts, stories, speeches).
 
 ### 4. Minimizers on heavy content
 He shrink-wraps other people's serious disclosures with small words.
@@ -88,16 +122,42 @@ He shrink-wraps other people's serious disclosures with small words.
 Related: he nominalizes feelings ("embarrassingly" → "this embarrassment"),
 which turns a person into a case study.
 
-### 5. Cold face on a warm line
-Smile drops to ~0.0 exactly when the warm or vulnerable sentence lands
-(s1 @7.0–9.4s, s4-risk @7.03s, s4-layer3-1 @5.0–6.7s). Three separate takes.
+### 5. Cold face on a warm line → merged into #0 (the late smile)
+Kept for history: s1 @7.0–9.4s, s4-risk @7.03s, s4-layer3-1 @5.0–6.7s.
 **Exception, and he got it right:** s4-layer3-2, flat face on her disclosure —
 that was correct congruence. He can read the room down; he struggles to come
 back up (s12: she laughed, he stayed at 0% smile with posture collapsing).
 
-### 6. Stacked questions
+### 6. Stacked questions → sibling of #0b (the buried question)
 Asks two questions back to back, so only the second gets answered
-(s1-take1, s3). Fewer questions, more silence.
+(s1-take1, s3). Same mechanism as burying: can't leave a question alone in
+the air. Fewer questions, more silence.
+
+### 7. The braid is one-sided — in either direction (named 2026-08-14)
+Cold takes 1–2: all questions, zero self (liked-not-known ceiling). Take 3:
+all self, no question that survives. He has both failure modes and toggles
+between them take to take; what he has not yet produced in a cold approach is
+the alternation — ask, disclose, ask (drill D3). Note his disclosure raw
+material is strong (two brands + AI agents = built-in motive/contrast/lately).
+
+### 8. Gesture 0.0% — three takes running (newly scored 2026-08-14)
+`gesture_active_pct = 0.0` in all three cold-approach takes, with an
+energy_body_mismatch flag in take 2 (vocal peaks over a dead body). Was
+previously unscored; now a deficit under the Power Sphere doctrine. Stillness
+is his strength *under pressure*; in storytelling/delivery it reads as
+"reporting, not reliving." Drill B1.
+
+### 9. Sentence-final certainty — DOWNGRADED from Resolved (2026-08-14)
+100% final-drop through the mixer session and cold takes 1–2, then **0%** in
+take 3, with trail-off at 33% — on the boldest line he has ever run. The
+skill exists but does not yet survive risk: the more exposed the content, the
+higher the ending floats. Watch specifically on self-referential lines
+("My name is…", "I own…").
+
+### 10. Giving his name — DOWNGRADED from Resolved (2026-08-14)
+Took five takes to install mid-conversation last session; then zero
+introductions in cold takes 1–2 (an introductions drill). Returned in take 3.
+Not yet automatic on the approach beat.
 
 ---
 
@@ -113,19 +173,23 @@ He takes real silence *before* speaking: 3.09s (s4-risk), 2.45s (s4-layer3-2),
 with uprightness *rising* through the hold (0.87 → 0.95, and 0.99). This is the
 composure signal the rubrics ask for and he does it naturally.
 
-### 3. Sentence-final certainty
-0% → 100% between takes 1 and 2 and mostly held (one collapse to 0% in
-s4-layer3-2). Endings land downward.
+### 3. Sentence-final certainty → DOWNGRADED to Open #9 (2026-08-14)
 
-### 4. Giving his name
-Took five takes; now does it, and uses hers.
+### 4. Giving his name → DOWNGRADED to Open #10 (2026-08-14)
 
 ---
 
 ## Native assets — build on these
 
-- **Pitch variance is elite.** Scores of 94, 100, 100, 100, 90; range up to
-  67–358 Hz. Melody is his best instrument and he under-uses it when he speeds up.
+- **Pitch variance is elite.** Scores of 94, 100, 100, 100, 90, and a 100/100
+  on a cold approach (08-14 take 2); range up to 67–358 Hz. Melody is his best
+  instrument. Research note: this is exactly the asset the RDJ profile runs on
+  — fast-but-varied is *available* to him in a way it isn't to most people;
+  what's missing is the pause-and-contrast half of that profile.
+- **Warmth is genuine and provably movable.** Duchenne 84–100% always; and
+  when given the smile-timing drill he executed it on the very next take
+  (smile led the first word by 0.04s, warmth 60 = personal best). The
+  correction pathway works; it just decays under load.
 - **Genuine warmth.** Duchenne proportion is 84–100% of all smiles — when he
   smiles it is never social, always real.
 - **Wit under pressure.** "I'm up to no good," "let's take this back somewhere
