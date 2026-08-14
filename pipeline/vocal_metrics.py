@@ -31,6 +31,11 @@ LIKE_VERB_PREV = {
     "would", "wouldn't", "d", "do", "don't", "does", "doesn't",
     "did", "didn't", "to", "ll", "will", "might", "may", "really",
 }
+# "an event like this", "a room like that", "like a jet engine" — prepositional.
+LIKE_PREPOSITIONAL_NEXT = {
+    "this", "that", "these", "those", "a", "an", "the",
+    "mine", "yours", "ours", "theirs", "him", "her", "them", "us", "me", "it",
+}
 LIKE_SKIP_ADVERBS = {
     "really", "real", "actually", "totally", "genuinely", "honestly",
     "especially", "particularly", "also", "still", "always", "never",
@@ -64,6 +69,8 @@ def like_is_filler(normed, i):
         "i", "he", "she", "they", "we", "you",
     }:
         return True
+    if i + 1 < len(normed) and normed[i + 1] in LIKE_PREPOSITIONAL_NEXT:
+        return False
     return prev not in LIKE_COMPARATIVE_PREV and prev not in LIKE_VERB_PREV
 
 

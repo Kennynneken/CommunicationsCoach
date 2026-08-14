@@ -1,0 +1,149 @@
+{
+  "has_video": true,
+  "frames_analyzed": 15,
+  "posture": {
+    "shoulder_forward_score_ts": [
+      {
+        "t": 0.0,
+        "v": 0.91
+      },
+      {
+        "t": 0.33,
+        "v": 0.93
+      },
+      {
+        "t": 0.67,
+        "v": 0.92
+      },
+      {
+        "t": 1.0,
+        "v": 0.94
+      },
+      {
+        "t": 1.33,
+        "v": 0.92
+      },
+      {
+        "t": 1.67,
+        "v": 0.94
+      },
+      {
+        "t": 2.0,
+        "v": 0.92
+      },
+      {
+        "t": 2.33,
+        "v": 0.89
+      },
+      {
+        "t": 2.67,
+        "v": 0.89
+      },
+      {
+        "t": 3.0,
+        "v": 0.88
+      },
+      {
+        "t": 3.33,
+        "v": 0.89
+      },
+      {
+        "t": 3.67,
+        "v": 0.9
+      },
+      {
+        "t": 4.0,
+        "v": 0.9
+      },
+      {
+        "t": 4.33,
+        "v": 0.89
+      },
+      {
+        "t": 4.67,
+        "v": 0.88
+      }
+    ],
+    "uprightness_mean": 0.91,
+    "uprightness_trend": "declining",
+    "start_vs_end_delta": -0.03
+  },
+  "face": {
+    "smile_pct": 60.0,
+    "smile_ts": [
+      {
+        "t": 0.0,
+        "v": 0.61
+      },
+      {
+        "t": 0.33,
+        "v": 0.61
+      },
+      {
+        "t": 0.67,
+        "v": 0.61
+      },
+      {
+        "t": 1.0,
+        "v": 0.0
+      },
+      {
+        "t": 1.33,
+        "v": 0.41
+      },
+      {
+        "t": 1.67,
+        "v": 0.59
+      },
+      {
+        "t": 2.0,
+        "v": 0.0
+      },
+      {
+        "t": 2.33,
+        "v": 0.02
+      },
+      {
+        "t": 2.67,
+        "v": 0.0
+      },
+      {
+        "t": 3.0,
+        "v": 0.0
+      },
+      {
+        "t": 3.33,
+        "v": 0.05
+      },
+      {
+        "t": 3.67,
+        "v": 0.79
+      },
+      {
+        "t": 4.0,
+        "v": 0.81
+      },
+      {
+        "t": 4.33,
+        "v": 0.82
+      },
+      {
+        "t": 4.67,
+        "v": 0.8
+      }
+    ],
+    "duchenne_available": true,
+    "duchenne_pct_of_smiles": 100.0
+  },
+  "gaze": {
+    "toward_camera_pct": 100.0,
+    "down_pct": 0.0,
+    "stability_score_0to100": 100,
+    "note": "toward_camera_pct only meaningful for youtube/on-camera context"
+  },
+  "movement": {
+    "head_velocity_mean": 0.024,
+    "sway_score_0to100": 8,
+    "gesture_active_pct": 0.0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "duration_s": 4.73,
+  "has_video": true,
+  "timeline": [
+    {
+      "t": 0,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 19.6,
+      "intensity": 60.3,
+      "uprightness": 0.93,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 1,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 73.8,
+      "intensity": 69.0,
+      "uprightness": 0.94,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 2,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 13.2,
+      "intensity": 68.3,
+      "uprightness": 0.89,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 3,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 10.6,
+      "intensity": 63.8,
+      "uprightness": 0.9,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 4,
+      "speaking": true,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 57.8,
+      "uprightness": 0.88,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    }
+  ],
+  "incongruence_flags": [
+    {
+      "flag": "energy_body_mismatch",
+      "timestamps": [
+        1,
+        2
+      ],
+      "desc": "Vocal intensity peaks while the body stays static (gestures 0.0%, sway 8) \u2014 talking big, standing dead. Peaks at: 00:01, 00:02"
+    }
+  ]
+}
