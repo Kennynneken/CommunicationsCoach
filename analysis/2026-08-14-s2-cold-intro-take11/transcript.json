@@ -1,0 +1,138 @@
+{
+  "language": "en",
+  "duration_s": 11.97,
+  "words": [
+    {
+      "w": "Dang",
+      "start": 2.93,
+      "end": 3.57,
+      "p": 0.96
+    },
+    {
+      "w": "brother",
+      "start": 3.57,
+      "end": 3.89,
+      "p": 0.75
+    },
+    {
+      "w": "that's",
+      "start": 3.89,
+      "end": 4.81,
+      "p": 0.68
+    },
+    {
+      "w": "tough",
+      "start": 4.81,
+      "end": 5.25,
+      "p": 0.99
+    },
+    {
+      "w": "When",
+      "start": 6.55,
+      "end": 7.13,
+      "p": 0.54
+    },
+    {
+      "w": "you",
+      "start": 7.13,
+      "end": 7.25,
+      "p": 1.0
+    },
+    {
+      "w": "were",
+      "start": 7.25,
+      "end": 7.35,
+      "p": 0.71
+    },
+    {
+      "w": "sitting",
+      "start": 7.35,
+      "end": 7.59,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 7.59,
+      "end": 7.79,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 7.79,
+      "end": 7.89,
+      "p": 1.0
+    },
+    {
+      "w": "parking",
+      "start": 7.89,
+      "end": 8.15,
+      "p": 1.0
+    },
+    {
+      "w": "garage",
+      "start": 8.15,
+      "end": 8.49,
+      "p": 0.99
+    },
+    {
+      "w": "every",
+      "start": 8.49,
+      "end": 8.83,
+      "p": 0.99
+    },
+    {
+      "w": "morning,",
+      "start": 8.83,
+      "end": 9.15,
+      "p": 1.0
+    },
+    {
+      "w": "what",
+      "start": 9.15,
+      "end": 9.89,
+      "p": 1.0
+    },
+    {
+      "w": "would",
+      "start": 9.89,
+      "end": 10.07,
+      "p": 0.99
+    },
+    {
+      "w": "go",
+      "start": 10.07,
+      "end": 10.33,
+      "p": 1.0
+    },
+    {
+      "w": "through",
+      "start": 10.33,
+      "end": 10.59,
+      "p": 1.0
+    },
+    {
+      "w": "your",
+      "start": 10.59,
+      "end": 10.75,
+      "p": 1.0
+    },
+    {
+      "w": "mind",
+      "start": 10.75,
+      "end": 11.25,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Dang brother that's tough",
+      "start": 2.93,
+      "end": 5.25
+    },
+    {
+      "text": "When you were sitting in the parking garage every morning, what would go through your mind",
+      "start": 6.55,
+      "end": 11.25
+    }
+  ]
+}

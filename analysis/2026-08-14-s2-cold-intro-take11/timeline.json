@@ -1,0 +1,149 @@
+{
+  "duration_s": 11.97,
+  "has_video": true,
+  "timeline": [
+    {
+      "t": 0,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 57.9,
+      "uprightness": 0.84,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 1,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 57.6,
+      "uprightness": 0.87,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 2,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": null,
+      "intensity": 57.7,
+      "uprightness": 0.85,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 3,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 10.2,
+      "intensity": 66.7,
+      "uprightness": 0.83,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 4,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": 7.4,
+      "intensity": 60.4,
+      "uprightness": 0.81,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 5,
+      "speaking": true,
+      "wpm_local": 0,
+      "pitch_sd_local": 3.4,
+      "intensity": 61.9,
+      "uprightness": 0.79,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 6,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": null,
+      "intensity": 57.5,
+      "uprightness": 0.83,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 7,
+      "speaking": true,
+      "wpm_local": 360,
+      "pitch_sd_local": 21.5,
+      "intensity": 70.5,
+      "uprightness": 0.81,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 8,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 87.0,
+      "intensity": 69.7,
+      "uprightness": 0.76,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 9,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 36.4,
+      "intensity": 64.3,
+      "uprightness": 0.76,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 10,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 33.9,
+      "intensity": 69.1,
+      "uprightness": 0.78,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 11,
+      "speaking": true,
+      "wpm_local": 0,
+      "pitch_sd_local": 2.1,
+      "intensity": 61.6,
+      "uprightness": 0.81,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    }
+  ],
+  "incongruence_flags": [
+    {
+      "flag": "energy_body_mismatch",
+      "timestamps": [
+        7,
+        8,
+        10
+      ],
+      "desc": "Vocal intensity peaks while the body stays static (gestures 0.0%, sway 12) \u2014 talking big, standing dead. Peaks at: 00:07, 00:08, 00:10"
+    }
+  ]
+}

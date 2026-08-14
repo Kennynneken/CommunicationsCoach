@@ -100,13 +100,14 @@ he added one *before*. The instinct is the target, not the position.
 — 11 words, nothing attached. It is the best line of the session. Not a
 coincidence.**
 
-### 2. Zero deliberate pauses — 11 for 11
-`deliberate_count = 0` in every take recorded to date; the three 08-14 takes
-had **zero silence of any kind inside them** (talking Ns of Ns span). Research
-reframe: no expert prescribes a pause duration — the 0.8s bar is our
-instrument, not doctrine. What's actually broken is pause *function*: he never
-leaves space after his own questions and never slows into a key line. Keep
-measuring `deliberate_count`; coach S1/S3, not the stopwatch.
+### 2. Zero deliberate pauses — BROKEN 2026-08-14, mastery mode (takes 8–11)
+Fourteen takes at zero, then four consecutive takes with real silence
+architecture under the mastery loop: deliberate pauses 0.82s → 1.04s → 1.32s
+→ 1.3s, lead-ins up to 2.93s, lead-outs held, and take 11 at ~58% silence
+with `wpm_speaking` 170.9 — his slowest substantive delivery ever, achieved
+with no speed instruction. **The pause is installed under drill conditions.**
+Open question: does it survive outside mastery mode, in fresh scenes and real
+rooms. Do not mark resolved until it appears unprompted.
 
 ### 3. Tempo — reframed 2026-08-14: contrast, not zone
 `wpm_speaking` across 11 takes:
