@@ -21,6 +21,11 @@ score-based coaching aimed at world-class historic levels of delivery.
 tells, what's been fixed, and what has never moved. Update it at the end of
 every session. Without it each session rediscovers habits already diagnosed.
 
+**Before designing any scene, read `coaching/kenny-profile.md`** — his real
+businesses, the rooms he's actually in, and what he actually loses. Scenes must
+run on material he already has; never require him to invent a backstory, a
+fake colleague, or a job that isn't his. He plays himself.
+
 For live roleplay sessions — the coach sets a scene, Kenny records his response,
 score, then the scene advances — follow `docs/ROLEPLAY.md`. That mode has been
 the highest-yield use of this repo so far. Practice scenes live in `scenarios/`.
