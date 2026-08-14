@@ -66,6 +66,44 @@ Threads that stay informational and get awkward. Sometimes recoverable,
 sometimes — correctly — a conversation to walk away from. Note he already knows
 the difference; don't coach walking away as a failure.
 
+### 2b. The pre-approach mindset layer (intake 2026-08-14, session close)
+His own account of what happens BEFORE the approach — the cognition that
+kills it before a word exists. Verbatim themes:
+
+- **Mind-reading:** "they don't want to talk to me," "they don't want to talk"
+  (strangers passing at the mall).
+- **Permission logic / rule-following:** "now's not the time," "they're trying
+  to work," "this group is trying to work, they don't want to chit chat."
+- He names it himself as "partly self talk" and "maybe too much rule
+  following."
+- Context-dependence is real and he knows it — some of these reads are
+  sometimes TRUE. The problem is the default, not the category.
+
+Research mapping (all already in `research-foundations.md`):
+- These are textbook **mind-reading predictions**, and the Epley/Kardas/Kumar
+  finding is directly on point: people systematically overestimate how
+  unwelcome their approach is and underestimate how much strangers enjoy it.
+  His predictions are miscalibrated *by default*, not occasionally.
+- "Now's not the time" is an **avoidance-permission structure** (Smithyman's
+  safety-behavior family — it protects against judgment by never testing it).
+- The clinical fix is not affirmations — it is **behavioral experiments**:
+  make the prediction explicit, run the approach, record the outcome, compare.
+  The gap between predicted and actual reception IS the treatment.
+
+**Next-session directive: mindset scenario coaching for the cold approach.**
+Structure to use:
+1. Pre-approach: he states the scene and speaks his prediction aloud on tape
+   ("she's busy, this will annoy her" — 10 seconds).
+2. The approach take, as usual.
+3. The coach plays the world honestly — including neutral/busy responses at
+   realistic rates, not rigged warmth.
+4. Post-take: predicted vs. actual, logged in the report. Track the
+   calibration gap across sessions (drill A5).
+5. Rule-following scenarios specifically: rooms where the "rule" says don't
+   (people working at a coffee shop, a closed-looking group) and the skill is
+   the low-cost, easily-declined opener that tests the rule ("two-minute
+   interruption, warm exit ready").
+
 ### 3. Approaching women — a mindset residue, not a goal
 > "Not that I'm trying to pick them up or anything, but just from childhood
 > there are just mindset things there."

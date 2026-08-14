@@ -5,7 +5,18 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-14 (cold-approach drill, 3 takes + research rebuild)
+Last updated: 2026-08-14 session close (cold-approach campaign, 11 takes;
+research rebuild; first mastery-mode pass)
+
+**Session-close summary 2026-08-14:** arc 44 → 81 across 11 cold-approach
+takes. Warmth ceiling broken (75, take 4). Presence 45-avg → 84 (take 11).
+Deliberate pauses: 14 takes at zero, then four straight takes with silence
+architecture under mastery mode — installed under drill, unproven unprompted.
+Melody dipped to an all-time-low 42 on serious beats then recovered to 100 on
+instruction. **Never moved all session: gesture 0.0% — eleven takes, eleven
+zeros.** The braid also never got recorded: Mike received four questions and
+zero disclosures before the session closed. Next session: pre-approach
+mindset coaching (see `kenny-profile.md` §2b) + the braid beat.
 
 **2026-08-14 framework note:** the grading system was rebuilt against the
 research corpus (`coaching/research-foundations.md`). Several standing items
@@ -148,12 +159,20 @@ between them take to take; what he has not yet produced in a cold approach is
 the alternation — ask, disclose, ask (drill D3). Note his disclosure raw
 material is strong (two brands + AI agents = built-in motive/contrast/lately).
 
-### 8. Gesture 0.0% — three takes running (newly scored 2026-08-14)
-`gesture_active_pct = 0.0` in all three cold-approach takes, with an
-energy_body_mismatch flag in take 2 (vocal peaks over a dead body). Was
-previously unscored; now a deficit under the Power Sphere doctrine. Stillness
-is his strength *under pressure*; in storytelling/delivery it reads as
-"reporting, not reliving." Drill B1.
+### 8. Gesture 0.0% — ELEVEN takes running (updated at session close)
+`gesture_active_pct = 0.0` in every cold-approach take, 1 through 11, with
+energy_body_mismatch flags firing at vocal peaks in four of them. The only
+metric that did not move once all session, through every drill and every
+instruction. Was previously unscored; now a deficit under the Power Sphere
+doctrine. Stillness is his strength *under pressure*; in storytelling it
+reads as "reporting, not reliving." Drill B1. **Candidate for a future
+session's opening ONE THING.**
+
+### 11. The subjunctive softener (named at session close)
+On interior questions, "was going through your mind" keeps decaying to
+"would go through your mind" — fixed in take 10, back in take 11. Half a
+step of distance from the moment: the conditional asks about a habit, the
+past tense asks about HIM, then. Small, recurring, worth one clean rep.
 
 ### 9. Sentence-final certainty — DOWNGRADED from Resolved (2026-08-14)
 100% final-drop through the mixer session and cold takes 1–2, then **0%** in

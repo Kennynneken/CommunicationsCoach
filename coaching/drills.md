@@ -30,6 +30,27 @@ first conversation is a warm-up rep; it is not supposed to be the important
 one. Controllable factors only: approach, warmth, name, question. Outcomes are
 not the metric.
 
+### A5 · The prediction ledger (mindset)
+**Trains:** approach cognition · **Source:** Epley/Kardas/Kumar (miscalibrated
+social forecasting); Smithyman (behavioral experiments)
+Before an approach — real or roleplay — say the prediction out loud: what
+will happen, how welcome it will be, 0–10. Approach. Afterward, rate what
+actually happened, 0–10. Log both. The point is not positive thinking — it is
+catching the forecasting error on paper until the brain recalibrates. The
+research says the gap runs one direction: reality is consistently warmer than
+the prediction. His specific stock predictions to ledger: "they don't want to
+talk to me," "now's not the time," "they're trying to work."
+
+### A6 · The rule test
+**Trains:** permission logic · **Source:** Smithyman (safety behaviors /
+exposure); Greene (boldness — Law 28)
+For rooms where the "rule" says don't approach (people working, closed
+groups): the skill is not ignoring context — it is the low-cost, easily
+declined opener that TESTS the rule instead of obeying it unexamined:
+time-boxed ("stealing you for one question, then I'm gone"), warm, with the
+exit pre-built. If they decline, the decline costs nothing — that datum goes
+in the ledger too, next to the prediction.
+
 ### A4 · Smile-then-speak
 **Trains:** warmth timing · **Source:** Giang (face = remote control of tone)
 The smile starts half a second BEFORE the first word and holds through the
