@@ -6,6 +6,10 @@ recording loop isn't limited to sessions you managed to capture live.
 | Deck | Situations | Primary rubrics |
 |---|---|---|
 | [`columbus-business-party.md`](columbus-business-party.md) | 14 — business mixers, networking events, company parties and client dinners in Columbus, OH | `networking`, `small-talk`, `speech` |
+| [`cold-opens.md`](cold-opens.md) | 10 — starting conversations with strangers where no event, host or pretext gives you permission to speak | `small-talk`, `networking` |
+
+Cards are numbered `s<N>` in the Columbus deck and `c<N>` in the cold-opens
+deck, so the two trends stay separate in `reports/`.
 
 ## How a deck fits the loop
 
