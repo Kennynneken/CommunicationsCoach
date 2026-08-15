@@ -1,0 +1,117 @@
+{
+  "has_video": true,
+  "frames_analyzed": 11,
+  "posture": {
+    "shoulder_forward_score_ts": [
+      {
+        "t": 0.0,
+        "v": 0.91
+      },
+      {
+        "t": 0.33,
+        "v": 0.93
+      },
+      {
+        "t": 0.67,
+        "v": 0.97
+      },
+      {
+        "t": 1.0,
+        "v": 0.99
+      },
+      {
+        "t": 1.33,
+        "v": 0.99
+      },
+      {
+        "t": 1.67,
+        "v": 0.99
+      },
+      {
+        "t": 2.0,
+        "v": 0.99
+      },
+      {
+        "t": 2.33,
+        "v": 0.99
+      },
+      {
+        "t": 2.67,
+        "v": 0.98
+      },
+      {
+        "t": 3.0,
+        "v": 0.99
+      },
+      {
+        "t": 3.33,
+        "v": 0.98
+      }
+    ],
+    "uprightness_mean": 0.97,
+    "uprightness_trend": "improving",
+    "start_vs_end_delta": 0.07
+  },
+  "face": {
+    "smile_pct": 54.5,
+    "smile_ts": [
+      {
+        "t": 0.0,
+        "v": 0.03
+      },
+      {
+        "t": 0.33,
+        "v": 0.44
+      },
+      {
+        "t": 0.67,
+        "v": 0.5
+      },
+      {
+        "t": 1.0,
+        "v": 0.92
+      },
+      {
+        "t": 1.33,
+        "v": 0.94
+      },
+      {
+        "t": 1.67,
+        "v": 0.55
+      },
+      {
+        "t": 2.0,
+        "v": 0.0
+      },
+      {
+        "t": 2.33,
+        "v": 0.06
+      },
+      {
+        "t": 2.67,
+        "v": 0.0
+      },
+      {
+        "t": 3.0,
+        "v": 0.18
+      },
+      {
+        "t": 3.33,
+        "v": 0.45
+      }
+    ],
+    "duchenne_available": true,
+    "duchenne_pct_of_smiles": 100.0
+  },
+  "gaze": {
+    "toward_camera_pct": 100.0,
+    "down_pct": 0.0,
+    "stability_score_0to100": 100,
+    "note": "toward_camera_pct only meaningful for youtube/on-camera context"
+  },
+  "movement": {
+    "head_velocity_mean": 0.023,
+    "sway_score_0to100": 6,
+    "gesture_active_pct": 0.0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "language": "en",
+  "duration_s": 3.58,
+  "words": [
+    {
+      "w": "Hey,",
+      "start": 0.5,
+      "end": 1.12,
+      "p": 0.9
+    },
+    {
+      "w": "your",
+      "start": 1.42,
+      "end": 1.58,
+      "p": 0.95
+    },
+    {
+      "w": "jacket's",
+      "start": 1.58,
+      "end": 1.96,
+      "p": 0.84
+    },
+    {
+      "w": "really",
+      "start": 1.96,
+      "end": 2.36,
+      "p": 0.99
+    },
+    {
+      "w": "cool.",
+      "start": 2.36,
+      "end": 2.72,
+      "p": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "Hey, your jacket's really cool.",
+      "start": 0.5,
+      "end": 2.72
+    }
+  ]
+}
