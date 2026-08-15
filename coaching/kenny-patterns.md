@@ -5,7 +5,12 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-11 (networking roleplay, 8 takes)
+Last updated: 2026-08-15 (cold-open roleplay, in progress)
+
+> **Session protocol:** roleplay scenes advance only on **headline ≥ 80 AND no
+> dimension < 60** (`docs/ROLEPLAY.md`). This was verbal-only before 2026-08-15
+> and was lost across a session boundary. It is written down now. Do not
+> advance a scene on improvement alone.
 
 ---
 

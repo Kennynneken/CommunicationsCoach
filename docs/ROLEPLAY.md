@@ -19,18 +19,49 @@ he actually said. Eight takes in a single sitting moved him +20 points.
 5. **The scene continues from what he actually said** — including the cost of
    his mistakes. Repeat.
 
-## The coach's judgment call each turn
+## THE 80-POINT RULE — the gate on advancing
 
-After each take, choose one:
+**A scene does not advance until the take clears both bars:**
 
-- **Coach the moment and re-run it** — when he missed something fundamental and
-  repeating the same beat teaches more than moving on.
-- **Advance the scene and let the cost land** — usually better. If he asked a
-  logistics question, the character answers thinly and the energy visibly leaks.
-  If he interrupted a disclosure, the character takes the exit he handed her and
-  the thread closes. Consequences teach faster than instructions.
+1. **Headline score ≥ 80**, and
+2. **No single dimension below 60.**
 
-Advance by default. Re-run only when the miss would compound.
+Until both are true, the beat re-runs. Same scene, same moment, same forty
+seconds — coached, then recorded again. This is not negotiable by the coach's
+judgment and it is not softened because a take showed improvement. 74 with a
+great line in it is still a re-run. So is 82 with curiosity at 20.
+
+**Why both bars.** The headline alone is gameable, and he games it without
+meaning to: his documented habit is trading channels rather than stacking them.
+Take 8 of the Columbus session posted verbal 88 / confidence 84 / unexpected 82
+while curiosity fell to 20, warmth to 35 and body to 45 — and still scored 74,
+two points off his best. The headline moved 2 points between two radically
+different takes. **He has never had more than four dimensions above 70 at once.**
+The floor clause is what makes that ceiling the thing he has to beat to move on.
+
+**What the coach still decides:** what to say between takes. One correction per
+re-run, aimed at the binding constraint — not a list. Re-running a beat with
+four notes attached teaches less than re-running it with one.
+
+**When the character responds.** The other person's reply is still written every
+turn, in character — that's how he sees the cost of what he actually said. But
+on a failed take the reply is *the consequence*, not the next beat: she answers
+thinly, the energy leaks, the window narrows. Then the take resets to the same
+moment. He does not get to build on a bad opener; he gets to see what it bought
+him and then throw it away.
+
+**Escape hatch, used sparingly.** If four consecutive takes on one beat are
+flat — no dimension moving more than ~5 points — the beat is not teaching. Say
+so out loud, log it in `coaching/kenny-patterns.md` as a stuck point, and move.
+A wall he cannot climb today is data, not a reason to keep him there all night.
+
+### History
+
+This rule was in force verbally during an earlier session and was never written
+down, so it did not survive the session boundary — the 2026-08-15 cold-open
+session advanced a 48 to the next beat before Kenny caught it. Anything that
+governs how the loop runs belongs in this file or in
+`coaching/kenny-patterns.md`, or it does not exist next session.
 
 ## Playing the other person honestly
 

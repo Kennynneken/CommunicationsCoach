@@ -25,6 +25,12 @@ For live roleplay sessions — the coach sets a scene, Kenny records his respons
 score, then the scene advances — follow `docs/ROLEPLAY.md`. That mode has been
 the highest-yield use of this repo so far. Practice scenes live in `scenarios/`.
 
+**THE 80-POINT RULE governs roleplay: a scene does not advance until the take
+scores ≥ 80 headline AND no dimension is below 60.** Otherwise the same beat
+re-runs with one correction. Full statement in `docs/ROLEPLAY.md`. Do not
+advance a scene on improvement alone — 76 is a re-run, and so is 82 with one
+dimension at 20.
+
 If the pipeline or environment is missing, run **`bash pipeline/ensure_ready.sh`**
 — never `setup.sh` directly. A SessionStart hook may already be installing, and
 `ensure_ready.sh` holds a lock so you wait for it instead of starting a second
