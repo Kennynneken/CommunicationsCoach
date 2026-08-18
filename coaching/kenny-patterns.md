@@ -5,29 +5,34 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 3 takes — breakthrough T2, channel-trade proven T3)
+Last updated: 2026-08-18 (on-camera / youtube, 4 takes — CEILING BROKEN on T4)
 
 ## THE CENTRAL FINDING of 8-18 (read this first)
 
-Across three takes he demonstrated every piece of an 80s on-camera hook — but
-never more than a subset at once. This is the documented "trades channels
-instead of stacking them" ceiling, now proven on the SAME 15-second script three
-times:
+Same 15-second script, four takes. For three takes he demonstrated every piece of
+an 80s hook but never more than a subset at once (the documented "trades channels
+instead of stacking them" ceiling). **On T4 he broke it — first take with a
+deliberate pause AND an active gesture together, melody at 100.**
 
-| | T1 (69) | T2 (78) | T3 (77) |
-|---|---|---|---|
-| deliberate pause | 0 | **1** | 0 |
-| wpm_speaking | 168 | **136** | 161 |
-| gesture % | 0 | 0 | **47** |
-| melody variance | 95 | 69 | **100** |
-| smile % | 10.6 | **36** | 21 |
+| | T1 (69) | T2 (78) | T3 (77) | T4 (79) |
+|---|---|---|---|---|
+| deliberate pause | 0 | **1** | 0 | **1** |
+| wpm_speaking | 168 | **136** | 161 | 168 |
+| gesture % | 0 | 0 | **47** | **68** |
+| melody variance | 95 | 69 | **100** | **100** |
+| smile % | 10.6 | **36** | 21 | 23 |
 
-T2 bought presence (pause+tempo+warmth) at the cost of melody and gesture. T3
-bought body+melody (gesture+variance) at the cost of the pause, tempo and some
-warmth. **He has still never had the pause AND the gesture in one take.** The
-next unlock is not a new skill — it's holding two he has already shown. Coaching
-strategy: anchor competing demands to the SAME beat so he manages one moment, not
-two (pause + gesture both on the post-"mirror writing" emphasis point).
+T2 bought presence at the cost of melody+gesture. T3 bought body+melody at the
+cost of the pause+tempo. **T4 finally stacked pause + gesture + melody** — the
+ceiling. Remaining gaps on T4: (1) tempo regressed to 168 (the pause no longer
+drags tempo down because he holds one beat and sprints the rest), (2) warmth
+still squeezed (~23%), (3) a subtle but important one — his BEST pause on T4
+(0.86s after "mirror writing") was mis-classified **anxious** purely because he
+kept the comma; it was longer and better-placed than his counted deliberate one.
+**Coaching lever that's working:** convert structure, not skill — making "mirror
+writing." a full stop turns a pause he already takes into a deliberate reveal AND
+slows tempo (can't run a sentence you've ended). Next: consolidate, don't add a
+4th plate.
 
 ---
 
