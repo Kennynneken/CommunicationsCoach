@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 6 takes — 77–79 plateau, warmth bleeding)
+Last updated: 2026-08-18 (on-camera / youtube, 7 takes — plateau broken, first 80 on T7)
 
 ## THE CENTRAL FINDING of 8-18 (read this first)
 
@@ -14,16 +14,32 @@ an 80s hook but never more than a subset at once (the documented "trades channel
 instead of stacking them" ceiling). **On T4 he broke it — first take with a
 deliberate pause AND an active gesture together, melody at 100.**
 
-| | T1 (69) | T2 (78) | T3 (77) | T4 (79) | T5 (78) | T6 (77) |
-|---|---|---|---|---|---|---|
-| deliberate pause | 0 | 1 | 0 | 1 | 1 | 1 |
-| anxious gaps | 1 | 0 | 1 | 1 | 0 | 2 |
-| wpm_speaking | 168 | **136** | 161 | 168 | 158 | 152 |
-| gesture % | 0 | 0 | 47 | 68 | 73 | **78** |
-| sway | 25 | **14** | 19 | 33 | 35 | 35 |
-| posture Δ | +.14 | -.01 | 0 | -.01 | -.07 | +.10 |
-| final-drop % | 100 | 100 | 100 | 100 | 100 | **50** |
-| smile % | 10.6 | **36** | 21 | 23 | 18.9 | **12.7** |
+| | T1 | T2 | T3 | T4 | T5 | T6 | T7 |
+|---|---|---|---|---|---|---|---|
+| score | 69 | 78 | 77 | 79 | 78 | 77 | **80** |
+| deliberate pause | 0 | 1 | 0 | 1 | 1 | 1 | 1 |
+| anxious gaps | 1 | 0 | 1 | 1 | 0 | 2 | **0** |
+| wpm_speaking | 168 | 136 | 161 | 168 | 158 | 152 | **150** |
+| gesture % | 0 | 0 | 47 | 68 | 73 | 78 | 70 |
+| sway | 25 | 14 | 19 | 33 | 35 | 35 | 28 |
+| final-drop % | 100 | 100 | 100 | 100 | 100 | 50 | **33** |
+| smile % | 10.6 | 36 | 21 | 23 | 18.9 | 12.7 | **30.9** |
+
+**PLATEAU BROKEN on T7 (first 80) — the warmth-first pivot was the key.** After
+four takes stuck at 77–79 trading channels, one holistic "enjoy the line, smile
+first" cue did what five micro-mechanic cues couldn't: smile reversed 12.7 → 30.9
+in a single rep AND the mechanics he'd been white-knuckling fell into place on
+their own — he finally made the "mirror writing." period (reveal pause now filed
+sentence-end not anxious), dropped all anxious gaps, landed tempo on 150, and
+calmed the sway (35 → 28). **Lesson: when he's over-managing, a get-out-of-your-
+head cue beats another dial — warmth loosens the mechanics rather than competing
+with them.** This answers the T7 test question: warmth-first did NOT trade a
+mechanic back; it lifted everything.
+
+**New regression to watch: sentence-final drop.** Was a Resolved strength (100%
+for four takes), now slid 100 → 50 → 33 over T5–T7. Endings drifting up. Likely
+tied to the "…in here" padding tag lifting the last note. T8 ONE THING targets it
+(end on "crazy.", cut "in here", last word down + stop).
 
 **PLATEAU + WARMTH BLEED (the T3–T6 story).** Four takes stuck at 77–79. Every
 take he fixes one channel and another slips — the "trades channels" ceiling made
@@ -209,9 +225,11 @@ He takes real silence *before* speaking: 3.09s (s4-risk), 2.45s (s4-layer3-2),
 with uprightness *rising* through the hold (0.87 → 0.95, and 0.99). This is the
 composure signal the rubrics ask for and he does it naturally.
 
-### 3. Sentence-final certainty
-0% → 100% between takes 1 and 2 and mostly held (one collapse to 0% in
-s4-layer3-2). Endings land downward.
+### 3. Sentence-final certainty — REGRESSED on camera, un-resolve
+0% → 100% between networking takes 1 and 2 and mostly held there. BUT on the 8-18
+youtube takes it slid 100 → 50 → 33% over T5–T7 (endings drifting upward). No
+longer safe to call Resolved. Being actively re-drilled (T8 ONE THING). See the
+8-18 table above.
 
 ### 4. Giving his name
 Took five takes; now does it, and uses hers.
