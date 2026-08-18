@@ -5,7 +5,29 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 2 takes — breakthrough on take 2)
+Last updated: 2026-08-18 (on-camera / youtube, 3 takes — breakthrough T2, channel-trade proven T3)
+
+## THE CENTRAL FINDING of 8-18 (read this first)
+
+Across three takes he demonstrated every piece of an 80s on-camera hook — but
+never more than a subset at once. This is the documented "trades channels
+instead of stacking them" ceiling, now proven on the SAME 15-second script three
+times:
+
+| | T1 (69) | T2 (78) | T3 (77) |
+|---|---|---|---|
+| deliberate pause | 0 | **1** | 0 |
+| wpm_speaking | 168 | **136** | 161 |
+| gesture % | 0 | 0 | **47** |
+| melody variance | 95 | 69 | **100** |
+| smile % | 10.6 | **36** | 21 |
+
+T2 bought presence (pause+tempo+warmth) at the cost of melody and gesture. T3
+bought body+melody (gesture+variance) at the cost of the pause, tempo and some
+warmth. **He has still never had the pause AND the gesture in one take.** The
+next unlock is not a new skill — it's holding two he has already shown. Coaching
+strategy: anchor competing demands to the SAME beat so he manages one moment, not
+two (pause + gesture both on the post-"mirror writing" emphasis point).
 
 ---
 
@@ -70,6 +92,9 @@ predicted cascade (see below). This is ONE take — do not promote to Resolved y
 Next session: confirm it holds, and push for 2–3 deliberate pauses per clip, not
 just one. The mechanism to reinforce: his gaze is at 100%, so a held silence reads
 as pure command — the asset that makes his pauses land is already in place.
+**Regression already observed:** take3 went back to `deliberate_count = 0` the
+moment gesture was the focus — the pause is the first thing he drops under any new
+cognitive load. It is fragile, not yet automatic. Do NOT promote to Resolved.
 
 **The cascade (8-18, take1 → take2), documented because it's the proof case:**
 one deliberate pause pulled `wpm_speaking` 168 → 136 (first time ever inside the
@@ -120,16 +145,15 @@ unprompted next session — one clean correction, not yet a habit.
 Asks two questions back to back, so only the second gets answered
 (s1-take1, s3). Fewer questions, more silence.
 
-### 7. Zero gesture on camera — CONFIRMED, now the top on-camera target (2 takes)
-`gesture_active_pct = 0.0` on BOTH 8-18 takes. On take2 it earned an active
-`energy_body_mismatch` incongruence flag ("talking big, standing dead") — the
-flag did NOT fire on take1, because back then his flat voice matched his still
-body; once the voice got energy on take2, the dead hands became a visible
-mismatch. This is the only standing pattern that has never moved, and it is now
-the dimension (body language, 72) blocking the others. Next ONE THING target:
-one deliberate beat gesture landing on the stressed emphasis word. Stillness
-reads as composure in networking; on camera, an energy line with no hands is a
-hole the tool now catches automatically.
+### 7. Zero gesture on camera — FIXED on take3 (gesture 0 → 47%), but at a cost
+`gesture_active_pct = 0.0` on takes 1–2 (take2 earned an `energy_body_mismatch`
+flag, "talking big, standing dead"). **Take3: 47.1%, flag gone, and it dragged
+melody up to a perfect 100 as a bonus** — hands and voice are wired together for
+him, animating one animates the other. So the gesture instinct is trainable and
+fast. BUT adding it cost him the deliberate pause and pushed tempo back to 161
+(see Central Finding). Near-resolved as an isolated skill; the live problem is now
+holding it TOGETHER with the pause, not the gesture itself. Watch that 47% doesn't
+become constant flapping — it wants to land on emphasis words, not run continuously.
 
 **RIG CAVEAT (Kenny flagged 8-18):** some takes are shot handheld with one hand
 holding the phone, so `gesture_active_pct = 0.0` is partly a setup artifact, not

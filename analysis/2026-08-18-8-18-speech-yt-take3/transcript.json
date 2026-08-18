@@ -1,0 +1,227 @@
+{
+  "language": "en",
+  "duration_s": 17.04,
+  "words": [
+    {
+      "w": "Alright,",
+      "start": 1.55,
+      "end": 2.07,
+      "p": 0.72
+    },
+    {
+      "w": "today",
+      "start": 2.23,
+      "end": 2.41,
+      "p": 0.98
+    },
+    {
+      "w": "we",
+      "start": 2.41,
+      "end": 3.21,
+      "p": 0.74
+    },
+    {
+      "w": "are",
+      "start": 3.21,
+      "end": 3.31,
+      "p": 0.61
+    },
+    {
+      "w": "going",
+      "start": 3.31,
+      "end": 3.47,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 3.47,
+      "end": 3.63,
+      "p": 1.0
+    },
+    {
+      "w": "talk",
+      "start": 3.63,
+      "end": 3.89,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 3.89,
+      "end": 4.27,
+      "p": 1.0
+    },
+    {
+      "w": "mirror",
+      "start": 4.27,
+      "end": 4.71,
+      "p": 0.81
+    },
+    {
+      "w": "writing,",
+      "start": 4.71,
+      "end": 5.15,
+      "p": 0.91
+    },
+    {
+      "w": "the",
+      "start": 5.61,
+      "end": 6.19,
+      "p": 0.98
+    },
+    {
+      "w": "number",
+      "start": 6.19,
+      "end": 6.49,
+      "p": 0.93
+    },
+    {
+      "w": "one",
+      "start": 6.49,
+      "end": 6.75,
+      "p": 0.95
+    },
+    {
+      "w": "thing",
+      "start": 6.75,
+      "end": 7.11,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 7.11,
+      "end": 7.29,
+      "p": 0.86
+    },
+    {
+      "w": "you",
+      "start": 7.29,
+      "end": 7.59,
+      "p": 0.97
+    },
+    {
+      "w": "can",
+      "start": 7.59,
+      "end": 7.93,
+      "p": 1.0
+    },
+    {
+      "w": "do",
+      "start": 7.93,
+      "end": 8.17,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 8.17,
+      "end": 8.41,
+      "p": 1.0
+    },
+    {
+      "w": "advance",
+      "start": 8.41,
+      "end": 8.75,
+      "p": 1.0
+    },
+    {
+      "w": "your",
+      "start": 8.75,
+      "end": 9.05,
+      "p": 1.0
+    },
+    {
+      "w": "personal",
+      "start": 9.05,
+      "end": 9.59,
+      "p": 0.99
+    },
+    {
+      "w": "development",
+      "start": 9.59,
+      "end": 10.19,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 10.19,
+      "end": 10.99,
+      "p": 0.98
+    },
+    {
+      "w": "2026.",
+      "start": 10.99,
+      "end": 12.03,
+      "p": 0.97
+    },
+    {
+      "w": "So",
+      "start": 12.77,
+      "end": 12.97,
+      "p": 0.92
+    },
+    {
+      "w": "buckle",
+      "start": 12.97,
+      "end": 13.23,
+      "p": 0.89
+    },
+    {
+      "w": "up,",
+      "start": 13.23,
+      "end": 13.57,
+      "p": 1.0
+    },
+    {
+      "w": "things",
+      "start": 14.21,
+      "end": 14.43,
+      "p": 0.99
+    },
+    {
+      "w": "are",
+      "start": 14.43,
+      "end": 14.61,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 14.61,
+      "end": 14.77,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 14.77,
+      "end": 14.95,
+      "p": 1.0
+    },
+    {
+      "w": "get",
+      "start": 14.95,
+      "end": 15.09,
+      "p": 1.0
+    },
+    {
+      "w": "crazy.",
+      "start": 15.09,
+      "end": 15.55,
+      "p": 0.99
+    }
+  ],
+  "segments": [
+    {
+      "text": "Alright, today we are going to talk about mirror writing, the number one thing that you",
+      "start": 1.55,
+      "end": 7.59
+    },
+    {
+      "text": "can do to advance your personal development in 2026.",
+      "start": 7.59,
+      "end": 12.03
+    },
+    {
+      "text": "So buckle up, things are about to get crazy.",
+      "start": 12.77,
+      "end": 15.55
+    }
+  ]
+}
