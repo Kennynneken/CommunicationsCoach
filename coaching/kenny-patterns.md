@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (first on-camera / youtube baseline, 1 take)
+Last updated: 2026-08-18 (on-camera / youtube, 2 takes — breakthrough on take 2)
 
 ---
 
@@ -62,26 +62,36 @@ he added one *before*. The instinct is the target, not the position.
 — 11 words, nothing attached. It is the best line of the session. Not a
 coincidence.**
 
-### 2. Zero deliberate pauses — 9 for 9
-`deliberate_count = 0` in every take recorded to date, now including the first
-on-camera take (8-18 youtube). Closest approaches: 0.76s (s3, and again 8-18),
-against a 0.8s bar. He has never once held a silence of 0.8s+ *inside* his
-speech. He does hold silence *before* speaking (see Resolved #2), which is why
-this looks better in the wall-clock WPM than it is. On camera this is even more
-costly: gaze is already at 100%, so a held silence would read as pure command —
-the one asset that would make his pauses land is already in place and unused.
+### 2. Deliberate pauses — STREAK BROKEN on take 8-18-yt-take2 (watch for regression)
+`deliberate_count = 0` held for nine straight takes, then **1** on 8-18-yt-take2:
+a clean 0.98s silent hold after "mirror writing," p90 0.98s (first time over the
+0.8s bar), zero anxious gaps. It was the drilled ONE THING and it produced the
+predicted cascade (see below). This is ONE take — do not promote to Resolved yet.
+Next session: confirm it holds, and push for 2–3 deliberate pauses per clip, not
+just one. The mechanism to reinforce: his gaze is at 100%, so a held silence reads
+as pure command — the asset that makes his pauses land is already in place.
+
+**The cascade (8-18, take1 → take2), documented because it's the proof case:**
+one deliberate pause pulled `wpm_speaking` 168 → 136 (first time ever inside the
+110–150 power zone) AND smile 10.6% → 36.1% with warmth moving onto the promise.
+Presence was the dimension blocking the others; fixing it lifted tempo and warmth
+together. First time he stacked two big gains instead of trading one channel for
+another. **The cost:** melody compressed (variance 95 → 69) and final-drop 100 →
+75%. Acceptable trade — do not let him chase melody back at the expense of tempo.
 
 ### 3. Tempo — never actually solved
 `wpm_speaking` (articulation rate, added at the end of this session) tells the
 true story that `wpm_overall` was hiding:
 
-`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222 → 168` (last = 8-18 youtube)
+`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222 → 168 → 136` (last two = 8-18 yt)
 
-No trend, but 168 is his slowest articulation yet and the first time he's been
-within striking distance of the 110–150 power zone. Still above it, still one
-speed with no contrast, but the on-camera setting pulled him down. Every apparent
-"slowdown" was lead-in silence deflating the wall-clock figure.
-**This is the top priority and it has never been genuinely drilled.**
+**136 (take2) is the first `wpm_speaking` ever inside the 110–150 power zone.**
+Not from consciously slowing words — from installing one deliberate pause, which
+dragged the whole cadence down. This confirms the fix path: pauses buy tempo, not
+the other way around. Watch for regression, and note the trade — the slowdown
+compressed melody (variance 95 → 69). Was the top unsolved priority for 9 takes;
+now moving. Every earlier apparent "slowdown" was lead-in silence deflating the
+wall-clock figure; take2 is the first real articulation-level slowdown.
 
 ### 4. Minimizers on heavy content
 He shrink-wraps other people's serious disclosures with small words.
@@ -99,21 +109,27 @@ Smile drops to ~0.0 exactly when the warm or vulnerable sentence lands
 **Exception, and he got it right:** s4-layer3-2, flat face on her disclosure —
 that was correct congruence. He can read the room down; he struggles to come
 back up (s12: she laughed, he stayed at 0% smile with posture collapsing).
-**On-camera confirmation (8-18):** flat face (smile 0.00) across the entire value
-promise at 4.6–9.6s; the only genuine Duchenne smile (0.81) arrived late, on the
-payoff word "crazy" at 13.3s. Same tell, new medium — he gates warmth to the last
-beat instead of spending it on the line that needs it.
+**On-camera (8-18): tell appeared on take1, CORRECTED on take2.** Take1: flat face
+(smile 0.00) across the whole value promise at 4.6–9.6s; only Duchenne smile
+arrived late on "crazy." Take2, after the note: smile 36.1% (was 10.6%), Duchenne
+90.9%, and it lands *on* the promise ("the number one thing you can do," 6.0–7.3s).
+He can move warmth onto the persuasive line when told. Watch whether it holds
+unprompted next session — one clean correction, not yet a habit.
 
 ### 6. Stacked questions
 Asks two questions back to back, so only the second gets answered
 (s1-take1, s3). Fewer questions, more silence.
 
-### 7. Zero gesture on camera (new, 1 data point)
-`gesture_active_pct = 0.0` for the entire first on-camera take, including a
-"buckle up, things are going to get crazy" energy line. Body says calm while
-words claim crazy — a physical-energy channel left completely unspent. Watch
-whether this holds across takes; if it does, promote it. Stillness reads as
-composure in networking, but on camera a hype line with no hands is flat.
+### 7. Zero gesture on camera — CONFIRMED, now the top on-camera target (2 takes)
+`gesture_active_pct = 0.0` on BOTH 8-18 takes. On take2 it earned an active
+`energy_body_mismatch` incongruence flag ("talking big, standing dead") — the
+flag did NOT fire on take1, because back then his flat voice matched his still
+body; once the voice got energy on take2, the dead hands became a visible
+mismatch. This is the only standing pattern that has never moved, and it is now
+the dimension (body language, 72) blocking the others. Next ONE THING target:
+one deliberate beat gesture landing on the stressed emphasis word. Stillness
+reads as composure in networking; on camera, an energy line with no hands is a
+hole the tool now catches automatically.
 
 ---
 
