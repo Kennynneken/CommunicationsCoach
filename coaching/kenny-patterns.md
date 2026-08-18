@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 5 takes — gesture overcorrected on T5)
+Last updated: 2026-08-18 (on-camera / youtube, 6 takes — 77–79 plateau, warmth bleeding)
 
 ## THE CENTRAL FINDING of 8-18 (read this first)
 
@@ -14,16 +14,30 @@ an 80s hook but never more than a subset at once (the documented "trades channel
 instead of stacking them" ceiling). **On T4 he broke it — first take with a
 deliberate pause AND an active gesture together, melody at 100.**
 
-| | T1 (69) | T2 (78) | T3 (77) | T4 (79) | T5 (78) |
-|---|---|---|---|---|---|
-| deliberate pause | 0 | **1** | 0 | **1** | **1** |
-| anxious gaps | 1 | 0 | 1 | 1 | **0** |
-| wpm_speaking | 168 | **136** | 161 | 168 | 158 |
-| gesture % | 0 | 0 | 47 | 68 | **73** |
-| sway | 25 | 14 | 19 | 33 | **35** |
-| posture Δ | +.14 | -.01 | 0 | -.01 | **-.07** |
-| melody | 95 | 69 | **100** | **100** | **100** |
-| smile % | 10.6 | **36** | 21 | 23 | 18.9 |
+| | T1 (69) | T2 (78) | T3 (77) | T4 (79) | T5 (78) | T6 (77) |
+|---|---|---|---|---|---|---|
+| deliberate pause | 0 | 1 | 0 | 1 | 1 | 1 |
+| anxious gaps | 1 | 0 | 1 | 1 | 0 | 2 |
+| wpm_speaking | 168 | **136** | 161 | 168 | 158 | 152 |
+| gesture % | 0 | 0 | 47 | 68 | 73 | **78** |
+| sway | 25 | **14** | 19 | 33 | 35 | 35 |
+| posture Δ | +.14 | -.01 | 0 | -.01 | -.07 | +.10 |
+| final-drop % | 100 | 100 | 100 | 100 | 100 | **50** |
+| smile % | 10.6 | **36** | 21 | 23 | 18.9 | **12.7** |
+
+**PLATEAU + WARMTH BLEED (the T3–T6 story).** Four takes stuck at 77–79. Every
+take he fixes one channel and another slips — the "trades channels" ceiling made
+visible over six reps on one script. The clearest casualty is **warmth: smile
+36 → 21 → 23 → 18.9 → 12.7**, a five-take monotone decline. He is optimizing
+himself into a flat, technically-excellent read — the exact opposite of the repo's
+core principle (emotion over information). **Coaching pivot at T6:** stop stacking
+micro-mechanics (he's stopped executing them anyway — ignored the "period" fix T5
+and the "cut gesture" fix T6), and give him ONE holistic, get-out-of-your-head
+cue: genuinely enjoy the line, smile before the first word. The machinery
+(melody 100, gaze 100 six-for-six, tempo now ~152, posture recovering) is built
+and largely automatic; the missing ingredient is the person, not another part.
+Watch: does a warmth-first cue also loosen the mechanics, or does he trade warmth
+back for a mechanic slip? That's the key test for T7.
 
 **T5 overcorrection (new pattern to watch):** gesture climbed 47→68→73% and sway
 climbed 19→33→35 in lockstep — the hands went from "punctuation" to "constant,"
