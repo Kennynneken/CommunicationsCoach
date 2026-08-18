@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 4 takes — CEILING BROKEN on T4)
+Last updated: 2026-08-18 (on-camera / youtube, 5 takes — gesture overcorrected on T5)
 
 ## THE CENTRAL FINDING of 8-18 (read this first)
 
@@ -14,13 +14,25 @@ an 80s hook but never more than a subset at once (the documented "trades channel
 instead of stacking them" ceiling). **On T4 he broke it — first take with a
 deliberate pause AND an active gesture together, melody at 100.**
 
-| | T1 (69) | T2 (78) | T3 (77) | T4 (79) |
-|---|---|---|---|---|
-| deliberate pause | 0 | **1** | 0 | **1** |
-| wpm_speaking | 168 | **136** | 161 | 168 |
-| gesture % | 0 | 0 | **47** | **68** |
-| melody variance | 95 | 69 | **100** | **100** |
-| smile % | 10.6 | **36** | 21 | 23 |
+| | T1 (69) | T2 (78) | T3 (77) | T4 (79) | T5 (78) |
+|---|---|---|---|---|---|
+| deliberate pause | 0 | **1** | 0 | **1** | **1** |
+| anxious gaps | 1 | 0 | 1 | 1 | **0** |
+| wpm_speaking | 168 | **136** | 161 | 168 | 158 |
+| gesture % | 0 | 0 | 47 | 68 | **73** |
+| sway | 25 | 14 | 19 | 33 | **35** |
+| posture Δ | +.14 | -.01 | 0 | -.01 | **-.07** |
+| melody | 95 | 69 | **100** | **100** | **100** |
+| smile % | 10.6 | **36** | 21 | 23 | 18.9 |
+
+**T5 overcorrection (new pattern to watch):** gesture climbed 47→68→73% and sway
+climbed 19→33→35 in lockstep — the hands went from "punctuation" to "constant,"
+and on T5 the torso started collapsing (posture Δ −0.07, first real decay). More
+gesture is NOT better; it destabilizes his posture and eats the attention the
+pause and warmth need. Optimal gesture for him looks like ~30–45% landing on
+emphasis words, hands at rest between. He also did NOT execute the T4→T5 fix (make
+"mirror writing." a full stop) — he removed the reveal beat entirely instead, so
+his one pause migrated to the end. Reveal-period fix is still unclaimed.
 
 T2 bought presence at the cost of melody+gesture. T3 bought body+melody at the
 cost of the pause+tempo. **T4 finally stacked pause + gesture + melody** — the

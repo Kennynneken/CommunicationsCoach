@@ -1,0 +1,239 @@
+{
+  "language": "en",
+  "duration_s": 17.56,
+  "words": [
+    {
+      "w": "Today,",
+      "start": 0.98,
+      "end": 1.52,
+      "p": 0.95
+    },
+    {
+      "w": "we're",
+      "start": 1.82,
+      "end": 2.04,
+      "p": 0.96
+    },
+    {
+      "w": "going",
+      "start": 2.04,
+      "end": 2.16,
+      "p": 0.68
+    },
+    {
+      "w": "to",
+      "start": 2.16,
+      "end": 2.24,
+      "p": 1.0
+    },
+    {
+      "w": "talk",
+      "start": 2.24,
+      "end": 2.5,
+      "p": 0.99
+    },
+    {
+      "w": "about",
+      "start": 2.5,
+      "end": 2.84,
+      "p": 1.0
+    },
+    {
+      "w": "mirror",
+      "start": 2.84,
+      "end": 3.56,
+      "p": 0.85
+    },
+    {
+      "w": "writing,",
+      "start": 3.56,
+      "end": 4.04,
+      "p": 0.92
+    },
+    {
+      "w": "which",
+      "start": 4.5,
+      "end": 4.9,
+      "p": 1.0
+    },
+    {
+      "w": "is",
+      "start": 4.9,
+      "end": 5.1,
+      "p": 1.0
+    },
+    {
+      "w": "one",
+      "start": 5.1,
+      "end": 5.3,
+      "p": 1.0
+    },
+    {
+      "w": "of",
+      "start": 5.3,
+      "end": 5.44,
+      "p": 1.0
+    },
+    {
+      "w": "the",
+      "start": 5.44,
+      "end": 5.6,
+      "p": 1.0
+    },
+    {
+      "w": "best",
+      "start": 5.6,
+      "end": 6.24,
+      "p": 1.0
+    },
+    {
+      "w": "things",
+      "start": 6.24,
+      "end": 6.74,
+      "p": 1.0
+    },
+    {
+      "w": "that",
+      "start": 6.74,
+      "end": 7.12,
+      "p": 0.95
+    },
+    {
+      "w": "you",
+      "start": 7.12,
+      "end": 7.26,
+      "p": 1.0
+    },
+    {
+      "w": "can",
+      "start": 7.26,
+      "end": 7.42,
+      "p": 1.0
+    },
+    {
+      "w": "do",
+      "start": 7.42,
+      "end": 7.58,
+      "p": 1.0
+    },
+    {
+      "w": "in",
+      "start": 7.58,
+      "end": 7.74,
+      "p": 1.0
+    },
+    {
+      "w": "2026",
+      "start": 7.74,
+      "end": 8.74,
+      "p": 0.98
+    },
+    {
+      "w": "to",
+      "start": 8.74,
+      "end": 9.04,
+      "p": 0.93
+    },
+    {
+      "w": "further",
+      "start": 9.04,
+      "end": 9.4,
+      "p": 1.0
+    },
+    {
+      "w": "your",
+      "start": 9.4,
+      "end": 9.68,
+      "p": 1.0
+    },
+    {
+      "w": "personal",
+      "start": 9.68,
+      "end": 10.22,
+      "p": 1.0
+    },
+    {
+      "w": "development.",
+      "start": 10.22,
+      "end": 10.84,
+      "p": 1.0
+    },
+    {
+      "w": "So",
+      "start": 11.74,
+      "end": 11.84,
+      "p": 0.84
+    },
+    {
+      "w": "buckle",
+      "start": 11.84,
+      "end": 12.36,
+      "p": 0.94
+    },
+    {
+      "w": "up",
+      "start": 12.36,
+      "end": 12.72,
+      "p": 1.0
+    },
+    {
+      "w": "because",
+      "start": 12.72,
+      "end": 13.24,
+      "p": 0.52
+    },
+    {
+      "w": "things",
+      "start": 13.24,
+      "end": 13.62,
+      "p": 1.0
+    },
+    {
+      "w": "are",
+      "start": 13.62,
+      "end": 13.84,
+      "p": 1.0
+    },
+    {
+      "w": "about",
+      "start": 13.84,
+      "end": 14.06,
+      "p": 1.0
+    },
+    {
+      "w": "to",
+      "start": 14.06,
+      "end": 14.32,
+      "p": 1.0
+    },
+    {
+      "w": "get",
+      "start": 14.32,
+      "end": 14.56,
+      "p": 1.0
+    },
+    {
+      "w": "crazy.",
+      "start": 14.56,
+      "end": 15.58,
+      "p": 0.98
+    }
+  ],
+  "segments": [
+    {
+      "text": "Today, we're going to talk about mirror writing, which is one of the best things that you can",
+      "start": 0.98,
+      "end": 7.42
+    },
+    {
+      "text": "do in 2026 to further your personal development.",
+      "start": 7.42,
+      "end": 10.84
+    },
+    {
+      "text": "So buckle up because things are about to get crazy.",
+      "start": 11.74,
+      "end": 15.58
+    }
+  ]
+}

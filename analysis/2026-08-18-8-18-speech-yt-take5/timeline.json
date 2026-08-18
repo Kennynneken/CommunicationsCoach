@@ -1,0 +1,205 @@
+{
+  "duration_s": 17.56,
+  "has_video": true,
+  "timeline": [
+    {
+      "t": 0,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": null,
+      "intensity": 38.6,
+      "uprightness": 0.86,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 1,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": 72.9,
+      "intensity": 54.1,
+      "uprightness": 0.97,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 2,
+      "speaking": true,
+      "wpm_local": 300,
+      "pitch_sd_local": 31.6,
+      "intensity": 66.1,
+      "uprightness": 0.95,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 3,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": 64.1,
+      "intensity": 63.9,
+      "uprightness": 0.96,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 4,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 7.3,
+      "intensity": 48.9,
+      "uprightness": 0.97,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 5,
+      "speaking": true,
+      "wpm_local": 240,
+      "pitch_sd_local": 16.3,
+      "intensity": 60.4,
+      "uprightness": 0.93,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 6,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 22.6,
+      "intensity": 57.8,
+      "uprightness": 0.88,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 7,
+      "speaking": true,
+      "wpm_local": 300,
+      "pitch_sd_local": 22.4,
+      "intensity": 62.5,
+      "uprightness": 0.93,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 8,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": 88.9,
+      "intensity": 59.9,
+      "uprightness": 0.92,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 9,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 21.8,
+      "intensity": 63.9,
+      "uprightness": 0.93,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 10,
+      "speaking": true,
+      "wpm_local": 60,
+      "pitch_sd_local": 19.9,
+      "intensity": 59.1,
+      "uprightness": 0.89,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 11,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 100.2,
+      "intensity": 47.4,
+      "uprightness": 0.98,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 12,
+      "speaking": true,
+      "wpm_local": 120,
+      "pitch_sd_local": 29.5,
+      "intensity": 54.5,
+      "uprightness": 0.89,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 13,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 81.8,
+      "intensity": 57.7,
+      "uprightness": 0.97,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 14,
+      "speaking": true,
+      "wpm_local": 180,
+      "pitch_sd_local": 7.2,
+      "intensity": 55.3,
+      "uprightness": 0.95,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 15,
+      "speaking": true,
+      "wpm_local": 0,
+      "pitch_sd_local": 18.9,
+      "intensity": 58.4,
+      "uprightness": 0.98,
+      "smiling": true,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 16,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 36.5,
+      "uprightness": 0.72,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    },
+    {
+      "t": 17,
+      "speaking": false,
+      "wpm_local": 0,
+      "pitch_sd_local": null,
+      "intensity": 37.8,
+      "uprightness": 0.73,
+      "smiling": false,
+      "gaze_class": null,
+      "gesture_active": null
+    }
+  ],
+  "incongruence_flags": []
+}
