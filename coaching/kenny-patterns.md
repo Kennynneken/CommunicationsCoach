@@ -131,6 +131,15 @@ one deliberate beat gesture landing on the stressed emphasis word. Stillness
 reads as composure in networking; on camera, an energy line with no hands is a
 hole the tool now catches automatically.
 
+**RIG CAVEAT (Kenny flagged 8-18):** some takes are shot handheld with one hand
+holding the phone, so `gesture_active_pct = 0.0` is partly a setup artifact, not
+pure habit — do NOT read it as "standing dead" without checking how it was shot.
+The gesture still matters for the real (tripod) YouTube use case. Coaching split:
+if propped → drill a beat gesture on the emphasis word; if handheld → free-hand
+gesture only, or non-hand emphasis (forward lean, eyebrow flash, head-nod on the
+stressed syllable). Ask/confirm the rig before diagnosing gesture next session.
+NB: handheld and still stability read 100 / sway 14 — his framing hand is steady.
+
 ---
 
 ## Resolved — hold the gain
