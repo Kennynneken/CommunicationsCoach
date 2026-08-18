@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-11 (networking roleplay, 8 takes)
+Last updated: 2026-08-18 (first on-camera / youtube baseline, 1 take)
 
 ---
 
@@ -62,20 +62,25 @@ he added one *before*. The instinct is the target, not the position.
 — 11 words, nothing attached. It is the best line of the session. Not a
 coincidence.**
 
-### 2. Zero deliberate pauses — 8 for 8
-`deliberate_count = 0` in every take recorded to date. Closest approach: 0.76s
-(s3), against a 0.8s bar. He has never once held a silence of 0.8s+ *inside* his
+### 2. Zero deliberate pauses — 9 for 9
+`deliberate_count = 0` in every take recorded to date, now including the first
+on-camera take (8-18 youtube). Closest approaches: 0.76s (s3, and again 8-18),
+against a 0.8s bar. He has never once held a silence of 0.8s+ *inside* his
 speech. He does hold silence *before* speaking (see Resolved #2), which is why
-this looks better in the wall-clock WPM than it is.
+this looks better in the wall-clock WPM than it is. On camera this is even more
+costly: gaze is already at 100%, so a held silence would read as pure command —
+the one asset that would make his pauses land is already in place and unused.
 
 ### 3. Tempo — never actually solved
 `wpm_speaking` (articulation rate, added at the end of this session) tells the
 true story that `wpm_overall` was hiding:
 
-`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222`
+`218 → 264 → 176 → 249 → 246 → 214 → 193 → 222 → 168` (last = 8-18 youtube)
 
-No trend. He has never entered the 110–150 power zone at the articulation level.
-Every apparent "slowdown" was lead-in silence deflating the wall-clock figure.
+No trend, but 168 is his slowest articulation yet and the first time he's been
+within striking distance of the 110–150 power zone. Still above it, still one
+speed with no contrast, but the on-camera setting pulled him down. Every apparent
+"slowdown" was lead-in silence deflating the wall-clock figure.
 **This is the top priority and it has never been genuinely drilled.**
 
 ### 4. Minimizers on heavy content
@@ -94,10 +99,21 @@ Smile drops to ~0.0 exactly when the warm or vulnerable sentence lands
 **Exception, and he got it right:** s4-layer3-2, flat face on her disclosure —
 that was correct congruence. He can read the room down; he struggles to come
 back up (s12: she laughed, he stayed at 0% smile with posture collapsing).
+**On-camera confirmation (8-18):** flat face (smile 0.00) across the entire value
+promise at 4.6–9.6s; the only genuine Duchenne smile (0.81) arrived late, on the
+payoff word "crazy" at 13.3s. Same tell, new medium — he gates warmth to the last
+beat instead of spending it on the line that needs it.
 
 ### 6. Stacked questions
 Asks two questions back to back, so only the second gets answered
 (s1-take1, s3). Fewer questions, more silence.
+
+### 7. Zero gesture on camera (new, 1 data point)
+`gesture_active_pct = 0.0` for the entire first on-camera take, including a
+"buckle up, things are going to get crazy" energy line. Body says calm while
+words claim crazy — a physical-energy channel left completely unspent. Watch
+whether this holds across takes; if it does, promote it. Stillness reads as
+composure in networking, but on camera a hype line with no hands is flat.
 
 ---
 
@@ -133,3 +149,9 @@ Took five takes; now does it, and uses hers.
   memorable. The raw material is there; the discipline around it is the work.
 - **He takes correction and applies it inside one session.** Filler and padding
   both moved on the take immediately following the note.
+- **Camera connection is elite out of the gate.** First on-camera take posted
+  gaze 100% to lens with stability 100 (target is 70%). The single hardest
+  on-camera skill, maxed on the first baseline. This is the vehicle that will
+  make his pauses land — silence + locked eyes reads as command, not as a gap.
+- **Posture is climbing.** Personal-best uprightness 0.89 (prior best 0.82),
+  rising +0.08 through the take. Steadiest channel is getting stronger.
