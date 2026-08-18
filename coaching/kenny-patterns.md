@@ -5,7 +5,7 @@ instead of rediscovering the same habits. **Read this before writing any report.
 Update it at the end of every session: promote a fixed habit to *Resolved*, add
 anything that shows up twice.
 
-Last updated: 2026-08-18 (on-camera / youtube, 7 takes — plateau broken, first 80 on T7)
+Last updated: 2026-08-18 (on-camera / youtube, 8 takes — holding 80; script-drift diagnosed)
 
 ## THE CENTRAL FINDING of 8-18 (read this first)
 
@@ -14,16 +14,35 @@ an 80s hook but never more than a subset at once (the documented "trades channel
 instead of stacking them" ceiling). **On T4 he broke it — first take with a
 deliberate pause AND an active gesture together, melody at 100.**
 
-| | T1 | T2 | T3 | T4 | T5 | T6 | T7 |
-|---|---|---|---|---|---|---|---|
-| score | 69 | 78 | 77 | 79 | 78 | 77 | **80** |
-| deliberate pause | 0 | 1 | 0 | 1 | 1 | 1 | 1 |
-| anxious gaps | 1 | 0 | 1 | 1 | 0 | 2 | **0** |
-| wpm_speaking | 168 | 136 | 161 | 168 | 158 | 152 | **150** |
-| gesture % | 0 | 0 | 47 | 68 | 73 | 78 | 70 |
-| sway | 25 | 14 | 19 | 33 | 35 | 35 | 28 |
-| final-drop % | 100 | 100 | 100 | 100 | 100 | 50 | **33** |
-| smile % | 10.6 | 36 | 21 | 23 | 18.9 | 12.7 | **30.9** |
+| | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 |
+|---|---|---|---|---|---|---|---|---|
+| score | 69 | 78 | 77 | 79 | 78 | 77 | 80 | 80 |
+| deliberate pause | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 1 |
+| anxious gaps | 1 | 0 | 1 | 1 | 0 | 2 | 0 | 0 |
+| wpm_speaking | 168 | 136 | 161 | 168 | 158 | 152 | 150 | **132** |
+| lead-in s | 1.46 | ~1.5 | ~1.4 | 0.88 | 0.98 | 1.39 | 1.42 | **0.69** |
+| gesture % | 0 | 0 | 47 | 68 | 73 | 78 | 70 | 76 |
+| posture Δ | +.14 | -.01 | 0 | -.01 | -.07 | +.10 | +.01 | **-.10** |
+| final-drop % | 100 | 100 | 100 | 100 | 100 | 50 | 33 | **100** |
+| smile % | 10.6 | 36 | 21 | 23 | 18.9 | 12.7 | 30.9 | 29.1 |
+
+**T8: fixed the endings brilliantly (final-drop 33 → 100) and hit his best tempo
+since T2 (132, deep in zone), and KEPT the warmth (29%) — first time he added a
+win without trading the last one back. But posture collapsed −0.10 (rushed 0.69s
+entrance → no base → slump) and he lost the T7 "mirror writing." period again.**
+
+**THE DIAGNOSIS that explains all 8 takes: script drift.** He has reworded the
+15-second hook on EVERY take — "the number one thing" vs "one of the best things"
+vs "one of the most powerful techniques"; "get crazy in here" vs "heat up";
+"buckaroo" appearing T8. So structural wins (the period reveal, cutting padding,
+the endings) keep appearing and vanishing because the content is a moving target —
+he drills delivery and rewrite simultaneously and can never stack. **He has now
+demonstrated every single component of an 82+ take (breath-before T1–7, period-
+reveal T7, warmth T7–8, power-zone tempo T2/T8, endings-down T8, tall posture
+T1–3) — just never all at once.** Next lever is NOT a new note: lock ONE script,
+run an integration take with a 4-item checklist of things he's each already
+nailed. Coaching principle confirmed twice now (warmth pivot T7, this): at this
+stage he needs consolidation and get-out-of-head cues, not more dials.
 
 **PLATEAU BROKEN on T7 (first 80) — the warmth-first pivot was the key.** After
 four takes stuck at 77–79 trading channels, one holistic "enjoy the line, smile
